@@ -1,9 +1,19 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import json from '../data/hymnal-data.json'
+</script>
+
+<script>
+export default {
+  data() {
+    return {
+      hymnalData: json
+    }
+  }
+}
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    {{  }}
   </main>
 </template>
