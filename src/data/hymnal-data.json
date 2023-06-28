@@ -1,0 +1,30 @@
+[
+  {
+    "number": 1,
+    "title": "TRIVIENIO DIEVO PALAIMINIMAS GYRIUS JAM",
+    "languages": {
+      "english": 7,
+      "russian": 4
+    },
+    "verses": [
+      [
+        "Tau šlovė, šlovė, o Tėve!",
+        "Tau šlovė, šlovė Sūnau!",
+        "Tau šlovė, šlovė o Dvasia!",
+        "O šlovė, Trejybe, Tau!"
+      ],
+      [
+        "Girkit Tėvą — Jis sumanė!",
+        "O Sūnus atliko tai!",
+        "Perdavė Dvasia šventoji!",
+        "Trise dirba vieningai!"
+      ]
+    ],
+    "chorus": [
+      "Girkim Dievą, girkim Dievą!",
+      "Jam šlovė, trys Viename!",
+      "Šlovinkime mūsų Dievą! ",
+      "Nuostabius Jo darbus skelbkime!"
+    ]
+  }
+]
