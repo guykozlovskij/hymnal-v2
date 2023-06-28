@@ -14,6 +14,8 @@ export default {
 
 <template>
   <main>
-    {{  }}
+    <div v-for="hymn in hymnalData" :key="hymn.number">
+      <button>{{ hymn.number }}</button>
+    </div>
   </main>
 </template>
