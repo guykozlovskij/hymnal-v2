@@ -14,6 +14,7 @@ export default {
 
 <template>
   <main>
+    <h1>Himnynas</h1>
     <div v-for="hymn in hymnalData" :key="hymn.number">
       <button @click="$router.push(`/hymns/${hymn.number}`)" role="link">{{ hymn.number }}</button>
     </div>
