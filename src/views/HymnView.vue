@@ -14,7 +14,9 @@ export default {
 
 <template>
   <div>
-    <h1>Hymn number {{ hymnData.number }} </h1>
-    <h2>Hymn title: {{ hymnData.title}}</h2>
+    <h1>{{ hymnData.number }}. {{ hymnData.title}}</h1>
+    <div v-for="verse in hymnData.verses" :key="verse.id">
+      <p>{{verse}}</p>
+    </div>
   </div>
 </template>
