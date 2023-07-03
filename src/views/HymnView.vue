@@ -13,7 +13,7 @@ export default {
 </script>
 
 <template>
-  <div>
+  <section class="hymn-view">
     <h1>{{ hymnData.number }}. {{ hymnData.title }}</h1>
     <div>
       <span v-for="line in hymnData.verses[0]" :key="line.id">
@@ -24,7 +24,6 @@ export default {
       <br>
     </div>
     <div>
-      <span>Priedainis:</span>
       <br>
       <span v-for="line in hymnData.chorus" :key="line.id">
         {{ line }}
@@ -43,5 +42,5 @@ export default {
       <!-- TODO: remove breakline -->
       <br>
     </div>
-  </div>
+  </section>
 </template>        

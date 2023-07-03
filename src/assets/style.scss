@@ -1,3 +1,31 @@
 * {
-  // background-color: red;
+  background-color: whitesmoke;
+}
+
+#home-view {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  h1 {
+    font-size: 30px;
+    color: #293339;
+  }
+  #hymn-list {
+    display: flex;
+    .hymn-select-button {
+      font-size: 20px;
+      width: 30px;
+      height: 30px;
+      margin-left: 2px;
+      margin-right: 2px;
+    }
+  }
+}
+
+.hymn-view {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
