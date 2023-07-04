@@ -15,8 +15,13 @@ export default {
 
 <template>
   <section class="hymn-view">
-    <h1>{{ hymnData.number }}. {{ hymnData.title }}</h1>
-    <div>
+    <!-- TODO investigate IDs-->
+    <div id="hymn-intro">
+      <h4>{{ hymnData.number }}. {{ hymnData.title }}</h4>
+      <h4 v-if="hymnData['sub-title']">{{ hymnData['sub-title'] }}</h4>
+      <h4>(R{{ hymnData.languages.russian }}, A{{ hymnData.languages.english }})</h4>
+    </div>
+    <div id="verses">
       <ol class="verse-one">
         <li class="hymn-verse">
           <span v-for="line in hymnData.verses[0]" :key="line.id">
