@@ -25,27 +25,34 @@
 
 .hymn-view {
   display: flex;
-  align-items: center;
   justify-content: center;
   flex-direction: column;
-}
-.hymn-chorus {
-  margin-bottom: 15px;
+  align-items: center;
+  .hymn-verse {
+    margin-bottom: 15px;
+  }
+  .verse-one {
+    margin-bottom: 0px;
+  }
+  .hymn-chorus {
+    position: relative;
+    left: 10px;
+    margin-bottom: 15px;
+    font-style: italic;
+  }
+  .remaining-verses{
+    margin-top: 0px;
+  }
+  ol {
+    padding-left: 0;
+    padding-top: 0px;
+  }
 }
 
-.hymn-verse {
-  margin-bottom: 15px;
-}
 
-.verse-one {
-  padding-left: 0;
-  margin-bottom: 0px;
-}
 
-.remaining-verses{
-  margin-top: 0px;
-}
 
-ol {
-  padding-top: 0px;
-}
+
+
+
+
