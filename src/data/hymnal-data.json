@@ -159,7 +159,6 @@
   {
     "number": 4,
     "title": "TĖVO GARBINIMAS UŽ JO NEMIRTINGUMĄ",
-    "sub-title": "",
     "languages": {
       "russian": 10,
       "english": 14
@@ -197,13 +196,11 @@
         "Didingas Tu, Dieve, Tavy dienos mūs.",
         "Mes garbinsim Tave, o Tėve brangus."
       ]
-    ],
-    "chorus": []
+    ]
   },
   {
     "number": 5,
     "title": "TĖVO GARBINIMAS UŽ JO ŠVENTUMĄ",
-    "sub-title": "",
     "languages": {
       "russian": 18,
       "english": 22
@@ -247,13 +244,11 @@
         "Iki žemės pakraščių net",
         "„Šventas Tu“ giedosime."
       ]
-    ],
-    "chorus": []
+    ]
   },
   {
     "number": 6,
     "title": "TĖVO GARBINIMAS UŽ JO NAUJUMĄ",
-    "sub-title": "",
     "languages": {
       "russian": 12,
       "english": 16
@@ -314,7 +309,6 @@
   {
     "number": 7,
     "title": "TĖVO GARBINIMAS JO DIDYBĖ",
-    "sub-title": "",
     "languages": {
       "russian": 13,
       "english": 17
@@ -357,9 +351,6 @@
   {
     "number": 8,
     "title": "KAS APSAKYS DIDYBĘ JO",
-    "sub-title": "",
-    "hymnal.net-url": "",
-    "melody-url": "",
     "verses": [
       [
         "Kas apsakys didybę Jo ir valdžią pamatuos,",
@@ -377,7 +368,6 @@
   {
     "number": 9,
     "title": "TĖVO GARBINIMAS JO MEILĖ",
-    "sub-title": "",
     "languages": {
       "russian": 26,
       "english": 30
@@ -433,13 +423,11 @@
         "Per amžius šlovinsim Tave",
         "Savose širdyse."
       ]
-    ],
-    "chorus": []
+    ]
   },
   {
     "number": 10,
     "title": "TĖVO GARBINIMAS UŽ JO ATPIRKIMĄ",
-    "sub-title": "",
     "languages": {
       "russian": 31,
       "english": 39
@@ -476,7 +464,6 @@
   {
     "number": 11,
     "title": "TĖVO GARBINIMAS JO ATPIRKIMAS",
-    "sub-title": "",
     "languages": {
       "russian": 32,
       "english": 40
@@ -513,12 +500,362 @@
         "Nes mes meilės pilni.",
         "Ir ugnis ta iš aukšto",
         "Uždegs mums širdis."
-      ],
-      "chorus": [
-        "Aleliuja! Šlovė Dievui!",
-        "Aleliuja! Amen!",
-        "Aleliuja! Šlovė Dievui!",
-        "Tave aukštinam!"
       ]
-    }
-  ]
+    ],
+    "chorus": [
+      "Aleliuja! Šlovė Dievui!",
+      "Aleliuja! Amen!",
+      "Aleliuja! Šlovė Dievui!",
+      "Tave aukštinam!"
+    ]
+  },
+  {
+    "number": 12,
+    "title": "TĖVO GARBINIMAS JO IŠPIRKIMAS",
+    "languages": {
+      "russian": 33,
+      "english": 41
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/41",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0041_full.mp3",
+    "verses": [
+      [
+        "Niekada mes nepavargsime kartoti tai:",
+        "Tėvui šlovė, Aleliuja!",
+        "Ir kiekvienas dvasioj girsime Tave linksmai:",
+        "Tėvui šlovė, Aleliuja!"
+      ],
+      [
+        "Meilės jūroj mes paskendę esame visi:",
+        "Tėvui šlovė, Aleliuja!",
+        "Ir malonę Tavo geriame kuri apsti:",
+        "Tėvui šlovė, Aleliuja!"
+      ],
+      [
+        "Iriamės į šlovę, nes taip sakė Viešpats mums:",
+        "Tėvui šlovė, Aleliuja!",
+        "Kad visa esybe savo žvelgtume į Jį:",
+        "Tėvui šlovė, Aleliuja!"
+      ],
+      [
+        "Naują giesmę Tau giedosime su padėka:",
+        "Tėvui šlovė, Aleliuja!",
+        "Nenustosim girti Gelbėtojo niekada:",
+        "Tėvui šlovė, Aleliuja!"
+      ]
+    ],
+    "chorus": [
+      "Viešpaties vaikų šimtai giesmę gieda Tau linksmai,",
+      "Iš šlovės į šlovę Jis taip parves mus sūnumis.",
+      "Ir visi mes su džiaugsmu, skubam pas Karalių:",
+      "Tėvui šlovė, Aleliuja!"
+    ]
+  },
+  {
+    "number": 13,
+    "title": "TĖVO GARBINIMAS JO IŠAUKŠTINIMAS",
+    "verses": [
+      [
+        "Štai į Tave žvelgiu,",
+        "O Dieve Visagali!",
+        "Aš šlovinu Tave, lenkiuosi,",
+        "Giedu gyrių Tau.",
+        "O mano Amžinasis Tėve,",
+        "Garbinsiu Tave per amžius,",
+        "Tavo vardą aukštinsiu,"
+      ]
+    ]
+  },
+  {
+    "number": 14,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO VARDAS",
+    "languages": {
+      "russian": 52,
+      "english": 67
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/67",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0067_i.mp3",
+    "verses": [
+      [
+        "Šį vardą „Jėzus“ aš myliu",
+        "Kaip muzika jis man skambus",
+        "Jame aš džiaugsmą atrandu.",
+        "Saldus Jo vardas — Jėzus!"
+      ],
+      [
+        "Prisimena mane Jisai,",
+        "Dalijamės kartu vargais,",
+        "Jis nerimą pašalina.",
+        "Aš myliu Jėzaus vardą."
+      ],
+      [
+        "Šis vardas skamba taip švelniai",
+        "Man širdį džiugina Jisai.",
+        "Jį tariant dingsta ašaros:",
+        "Šlovinkim Jėzaus vardą."
+      ],
+      [
+        "Nėr žodžių viską išsakyt,",
+        "Koksai saldus man vardas šis.",
+        "Mes nepaliaujant šlovinsim",
+        "Viešpaties Jėzaus vardą."
+        
+      ]
+    ],
+    "chorus": [
+      "Jėzus — vardas man saldus",
+      "Jėzus — toks pats visados.",
+      "Jėzau, te šventieji Tau",
+      "Giedos per amžių amžius."
+    ]
+  },
+  {
+    "number": 15,
+    "title": "TĖVO GARBINIMAS",
+    "sub-title": "JO IŠPIRKIMAS",
+    "languages": {
+      "russian": 60,
+      "english": 79
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/79",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0079_i.mp3",
+    "verses": [
+      [
+        "Didingas ir šlovingas Tu,",
+        "Karalius Jėzus mūs.",
+        "Jis už žmoniją numirė,",
+        "Atpirko mus visus."
+      ],
+      [
+        "Aukščiau nėra jokių vardų,",
+        "Kaip Jėzaus Viešpaties.",
+        "Jis sėdi Dievo dešinėje,",
+        "Jo vardo šaukiamės."
+      ],
+      [
+        "Mums davė Gelbėtoją čia,",
+        "Pavergtiems nuodėmės.",
+        "Numatęs buvo gelbėti",
+        "Visus mus nuo mirties."
+      ],
+      [
+        "Jis užvaldys visas žemes",
+        "Ir karalystes.",
+        "Jis bus vaidinamas visų",
+        "Galinguoju Dievu."
+      ]
+    ],
+    "chorus": [
+      "Šlovink vardą šį, šlovink vardą šį.",
+      "Vardą Viešpaties šlovinki.",
+      "Šlovink vardą šį, šlovink vardą šį.",
+      "Vardą Viešpaties šlovinki."
+    ]
+  },
+  {
+    "number": 16,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO VARDAS",
+    "languages": {
+      "russian": 64,
+      "english": 1086
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1086",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1086_i.mp3",
+    "verses": [
+      [
+        "Koks tas vardas — Jėzus!",
+        "Toks didis yra jis mums.",
+        "Danguje ir žemėje nėra aukščiau jo.",
+        "Vardą šį įkvėpsim mes —",
+        "Tamsa pranyks, mirtis išnyks,",
+        "Nes sugrįžta Viešpats Jėzus vėl pas mus."
+      ],
+      [
+        "Džiaugiamės visa širdim",
+        "Šlovė mūs Tėvui — Amen!",
+        "Išpažįstam Tavo vardą, Viešpatie.",
+        "Atiduoti gyrių Tau —",
+        "Tai pasimėgavimas mums.",
+        "O, mes mylim, Jėzau, šaukiamės Tavęs!"
+      ]
+    ]
+  },
+  {
+    "number": 17,
+    "title": "AŠ GYVENAU TUŠČIAI",
+    "verses": [
+      [
+        "Aš gyvenau tuščiai, ir tikslo nemačiau,",
+        "Kol išgirdau Tą žinią, kad yra kažkas daugiau.",
+        "Pradžioje netikėjau — taip paprastai išėjo..."
+      ],
+      [
+        "Vėliau, pabandęs tyliai, pakviesti Jį vardu",
+        "Pasijutau lyg sunkus ligonis tapęs vėl sveiku.",
+        "Versmė gyvybės teka ir skatina mane..."
+      ],
+      [
+        "Vos tik pakvietęs Jėzų, ramybę pajutau.",
+        "Jisai mane pripildė, Jėzaus vardą sušukau!",
+        "Anksčiau net nesvajojau pajaust tikrovę Jo..."
+        
+      ],
+      [
+        "Dabar esu laimingas, patenkintas su Juo.",
+        "Mana dvasia džiaugsminga ir maitinasi tik Juo.",
+        "Gyvybės medis auga, todėl dabar tereikia..."
+      ]
+    ],
+    "chorus": [
+      "Ištarti Jo Vardą: „O, Jėzau“",
+      "Sakyti: „Amen“ Jo šlovėj,",
+      "Pripildyti dvasią gyvybe —",
+      "Dievo gyvybė manyje,",
+      "Užliejanti visa manyje,",
+      "Dievo gyvybė manyje!"
+    ]
+  },
+  {
+    "number": 18,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "UŽ JO ĮSIKŪNIJIMĄ",
+    "languages": {
+      "russian": 66,
+      "english": 82
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/82",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0082_i.mp3",
+    "verses": [
+      [
+        "Palikęs šlovę ir dangaus gerovę,",
+        "Jėzus atėjo čia išgelbėti mane.",
+        "Ėdžiose gimęs ir daug vargo matęs;",
+        "Liūdesio, ašarų, kančių Žmogus."
+      ],
+      [
+        "Malonės Dievas atpirkimo dieną,",
+        "Tamsios mirties skausme atidavė Save.",
+        "Jis rūpestingas, jautrus, galingas,",
+        "Jis prisikėlė — aš esu Jame."
+      ],
+      [
+        "Žemiškam kūne Dievas Savo Sūnų",
+        "Sutiko paaukot, mums laisvę dovanot.",
+        "Golgotoj miręs ir prisikėlęs!",
+        "Dabar žinau Tu Didis „Aš Esu“."
+      ]
+    ],
+    "chorus": [
+      "Kaip aš Jį myliu, kaip aš Jį myliu!",
+      "Mano alsavimas mano šviesa.",
+      "Didis Kūrėjas mane laimėjo,",
+      "Dievo pilnatvė gyva jame."
+    ]
+  },
+  {
+    "number": 19,
+    "title": "GYRIUS VIEŠPAČIUI",
+    "sub-title": "UŽ JO ĮSIKŪNIJIMĄ",
+    "languages": {
+      "russian": 67,
+      "english": 84
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/84",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0084_i.mp3",
+    "verses": [
+      [
+        "Angelai paskelbė mums:",
+        "Štai Karalius gimė jums.",
+        "Jis sutaikins su Dievu",
+        "Žmones nuodėmingus.",
+        "Visos tautos, štai pakilkit,",
+        "Ir su angelais Jį girkit.",
+        "Mes Betliejui giedame,",
+        "Nes mūs Kristus gimė čia.",
+        "Mes Betliejui giedame,",
+        "Nes mūs Kristus gimė čia."
+      ],
+      [
+        "Kristų lemta šlovint mums:",
+        "Dievas Amžinas Jis mus.",
+        "Iš mergelės, iš tyros",
+        "Gimęs amžių pabaigoj.",
+        "Dievas Pats kūne atėjo",
+        "Ir dėl mūsų daug kentėjo.",
+        "Dievo noras buvo toks:",
+        "Su žmogum būt nuolatos.",
+        "Dievo noras buvo toks:",
+        "Su žmogum būt nuolatos."
+      ],
+      [
+        "Kad įvykdyt sandorą,",
+        "Atėjai į žemę šią.",
+        "Iš dangaus nužengęs Tu,",
+        "Prisikėlei dėl visų.",
+        "Tu gimei palikęs šlovę,",
+        "Mirties valdžią Tu sugriovei,",
+        "Kad pakelt mus Tu gimei,",
+        "Atgimimą mums davei.",
+        "Kad pakelt mus Tu gimei,",
+        "Atgimimą mums davei."
+      ],
+      [
+        "Šauksmą mūsų Tu išgirsk",
+        "Ir mumyse pasilik.",
+        "Dvasioje kaip sėkla auk.",
+        "Valdžią nuodėmės sugriauk.",
+        "Seną prigimtį ištrink,",
+        "Savo antspaudą palik.",
+        "Jėzau, Tu tapai Dvasia,",
+        "Dalini Save per Ją.",
+        "Jėzau, Tu tapai Dvasia,",
+        "Dalini Save per Ją."
+      ]
+    ]
+  },
+  {
+    "number": 20,
+    "title": "GYRIUS VIEŠPAČIUI",
+    "sub-title": "UŽ JO DIEVIŠKUMĄ",
+    "languages": {
+      "russian": 46,
+      "english": 57
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/57",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0057_full.mp3",
+    "verses": [
+      [
+        "Tu Dievo atvaizdas esi,",
+        "O Viešpatie brangus.",
+        "Pilnatvę Dievo atnešei,",
+        "Davei pažint Jį mums."
+      ],
+      [
+        "Tu Dievo Žodis, Viešpatie.",
+        "Gyvybė mūsų Tu.",
+        "Tikrovė Tu esi čia mums,",
+        "Malonė mūs visų."
+      ],
+      [
+        "Tu — Dievo amžino Sūnus,",
+        "Tu — Dievo spindesys.",
+        "Esybe Dievo Tu esi,",
+        "Pats Dievas Tu esi."
+      ],
+      [
+        "Pats Dievas įsikūnijo,",
+        "Tu viena su Dievu.",
+        "Ir nieks negali taip išreikšt,",
+        "Kaip Jį išreiškei Tu."
+      ],
+      [
+        "Mes mėgaujamės Tavyje,",
+        "Gyvybe mūs esi.",
+        "Mes giriam Tėvą ir Tave,",
+        "Mes gyriaus kupini."
+      ]
+    ]
+  }
+]
