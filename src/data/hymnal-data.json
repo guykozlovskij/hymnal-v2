@@ -157,9 +157,9 @@
     ]
   },
   {
-    "number": "4",
+    "number": 4,
     "title": "TĖVO GARBINIMAS UŽ JO NEMIRTINGUMĄ",
-    "sub-title": "https://www.hymnal.net/en/hymn/h/14",
+    "sub-title": "",
     "languages": {
       "russian": 10,
       "english": 14
@@ -251,43 +251,226 @@
     "chorus": []
   },
   {
-    "number": "",
+    "number": 6,
     "title": "TĖVO GARBINIMAS UŽ JO NAUJUMĄ",
     "sub-title": "",
     "languages": {
-      "russian": 1,
-      "english": 1
+      "russian": 12,
+      "english": 16
     },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/16",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0016_full.mp3",
+    "verses": [
+      [
+        "Neblėstantis, Tu Tėvas mūs",
+        "Naujumas Tavyje.",
+        "Tu kaip rasa gaivinantis.",
+        "Pagirdai Tu mane."
+      ],
+      [
+        "Tave pažįstame visi",
+        "Ir vėl, ir vėl naujai.",
+        "Tu atgaivą visiems teiki.",
+        "Nors metai bėga greit."
+      ],
+      [
+        "Palaiminimus suteiki",
+        "Ir vėl, ir vėl naujus",
+        "Naujoji Sandora Tava",
+        "Atvėrė kelią mums."
+      ],
+      [
+        "Tu naują širdį mums davei",
+        "Ir dvasią atgimdei.",
+        "Dabar mes esame visi",
+        "Naujajam Kūriny."
+      ],
+      [
+        "Atnaujini Tu, Tėve, mus —",
+        "Kas sena naikini.",
+        "Kiekvieną dieną naują Tu",
+        "Gyvybę suteiki."
+      ],
+      [
+        "Dangus ir žemė bus nauji.",
+        "Ir viskas nauja bus",
+        "Gyvybės medis duos vaisius",
+        "Per ištisus metus."
+      ],
+      [
+        "Naujumas Tavo amžinas.",
+        "Tu Naujas visame.",
+        "Nauja giesme mes girsime",
+        "Per amžius tik Tave."
+      ]
+    ],
+    "chorus": [
+      "Tu nesikeičiantis Tėvas,",
+      "Tu jaunas amžinai.",
+      "Per amžius atskleidi Save",
+      "Naujovėj nuostabioj."
+    ]
+  },
+  {
+    "number": 7,
+    "title": "TĖVO GARBINIMAS JO DIDYBĖ",
+    "sub-title": "",
+    "languages": {
+      "russian": 13,
+      "english": 17
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/17",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0017_full.mp3",
+    "verses": [
+      [
+        "O Tėve, kai žiūriu į kūriniją.",
+        "Į dangų, žemę ir jų stebuklus.",
+        "Suvokti mums gebėjimo pristinga —",
+        "Tu taip apreiški Savo jėgą mums."
+      ],
+      [
+        "Priimdamas malonę Tavo, Tėve.",
+        "Galvoju apie Tavo Sūnų aš.",
+        "Jis mirė, kad Naujasis Kūrinys Jo",
+        "Gyvybę teiktų Jo pilnatvėje."
+      ],
+      [
+        "Susirinkime, Jo malonėj būnant,",
+        "Matau, kad gyvas daugelyje Tu.",
+        "Ir šitaip ugdoma Bažnyčia Tavo.",
+        "Ir iš vidaus per mus reiškiesi Tu."
+      ],
+      [
+        "Nauja Jeruzale visi mes būsim.",
+        "Pilnatvės amžiaus laukiam su džiaugsmu.",
+        "Ir su naujaisiais dangumi ir žeme —",
+        "Mes tapsime Tavu išreiškimu."
+      ]
+    ],
+    "chorus": [
+      "Mana dvasia štai gieda, Tėve, Tau.",
+      "Koks Didis Tu, koks nuostabus!",
+      "Ir amžinai giedosim giesmę šią:",
+      "Koks Didis Tu, koks nuostabus."
+    ]
+  },
+  {
+    "number": 8,
+    "title": "KAS APSAKYS DIDYBĘ JO",
+    "sub-title": "",
     "hymnal.net-url": "",
     "melody-url": "",
     "verses": [
       [
-  
+        "Kas apsakys didybę Jo ir valdžią pamatuos,",
+        "Jis trykšta gyvybės jėga!",
+        "Priklaups karaliai žemės šios ir Jėzaus",
+        "vardui nusilenks, šaltiniui Meilės ir Šviesos! }2k",
+        "Kas apsakys didybę Jo.",
+        "Kas apsakys Meilę Kristaus Viešpaties?",
+        "Kas apsakys didybę Jo?",
+        "Kas apsakys šviesą Jo?",
+        "Kas apsakys meilę Kristaus?"
+      ]
+    ]
+  },
+  {
+    "number": 9,
+    "title": "TĖVO GARBINIMAS JO MEILĖ",
+    "sub-title": "",
+    "languages": {
+      "russian": 26,
+      "english": 30
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/30",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0030_full.mp3",
+    "verses": [
+      [
+        "O, kokią meilę mums davei!",
+        "Dėkojam Tau išties.",
+        "Tau, Tėve, lenkiamės žemai,",
+        "Dėkojam iš širdies."
       ],
       [
-  
+        "Atvėrei Savo tikslą mums.",
+        "Sumanymą širdies.",
+        "Save apreiškei Sūnuje.",
+        "Tu mus vedi išties."
       ],
       [
-  
+        "Tu brangų Sūnų mums davei —",
+        "Jis numirė už mus,",
+        "Kad taptume mes sūnumis,",
+        "Paveldėję turtus."
       ],
       [
-  
+        "Gyvybę turime Jame.",
+        "Tu Tėvu mūs tapai.",
+        "Esybę Savo ir Save",
+        "Tu mums atidavei."
       ],
       [
-  
+        "Tava Dvasia mūs dvasioje.",
+        "Tau „Abba“ šaukiame.",
+        "Mes gimę esame Jame.",
+        "Į Jį mes keičiamės."
       ],
       [
-  
+        "Šlovėn atvesti sūnus Tu —",
+        "To troškai visada.",
+        "Mes tapsim atvaizdu Sūnaus",
+        "Duota Tava jėga."
       ],
       [
-  
+        "Tu atmainysi mus visus —",
+        "Kiekvienas tau brangus.",
+        "Atvesi Tu į šlovę mus",
+        "Mes tikim iš tiesų."
       ],
       [
-  
+        "O, kokią meilę suteikei!",
+        "Mes Tau dėkojame!",
+        "Per amžius šlovinsim Tave",
+        "Savose širdyse."
+      ]
+    ],
+    "chorus": []
+  },
+  {
+    "number": 10,
+    "title": "TĖVO GARBINIMAS UŽ JO ATPIRKIMĄ",
+    "sub-title": "",
+    "languages": {
+      "russian": 31,
+      "english": 39
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/39",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0039_full.mp3",
+    "verses": [
+      [
+        "Kas gali daugiau atiduot negu Jis:",
+        "Dėl mūsų atidavė Sūnų numirt.",
+        "Krauju Jis Savuoju nuplovė visus,",
+        "Gyvenimo tikro atkėlė vartus."
+      ],
+      [
+        "Atpirko visus mus brangiuoju krauju.",
+        "„Tikėk“ — Viešpats sako Savuoju Žodžiu.",
+        "Nors tu nuodėmėj, nebėra tau vilties,",
+        "Jo šaukis, tada nebeliks jau kaltės."
+      ],
+      [
+        "Kas gali daugiau atiduot negu Jis:",
+        "Per Sūnų palaimą mes turim visi.",
+        "Bet džiaugsmas tada neturės jau ribų,",
+        "Kada susitiksime su Viešpačiu."
       ]
     ],
     "chorus": [
-  
+      "Tau šlovė! Tau šlovė! Te išgirsta Tave!",
+      "Tau šlovė! Tau šlovė! Džiaugias žemė visa!",
+      "Ateikit per Sūnų, šlovė Tėvui Jo!",
+      "Nuostabūs darbai, ką atliko Jisai!"
     ]
   }
 ]

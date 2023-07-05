@@ -17,7 +17,7 @@ export default {
     <div class="hymn-intro">
       <h4>{{ hymnData.number }}. {{ hymnData.title }}</h4>
       <h4 v-if="hymnData['sub-title']">{{ hymnData['sub-title'] }}</h4>
-      <h4>(R{{ hymnData.languages.russian }}, A{{ hymnData.languages.english }})</h4>
+      <h4 v-if="hymnData['languages']">(R{{ hymnData.languages.russian }}, A{{ hymnData.languages.english }})</h4>
     </div>
     <audio v-if="hymnData['melody-url']" class="hymn-mp3" controls="" autostart="false" preload="none" name="media">
       <source v-bind:src="hymnData['melody-url']" type="audio/mpeg">
