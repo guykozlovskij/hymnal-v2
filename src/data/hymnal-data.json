@@ -857,5 +857,119 @@
         "Mes gyriaus kupini."
       ]
     ]
+  },
+  {
+    "number": 21,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO IŠAUKŠTINIMAS",
+    "languages": {
+      "russian": 97,
+      "english": 132
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/132",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0132_full.mp3",
+    "verses": [
+      [
+        "Atsisėdo Jėzus sostan,",
+        "Mūsų Viešpats danguje.",
+        "Taip išaukštintas Jis Dievo,",
+        "Vainikuotas Jo Šlove."
+      ],
+      [
+        "Kaip žmogus pas mus atėjo",
+        "Dievo siųstas mirti čia.",
+        "Šis žmogus išaukštintasis",
+        "Prisikėlė šlovėje."
+      ],
+      [
+        "Dievas Pats Jame gyveno,",
+        "Apsireiškė žmoguje.",
+        "Taip išaukštino Jis žmogų",
+        "Ir dabar jie taikoje."
+      ],
+      [
+        "Susiliejo su žmogum Jis,",
+        "Apsireiškė žmoguje.",
+        "Susiliejęs su žmogum Jis",
+        "Taip dalinasi šlove."
+      ],
+      [
+        "Ir danguj pašlovintasis —",
+        "Jis sugrįžo kaip Dvasia,",
+        "Ką Jis turi, ką įvykdė",
+        "Visa tai paskelbė čia."
+      ],
+      [
+        "Mes lygiuojamės į Kristų,",
+        "Ir Bažnyčia spindi Juo.",
+        "Jo Dvasia mus šiandien ugdo,",
+        "Veda mus šlovės keliu."
+      ],
+      [
+        "Štai dabar Valdovas mūsų",
+        "Atsisėdo sostan Jis.",
+        "Kristus — Gelbėtojas mūsų",
+        "Šlove vainikuotas Jis."
+      ]
+    ]
+  },
+  {
+    "number": 22,
+    "title": "GYRIUS VIŠPAČIUI",
+    "sub-title": "UŽ JO ŽMOGIŠKUMĄ",
+    "languages": {
+      "russian": 49,
+      "english": 62
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/62",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0062_full.mp3",
+    "verses": [
+      [
+        "Šlovinam Tave mes, Jėzau,",
+        "„Moters Sėkla“ Tu tapai.",
+        "Ir gimei Tu iš mergelės,",
+        "Tu dėl mūs Žmogum tapai.",
+        "Žmogiškąja prigimtim Tu",
+        "Tą Gyvatę pagavai.",
+        "Kryžium galvą jai sutraiškei,",
+        "Dievo planą įvykdei."
+      ],
+      [
+        "Įsikūnijai į žmogų,",
+        "Kūnu ir krauju tapai.",
+        "Tu už mus visus kentėjai,",
+        "Priešą Tu sutriuškinai.",
+        "Jėzumi Tave vadino,",
+        "Šaukė Emanueliu.",
+        "Gelbėtojas mūs brangiausias,",
+        "Laisvę dovanojai Tu."
+      ],
+      [
+        "„Paskutinis Tu Adomas“",
+        "„Žmogumi antru“ tapai.",
+        "Naująją Tu Kūriniją",
+        "Amžina valdžia valdai.",
+        "Ir Žmogaus Sūnum tapai",
+        "Tu žemėje gyvendamas,",
+        "Pasilieki Žmogumi Tu,",
+        "Nors esi ir danguje."
+      ],
+      [
+        "Dievo paskirtu laiku Tu",
+        "Grįši, Viešpatie, pas mus.",
+        "Šlovėje Tave išvysim:",
+        "Dievo išraiška — Žmogus.",
+        "Kaip Žmogaus Sūnus ateisi,",
+        "Teismo sostan sėsi Tu.",
+        "Žmogumi per amžius liksi,",
+        "Nors ir būsi Tu Dievu."
+      ]
+    ],
+    "chorus": [
+      "Tavo puikume mes",
+      "Matom Dievo šlovę,",
+      "Ir visa pilnatvė Dievo",
+      "Buvo Žmoguje."
+    ]
   }
 ]
