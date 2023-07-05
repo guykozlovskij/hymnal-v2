@@ -29,15 +29,19 @@
   align-items: center;
   margin-top: 30px;
   margin-bottom: 30px;
-  #hymn-intro {
+  .hymn-intro {
     text-align: center;
+    padding-bottom: 15px;
     h3,
     h4 {
       margin-bottom: 0px;
       margin-top: 0px;
     }
   }
-  #verses {
+  .hymn-mp3::-webkit-media-controls-panel {
+    background-color: #4e4e4e69;
+  }
+  .verses {
     position: relative;
     left: 20px;
     .hymn-verse {
