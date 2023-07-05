@@ -472,5 +472,53 @@
       "Ateikit per Sūnų, šlovė Tėvui Jo!",
       "Nuostabūs darbai, ką atliko Jisai!"
     ]
-  }
-]
+  },
+  {
+    "number": 11,
+    "title": "TĖVO GARBINIMAS JO ATPIRKIMAS",
+    "sub-title": "",
+    "languages": {
+      "russian": 32,
+      "english": 40
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/40",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0040_full.mp3",
+    "verses": [
+      [
+        "Tau dėkojam visi,",
+        "Tėve, Sūnų davei.",
+        "Tik per Jį atpirkti,",
+        "Nes Tu mus pamilai."
+      ],
+      [
+        "Kristus Gelbėtojas —",
+        "Tavo meilės Sūnus.",
+        "Jau išaukštintas Jis,",
+        "Nes Jis mirė už mus."
+      ],
+      [
+        "Tu šlovingas esi,",
+        "Davei Dvasią šviesos.",
+        "Ji apreiškė mums Kristų —",
+        "Neliko tamsos."
+      ],
+      [
+        "Tėvą šloviname,",
+        "Kurs pamilo taip mus.",
+        "Jėzaus išpirkimu",
+        "Meilę rodo Jis mums."
+      ],
+      [
+        "Vėl mes giriam Tave,",
+        "Nes mes meilės pilni.",
+        "Ir ugnis ta iš aukšto",
+        "Uždegs mums širdis."
+      ],
+      "chorus": [
+        "Aleliuja! Šlovė Dievui!",
+        "Aleliuja! Amen!",
+        "Aleliuja! Šlovė Dievui!",
+        "Tave aukštinam!"
+      ]
+    }
+  ]
