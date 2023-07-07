@@ -600,7 +600,6 @@
         "Koksai saldus man vardas šis.",
         "Mes nepaliaujant šlovinsim",
         "Viešpaties Jėzaus vardą."
-        
       ]
     ],
     "chorus": [
@@ -700,7 +699,6 @@
         "Vos tik pakvietęs Jėzų, ramybę pajutau.",
         "Jisai mane pripildė, Jėzaus vardą sušukau!",
         "Anksčiau net nesvajojau pajaust tikrovę Jo..."
-        
       ],
       [
         "Dabar esu laimingas, patenkintas su Juo.",
@@ -970,6 +968,420 @@
       "Matom Dievo šlovę,",
       "Ir visa pilnatvė Dievo",
       "Buvo Žmoguje."
+    ]
+  },
+  {
+    "number": 23,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO MEILĖ",
+    "languages": {
+      "russian": 114,
+      "english": 152
+    },
+    "hymnal.net-url": "https://hymnal.net/en/hymn/h/152",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0152_full.mp3",
+    "verses": [
+      [
+        "Nesuvokiama Tavoji meilė mums, o Viešpatie.",
+        "Gilumu jai neprilygsta net tamsiausioji gelmė.",
+        "Tik iš meilės Tu numiręs,",
+        "Atiduodi Save man;",
+        "Įsitvirtinti Tavyje,",
+        "Tavo dalelyte tapt."
+      ],
+      [
+        "Kas stebuklus apsakys šiuos ką Tu meilėje kuri?",
+        "Nuostabiausias šis stebuklas, kad Save man dalini.",
+        "Tavo meilė duoda viską",
+        "Kuo aprūpinti gali.",
+        "Aš galiu net semt gyvybę",
+        "Ir turtus tavus patirt."
+      ],
+      [
+        "Viešpatie, esi Tu meilė — nieks negali taip mylėt.",
+        "Tik iš Tavo meilės galim sunkumus mes nugalėt.",
+        "Ir gausi Tava malonė",
+        "Liejas per dienų dienas;",
+        "Suteiki mums tikrą meilę —",
+        "Koks saldus Tu visada."
+      ],
+      [
+        "Begalinė Tavo meilė — kas gi gali mus atsiet?",
+        "Tiktai tavo meilė gali amžiams mus kartu suliet.",
+        "Amžinybėj viena būsim;",
+        "Aš Tavy — Tu manyje",
+        "Ir patvirtinti galiu aš —",
+        "Esam viena meilėje."
+      ]
+    ]
+  },
+  {
+    "number": 24,
+    "title": "GYRIUS VIEŠPAČIUI",
+    "sub-title": "UŽ JO MEILĘ",
+    "languages": {
+      "russian": 116,
+      "english": 154
+    },
+    "hymnal.net-url": "https://www.himnynas.com/hymns/24.html",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0154_i.mp3",
+    "verses": [
+      [
+        "Negalime protu suvokti tai,",
+        "O Viešpatie, kaip Tu mus pamilai.",
+        "Bet norime pilnatvę meilės šios",
+        "Suvokti ją, nors jos negalim niekaip išmatuot."
+      ],
+      [
+        "Nėra kaip meiles Tavo išsakyt,",
+        "Nors siela bando vis dar pasakyt.",
+        "Ir nusidėjėliams paskelbsiu aš:",
+        "Jo meilė gelbsti, nebespaus jau nuodėmių našta."
+      ],
+      [
+        "Jo meilės neįmanoma išgirt,",
+        "Bet širdimi aš noriu tai patirt.",
+        "O Viešpatie, šis gyrius iš dangaus",
+        "Išsklaidė tamsą ir nuostabią šviesą pamačiau."
+      ],
+      [
+        "Nors šiandien pažinimo trūksta man,",
+        "Nesugebu Tau žodžių aš atrast.",
+        "Pripildyk mano indą Savimi,",
+        "Gyva versme Tu mano širdį nuolat atgaivink."
+      ],
+      [
+        "Jei tuščias indas, nebėra tėkmės;",
+        "Nei meiles žodžių, nieko nėr išties.",
+        "Bet drįstu aš ateiti pas Tave,",
+        "Šią teisę duoda Tavo meilė jau man išlieta."
+      ],
+      [
+        "O Viešpatie, uždeki širdį man!",
+        "Ir veski, nes sunku man eit pačiam.",
+        "Tikėjimu man troškulį malšink,",
+        "Nuo žemiškų šaltinių Tu mane, meldžiu, atskirk."
+      ],
+      [
+        "Kada regėsiu Tavo veidą aš,",
+        "Giedosiu, Viešpatie, aš giesmę šią.",
+        "Išaukštinsiu aš Tavo meilę mums:",
+        "Jos gylį, plotį, aukštį — nesuvokiama tai mums."
+      ]
+    ]
+  },
+  {
+    "number": 25,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": " UŽ JO GROŽĮ",
+    "languages": {
+      "russian": 123,
+      "english": 170
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/170",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0170_full.mp3",
+    "verses": [
+      [
+        "Viešpatie, puikus Jauniki,",
+        "Dievo duotas, mums brangus.",
+        "Patrauklus ir nuostabus Tu,",
+        "Mielas mūs visų širdims."
+      ],
+      [
+        "O Pamiltas, kas gi gali",
+        "Tavo grožį apsakyt?",
+        "Brangumu nieks neprilygsta —",
+        "Meilę saugosim širdy."
+      ],
+      [
+        "Tu puikiausias iš puikiųjų,",
+        "Tu šlovingas ir saldus.",
+        "Toks romus ir toks didingas —",
+        "Nieks negali Tau prilygt."
+      ],
+      [
+        "Mūsų rūbai pilni miros,",
+        "Lūpos šlovina Tave.",
+        "O išbandymuose, Tėve,",
+        "Apkabinam mes Tave."
+      ],
+      [
+        "Ir su šiuo džiaugsmo aliejum",
+        "Dievas patepė Tave,",
+        "Ir iš dramblio kaulo rūmų",
+        "Tau pakils šlovė visa."
+      ],
+      [
+        "Tu palaimintas per amžius,",
+        "Pasiekei Tu pergalę.",
+        "Šlovėje Tu karaliauji,",
+        "Valdžioje, didybėje."
+      ],
+      [
+        "Tu esi tautų troškimas,",
+        "Tu geriausias iš visų.",
+        "Tau giedosim gyrių amžiais —",
+        "Vertas juk esi tik Tu."
+      ]
+    ]
+  },
+  {
+    "number": 26,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "UŽ JO GROŽĮ",
+    "languages": {
+      "russian": 125,
+      "english": 172
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/172",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0172_i.mp3",
+    "verses": [
+      [
+        "Aš noriu, Viešpatie, Tavęs",
+        "Įkvėpti vėl ir vėl.",
+        "Kvepi labiau nei mira Tu,",
+        "Labiau nei tūkstančiai žiedų",
+        "Dangaus aromatu",
+        "Kvepi, o Jėzau Tu."
+      ],
+      [
+        "Aš negaliu savų akių",
+        "Atplėšti nuo Tavęs.",
+        "Tu mano širdį pavergei,",
+        "Ją Savimi įkalinai.",
+        "Koks nuostabus esi,",
+        "Koks nuostabus esi."
+      ],
+      [
+        "Tu mano Viešpats, draugas Tu,",
+        "Kaip man Tau atsiduot?",
+        "Nenoriu būti aš laisvu,",
+        "Aš noriu būt Tavu vergu",
+        "Ir amžiais Tau tarnaut,",
+        "Ir amžiais Tau tarnaut."
+      ],
+      [
+        "O, visko man neišdainuot,",
+        "Koksai esi saldus.",
+        "Širdis melodijų pilna,",
+        "Jos išsiliejo šia daina",
+        "Ir sielą džiugina,",
+        "Ir sielą džiugina."
+      ],
+      [
+        "O, visko man neišsakyt,",
+        "Kiek galima dar daug...",
+        "Kai Tu mane apkabini,",
+        "Visad Tu švelniai man tari:",
+        "Tau viskas bus gerai,",
+        "Tau viskas bus gerai."
+      ]
+    ]
+  },
+  {
+    "number": 27,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JIS VISA APIMANTIS",
+    "languages": {
+      "russian": 138,
+      "english": 190
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/190",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0190_full.mp3",
+    "verses": [
+      [
+        "Mąstydami apie Tave,",
+        "Tau lenkiamės, o Viešpatie.",
+        "Esi turtingas, nuostabus,",
+        "Visų širdims esi brangus."
+      ],
+      [
+        "Tu Dievas amžinos tiesos,",
+        "Šviesos ir meilės Dievas Tu.",
+        "Gyvybės Dievas mums esi,",
+        "Mūs siela mėgaujas Tavim."
+      ],
+      [
+        "Esi taip pat Tu ir Žmogus,",
+        "Toks tyras, geras, nuostabus.",
+        "Atidavė Tau Dievas mus —",
+        "Meilėj įkalintus vergus."
+      ],
+      [
+        "Tapai kukliu Dievo vergu,",
+        "Paklusęs Jam — tarnauti, mums.",
+        "Ant kryžiaus nuolankiai ėjai",
+        "Išpirkti nuo mirties visus."
+      ],
+      [
+        "Be to Karalius Tu esi,",
+        "Kad karaliaut gyvybėje.",
+        "Tu Dievo pateptas valdyt",
+        "Ir mes valdysime drauge."
+      ],
+      [
+        "Mąstydami apie Tave,",
+        "Mes turim dalį Tavyje.",
+        "Ir Tavo meile apgaubti",
+        "Mes būsime Tava žmona."
+      ]
+    ],
+    "chorus": [
+      "Patenkinti Tavim viskuo.",
+      "Širdy mes giriame Tave.",
+      "Pranoksti mūsų svajones,",
+      "Mes esam sotūs Tavyje."
+    ]
+  },
+  {
+    "number": 28,
+    "title": "GYRIUS VIEŠPAČIUI",
+    "sub-title": "",
+    "languages": {
+      "russian": 131,
+      "english": 181
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/181",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0181_i.mp3",
+    "verses": [
+      [
+        "Avinėliui Jo bažnyčioj:",
+        "Gyrius! Garbė!",
+        "Danguje Jam skamba himnai:",
+        "Gyrius! Garbė!",
+        "Griuvo žemiškieji sostai,",
+        "Šlovę Jam tik atiduosim,",
+        "Nepailstamai giedosim:",
+        "Gyrius! Garbė!"
+      ],
+      [
+        "Kas tik galit girkit Jėzų:",
+        "Gyrius! Garbe!",
+        "Giedam mūsų Atpirkėjui:",
+        "Gyrius! Garbė!",
+        "Lyg griaustinis aidi gyrius,",
+        "Tiktai Jam šlovė tekyla,",
+        "Ir per amžius nenutyla:",
+        "Gyrius! Garbė!"
+      ],
+      [
+        "Skamba kanklės Jėzaus šlovei:",
+        "Gyrius! Garbė!",
+        "Liejas Jo gausi malonė:",
+        "Gyrius! Garbė!",
+        "Sumokėjo mūsų skolą,",
+        "Nuodėmes krauju nuplovė,",
+        "Veda mus į Dievo šlovę:",
+        "Gyrius! Garbė!"
+      ],
+      [
+        "Sielvarte, skausme giedokit:",
+        "Gyrius! Garbė!",
+        "Juo tikėti nenustokit:",
+        "Gyrius! Garbė!",
+        "Šia nauja giesme visi mes",
+        "Gelbėtoją šlovinsime",
+        "Avinėlį girsime mes:",
+        "Gyrius! Garbė!"
+      ]
+    ]
+  },
+  {
+    "number": 29,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO PRISIMINIMAS",
+    "languages": {
+      "russian": 177,
+      "english": 1112
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1112",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0861_i.mp3",
+    "verses": [
+      [
+        "Štai šlovinga Viešpaties puota.",
+        "Viešpatie, Tu mūs Valdovas,",
+        "Gyveni Savuos namuos.",
+        "Štai Šlovinga Viešpaties puota."
+      ],
+      [
+        "Mums saldi ši Viešpaties puota.",
+        "Mes, šventieji, čia bendraujam.",
+        "Aleliuja! Paragaujam,",
+        "Koks saldumas Viešpaties puotos."
+      ],
+      [
+        "Puotą Viešpaties branginame.",
+        "Mes čia skelbiam Tavo mirtį.",
+        "Sielą norime palikti,",
+        "Duoną su vynu mes priimam."
+      ],
+      [
+        "Viešpaties puotos prasmė gili —",
+        "Mus, kaip Kūną, reiškia duona,",
+        "Ir mes skelbiame visatai:",
+        "Kūnas — Tavo meilės išraiška."
+      ],
+      [
+        "Viešpaties puota tokia gaivi,",
+        "Pasisotinam visi čia.",
+        "Po jos poreikių nelieka —",
+        "Atgaivina Viešpaties puota."
+      ],
+      [
+        "Žodžiai tie „Kol Jis pas mus sugrįš“ —",
+        "Pažadas, kuris mums duotas,",
+        "Per dienas jis teikia viltį —",
+        "Taip stiprybę semiam šioj puotoj."
+      ]
+    ],
+    "chorus": [
+      "Aleliuja, aleliuja! Mes su Juo puotaujame.",
+      "Aleliuja, aleliuja! Štai šlovinga Viešpaties puota."
+    ]
+  },
+  {
+    "number": 30,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO PRISIMINIMAS",
+    "languages": {
+      "russian": 163,
+      "english": 221
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/221",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0221_full.mp3",
+    "verses": [
+      [
+        "Ir už duoną, ir už vyną Viešpačiui dėkojame.",
+        "Pasimėgavimas mūsų ši puota Dievo duota.",
+        "Duona ši tai Tavo kūnas — atiduotas Tavo mums.",
+        "Geriam vyną — Tavo kraują,",
+        "Tu praliejai jį už mus."
+      ],
+      [
+        "Mirtimi Tu atpirkai mus, kad gyvybę perduotum.",
+        "Dovanoji Pats Save mums, kad Tave dalintume.",
+        "Duoną su taure priėmę Tavo mirtį garsinam.",
+        "Ir prisimenam mes Tave",
+        "Meiles kupinom širdim."
+      ],
+      [
+        "Mes šventieji laužom duoną — Kūną slaptą Viešpaties.",
+        "Ir tarpusavy bendraujam, Jis suvienijo išties.",
+        "Ir palaiminimo taurę mes palaiminsim dabar.",
+        "Dalininkai Tavo kraujo",
+        "Mes tikėjime vienam."
+      ],
+      [
+        "Tu per amžius mūs likimas, mes dabar jau džiaugiamės.",
+        "Karalystės Tavo laukiam, ir Tavęs sugrįžtančio.",
+        "Ir su tais, kur nugalėjo, atsiversi šlovėje.",
+        "Mes kaip Nuotaka ateisim",
+        "Švęsti Tavo puotoje."
+      ]
+    ],
+    "chorus": [
+      "Ši puota šventa mums, su ženklais šventaisiais,",
+      "Jų reikšmė šiandieną mums — neištiriama."
     ]
   }
 ]
