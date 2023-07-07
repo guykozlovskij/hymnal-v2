@@ -22,8 +22,9 @@ export default {
     <audio v-if="hymnData['melody-url']" class="hymn-mp3" controls="" autostart="false" preload="none" name="media">
       <source v-bind:src="hymnData['melody-url']" type="audio/mpeg">
     </audio>
+    <!--* Rendering an ordered list if there are multiple verses -->
     <div class="verses">
-      <ol class="verse-one">
+      <ol v-if="hymnData['verses'].length > 1" class="verse-one">
         <li class="hymn-verse">
           <span v-for="(line, index) in hymnData.verses[0]" :key="index">
             {{ line }}
@@ -31,6 +32,13 @@ export default {
           </span>
         </li>
       </ol>
+      <!--* Not rendering lists if there is only 1 verse -->
+      <div v-if="hymnData['verses'].length === 1">
+        <span v-for="(line, index) in hymnData.verses[0]" :key="index">
+            {{ line }}
+            <br>
+          </span>
+      </div>
       <div v-if="hymnData.chorus" class="hymn-chorus">
         <span v-for="(line, index) in hymnData.chorus" :key="index">
           {{ line }}
