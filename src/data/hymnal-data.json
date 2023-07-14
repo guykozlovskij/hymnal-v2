@@ -2252,5 +2252,249 @@
       "Nors ir sunku juos ištirti —",
       "Bet realūs visada."
     ]
+  },
+  {
+    "number": 51,
+    "title": "KRISTAUS PATYRIMAS ",
+    "sub-title": "SEKIMU DVASIA",
+    "languages": {
+      "russian": 428,
+      "english": 594
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/594",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0594_i.mp3",
+    "verses": [
+      [
+        "Tu mana ramybė",
+        "Ir gyvybė Tu,",
+        "Taip išlieku dvasioj",
+        "Aš su Viešpačiu."
+      ],
+      [
+        "Viešpaties esu jau,",
+        "Buvau pančiuose.",
+        "Tik per Jo gyvybę",
+        "Dabar laisvėje."
+      ],
+      [
+        "Aš mąstysiu dvasioj,",
+        "Kūniškumui — ne!",
+        "Dvasiai tik paklūsti",
+        "Noriu visada."
+      ],
+      [
+        "Padeda man Kristus",
+        "Dvasiniu išlikt,",
+        "Net kūnu gyvybę",
+        "Aš galiu patirt."
+      ],
+      [
+        "Ir mana ir Dievo",
+        "Dvasios viena jau:",
+        "Paveldėtojas aš,",
+        "Aš iš Jo gimiau."
+      ]
+    ],
+    "chorus": [
+      "Jo Dvasia seku aš,",
+      "Viešpaty esu.",
+      "Jis gyvybę teikia.",
+      "Džiaugsmą atrandu."
+    ]
+  },
+  {
+    "number": 52,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "DVASIOJE",
+    "languages": {
+      "russian": 342,
+      "english": 1141
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1141",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1141_i.mp3",
+    "verses": [
+      [
+        "Mes giedosime Viešpačiui dvasioj.",
+        "Mes giedosime Jam iš gelmių.",
+        "Aleliuja! Sušuksime Jėzui.",
+        "Susilieję vienybėj su Juo."
+      ],
+      [
+        "Daug mes metų religijoj buvom.",
+        "Proto valdomi buvome mes,",
+        "Jausmuose pasiklydę klajojom.",
+        "Nežinojome kur mūs dvasia."
+      ],
+      [
+        "Mokomės kreipti žvilgsnį į dvasią.",
+        "Kaip gyvybę mes priimam Jį.",
+        "Mokomės Jėzumi pasisotint.",
+        "Ir beprasmišką kovą palikt."
+      ],
+      [
+        "Jam šlovė už gyvybę Jo Dvasioj.",
+        "Jam šlovė už Jo atgaivą mums.",
+        "Kreipdamiesi nuo proto į dvasią",
+        "Ten atrasime mes Jo tūrius."
+      ]
+    ]
+  },
+  {
+    "number": 53,
+    "title": "KRISTAUS, KAIP MAISTO IR GĖRIMO, PATYRIMAS",
+    "languages": {
+      "russian": 362,
+      "english": 1145
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1145",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0791_i.mp3",
+    "verses": [
+      [
+        "Mums Dievas davė Sūnų čia —",
+        "Gyvybės medį dovanai,",
+        "Kad paragautume mes Jo,",
+        "Jog Dievas maistas mums.",
+        "Tai Dievas maistas mums, tai Dievas maistas mums!",
+        "Ragavę Jo mes sakome, jog Dievas maistas mums."
+      ],
+      [
+        "Puotaujam prisipildę Juo,",
+        "Tik valgant galim Juo gyvent,",
+        "Kad Dievas persunktų Savim",
+        "Esybę mus visų.",
+        "Tai Jėzus mūs puota, tai Jėzus mūs puota!",
+        "Tik valgant galim Juo gyvent, nes Jėzus mūs puota."
+      ],
+      [
+        "Mūs Jėzus Kristus maistas mums,",
+        "Kaip duona kasdieninė.",
+        "Mes žinom: atsargos Jame",
+        "Kasdienai mums visiems.",
+        "Kasdien Jis duona mums, kasdien Jis duona mums!",
+        "Mes žinom atsargos Jame, kasdienai mums visiems."
+      ],
+      [
+        "Jis toks prieinamas dabar.",
+        "Puota ši teikia džiaugsmą man.",
+        "„Kas trokšta — Dievas sako tam:",
+        "Eik gerti dovanai.“",
+        "Eik gerti dovanai, eik gerti dovanai!",
+        "„Kas trokšta — Dievas sako tam: eik gerti dovanai!“"
+      ]
+    ]
+  },
+  {
+    "number": 54,
+    "title": "KRISTAUS, KAIP VALGIO IR GĖRIMO, PATYRIMAS",
+    "languages": {
+      "russian": 366,
+      "english": 1150
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1150",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1069_i.mp3",
+    "verses": [
+      [
+        "Gyvybės duoną valgome,",
+        "O iš šaltinio geriame.",
+        "Ir Jėzus sako: gerk iš Jo,",
+        "Tada netrokši niekada!",
+        "Kaip, netrokšiu niekada?",
+        "Taip, netrokši niekada.",
+        "Kaip, netrokšiu niekada?",
+        "Taip, netrokši niekada!",
+        "Ir Jėzus sako: gerk iš Jo,",
+        "Tada netrokši niekada!"
+      ],
+      [
+        "Gyvybės duoną valgome,",
+        "Su Viešpačiu puotaujame.",
+        "Gyvybės duoną valgyk tu,",
+        "Tada nealksi niekada.",
+        "Kaip, nealksiu niekada?",
+        "Taip, nealksi niekada!",
+        "Kaip, nealksiu niekada?",
+        "Taip, nealksi niekada!",
+        "Gyvybės duoną valgyk tu,",
+        "Tada nealksi niekada."
+      ],
+      [
+        "Kvėpuojame gyvybe mes,",
+        "Taip prisipildom Viešpaties.",
+        "Ir kas kvėpuos gyvybe šia,",
+        "Gyvybė Dievo bus jame.",
+        "Kaip, gyvybė bus jame?",
+        "Taip, gyvybė bus jame!",
+        "Kaip, gyvybė bus jame?",
+        "Taip, gyvybė bus jame!",
+        "Ir kas kvėpuos gyvybe šia,",
+        "Gyvybė Dievo bus jame."
+      ],
+      [
+        "Gyvybės vyną geriame,",
+        "Kuris yra mūs dvasioje.",
+        "Ir kas tik geria Jį visad,",
+        "Per amžius džiaugsis jis Dieve.",
+        "Kaip, džiaugsis jis Dieve?",
+        "Taip, džiaugsis jis Dieve!",
+        "Kaip, džiaugsis jis Dieve?",
+        "Taip, džiaugsis jis Dieve!",
+        "Ir kas tik geria Jį visad,",
+        "Per amžius džiaugsis jis Dieve."
+      ],
+      [
+        "Mūs Jėzus, prisikėlęs Jis,",
+        "Kad gyvybę į mus dalint.",
+        "Ir jeigu tu Jį priėmei.",
+        "Gyvensi tu jau amžinai.",
+        "Kaip, gyvensiu amžinai?",
+        "Taip, gyvensi amžinai!",
+        "Kaip, gyvensiu amžinai?",
+        "Taip. gyvensi amžinai!",
+        "Ir jeigu tu Jį priėmei —",
+        "Gyvensi amžinai Jame."
+      ]
+    ]
+  },
+  {
+    "number": 55,
+    "title": "KRISTAUS, KAIP VALGIO IR GĖRIMO, PATYRIMAS",
+    "languages": {
+      "russian": 367,
+      "english": 1151
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1151",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1151_i.mp3",
+    "verses": [
+      [
+        "Teka mums nuo sosto upė gyvojo vandens,",
+        "Valgyt nuo gyvybės medžio nėr mums maloniau.",
+        "Tu pažvelk! Nereiks jau saulės, nei mėnulio mums;",
+        "Nes nakties nebus!"
+      ],
+      [
+        "Iš gelmių kaip upė teka Kristus mums visiems.",
+        "Jis, kaip medis, duodantis saldžius vaisius kasdien.",
+        "Jis šviesa mums ir diena mūs, ir žvaigždė Jis mūs —",
+        "Viskas Kristus mums!"
+      ],
+      [
+        "Kad priimt gyvybę, balinsim mes drabužius.",
+        "„O, Amen ir Aleliuja“ — šauksim su džiaugsmu.",
+        "Kad pažinti Kristų, dvasią mes mankštiname;",
+        "Kristus — lobis mūs!"
+      ],
+      [
+        "Turime namus, kad saulę net atstoja mums.",
+        "Ir juose suvienijo kaip brolius Viešpats mus.",
+        "Čia visus mus Jis surinko, kad išreikšti Jį",
+        "Jo bažnyčioje!"
+      ]
+    ],
+    "chorus": [
+      "Ir Dvasia, ir Nuotaka Jam sako: Tu ateik.",
+      "Ir visi, kurie tai girdi, lai kartoja tai.",
+      "Ir kas trokšta, te ateina gerti dovanai",
+      "Gyvojo vandens!"
+    ]
   }
 ]
