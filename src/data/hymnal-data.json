@@ -1598,7 +1598,7 @@
   {
     "number": 37,
     "title": "DVASIOS PILNATVĖ",
-    "sub-title": "KAIP GYVASIS VANDUO",
+    "sub-title ": "KAIP GYVASIS VANDUO",
     "languages": {
       "russian": 192,
       "english": 251
@@ -2028,6 +2028,229 @@
       "Apgaubki negalią,",
       "Apšvieski Tu Sava šviesa,",
       "Suteik gyvybę man."
+    ]
+  },
+  {
+    "number": 46,
+    "title": "SĄJUNGA SU KRISTUMI",
+    "sub-title": "VIENYBĖ SU JUO",
+    "languages": {
+      "russian": 327,
+      "english": 474
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/474",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0013_i.mp3",
+    "verses": [
+      [
+        "Viena, Viešpatie, mes esam",
+        "Dvasioje su Tavimi.",
+        "Ką turi, turiu ir aš, nes",
+        "Tu man viską suteiki."
+      ],
+      [
+        "Tavo žmogišką gyvybę,",
+        "Viską Tavo priimu.",
+        "Paklusnumas Tavo, Jėzau,",
+        "Tapo man prieinamu."
+      ],
+      [
+        "Mirtyje su Tavim viena.",
+        "Aš ant kryžiaus su Tavim.",
+        "Šiam pasauliui aš numiręs,",
+        "Ir pasaulis miręs man."
+      ],
+      [
+        "Prisikėlime mes viena.",
+        "Prisikėliau Tavyje.",
+        "Manyje Tava gyvybė,",
+        "Pasikėliau aš per ją."
+      ],
+      [
+        "Su Tavim išaukštintas aš,",
+        "Danguje aš su Tavim.",
+        "Žemėje esu praeivis,",
+        "Gyvenu lik Tavyje."
+      ],
+      [
+        "Su Tavim aš karaliauju,",
+        "Ir valdau aš su Tavim.",
+        "Vienas kitame gyvenam:",
+        "Aš Tavy, o Tu many."
+      ]
+    ],
+    "chorus": [
+      "Viena mes, viena mes.",
+      "Viena mes, viena mes.",
+      "Per dienas esu Tavyje,",
+      "Skęstu Tavo turtuose."
+    ]
+  },
+  {
+    "number": 47,
+    "title": "VIEŠPATIES KŪNAS",
+    "verses": [
+      [
+        "Viešpaties Kūnas, Jėzaus Kristaus kraujas",
+        "Atneša išganymą ir perkeičia tave",
+        "Viešpaties Kūnas, Jėzaus Kristaus kraujas",
+        "Atneša išganymą ir perkeičia tave",
+        "Džiaukis, dėkoki, ši malonė tau duota",
+        "Vienytis su Viešpačiu ir pasilikt Jame",
+        "Džiaukis, dėkoki, ši malonė tau duota",
+        "Vienytis su Viešpačiu ir pasilikt Jame"
+      ]
+    ]
+  },
+  {
+    "number": 48,
+    "title": "KRISTAUS, KAIP GYVYBĖS, PATYRIMAS",
+    "languages": {
+      "russian": 356,
+      "english": 507
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/507",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0507_i.mp3",
+    "verses": [
+      [
+        "Buvau be Dievo tamsoje,",
+        "Pavergtas nuodėmės;",
+        "Bet Žodis apšvietė mane,",
+        "Kad Kristus manyje."
+      ],
+      [
+        "Šviesa pažadina gėles",
+        "Iš sėklos žemėje,",
+        "Taip trykšta meilė ir šviesa",
+        "Iš Kristaus manyje."
+      ],
+      [
+        "Gėlės gyvybė sėkloje;",
+        "Iš sėklos veržias ji.",
+        "Taip Viešpačiui šlovė už tai,",
+        "Kad Jo Dvasia many."
+      ],
+      [
+        "Pripildytas siekimo aš,",
+        "Kad tapčiau toks kaip Jis;",
+        "Šia mintimi aš gyvenu:",
+        "„Kristus gyvena many“."
+      ]
+    ],
+    "chorus": [
+      "Kristus, gyvena many,",
+      "Kristus gyvena many.",
+      "Nuostabus Jo išgelbėjimas —",
+      "Kristus gyvena many."
+    ]
+  },
+  {
+    "number": 49,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "JO PRIEINAMUMAS",
+    "languages": {
+      "russian": 427,
+      "english": 539
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/539",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0539_full.mp3",
+    "verses": [
+      [
+        "Esi gyvybė, Viešpatie,",
+        "Tu viskas man esi.",
+        "Subjektyvus, prieinamas —",
+        "Galiu Tave pažint."
+      ],
+      [
+        "Tu poreikius patenkini",
+        "Savuoju perteklium.",
+        "Tavas naudosiu atsargas",
+        "Su noru ir džiaugsmu."
+      ],
+      [
+        "Šis patepimas mumyse",
+        "Palaiko silpnume.",
+        "Savu energijos srautu",
+        "Pripildai Tu mane."
+      ],
+      [
+        "Įstatymas, kuris širdy,",
+        "Tavuoju ves keliu.",
+        "Esybę man pripildei",
+        "Tu Savu realumu."
+      ],
+      [
+        "Su Tavim viena amžiams mes —",
+        "Vienybei pašaukei.",
+        "Ir vieną dvasią turim mes",
+        "Dabar ir amžinai."
+      ]
+    ],
+    "chorus": [
+      "Esi šiandien Dvasia Tu!",
+      "Man artimas esi!",
+      "Taip paprastai prieinamas —",
+      "Žaviuosi aš Tavim."
+    ]
+  },
+  {
+    "number": 50,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "JO TURTAI",
+    "languages": {
+      "russian": 397,
+      "english": 542
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/542",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0542_i.mp35",
+    "verses": [
+      [
+        "Mūsų Gelbėtojo turtai",
+        "Nieks negali jų ištirt.",
+        "Bet šiandien pilnatvę Dievo",
+        "Aš apsčiai galiu patirt."
+      ],
+      [
+        "Kristaus Gelbėtojo turtų",
+        "Neįmanoma aprėpt.",
+        "Jie pripildyti gyvybe —",
+        "Niekad nenustosią šviest."
+      ],
+      [
+        "Išmintis, valdžia, ramybė",
+        "Ir išgydymas juose.",
+        "Pasimėgavimas mūsų —",
+        "Tiktai Kristaus turtuose."
+      ],
+      [
+        "Šie turtai — Pats Viešpats Dievas,",
+        "Viskas slypi tik Jame.",
+        "Jo valdžia ir asmenybė",
+        "Šiandien mano dvasioje."
+      ],
+      [
+        "Mūsų Gelbėtojo turtai —",
+        "Nieks negali jų suvokt.",
+        "Ilgį, plotį, gylį, aukštį",
+        "Nieks negali išmatuot."
+      ],
+      [
+        "Mūsų Gelbėtojo turtai",
+        "Neapsakomi yra,",
+        "Bet tik jie man tikras džiaugsmas",
+        "Mano amžina jėga."
+      ],
+      [
+        "Aš veržiuos suvokti turtų —",
+        "Kristaus jie pilnatvėje,",
+        "Kad galėčiau jais dalintis",
+        "Su šventaisiais meilėje."
+      ]
+    ],
+    "chorus": [
+      "Kristaus turtai, Kristaus turtai",
+      "Skiriami jie man yra,",
+      "Nors ir sunku juos ištirti —",
+      "Bet realūs visada."
     ]
   }
 ]
