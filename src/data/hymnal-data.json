@@ -2496,5 +2496,237 @@
       "Ir kas trokšta, te ateina gerti dovanai",
       "Gyvojo vandens!"
     ]
+  },
+  {
+    "number": 56,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "MĖGAVIMASIS JUO",
+    "languages": {
+      "russian": 425,
+      "english": 1152
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1152",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1152_i.mp3",
+    "verses": [
+      [
+        "Vilioja Kristus mus visus kasdieną vis stipriau —",
+        "Tyresnio ir skaistesnio mes nerasime daugiau.",
+        "Nėra mums žodžių išsakyt — nėra aukščiau už Jį;",
+        "Kiekvieną dieną vis brangesnis darosi mums Jis."
+      ],
+      [
+        "Atėjus į bažnyčią Kristų mes išvydome,",
+        "Ir Jo gausi malonė išsiliejo šlovėje.",
+        "Atradome pilnatvę mes, atradom Jo turtus;",
+        "Kiekvieną dieną vis brangesnis darosi Jis mums."
+      ],
+      [
+        "Gyvybę teikianti Dvasia — Ji mūsų dvasioje.",
+        "Ji taip visus augina mus Savoj gyvybėje.",
+        "Susirinkimuos su Šventaisiais kyla mūs dvasia,",
+        "Ir Kristus tapo mums visiems brangesnis dieną šią."
+      ],
+      [
+        "Atstatymui sujungė Jis visus mus Savimi,",
+        "Kad Kristų ir Bažnyčią mes regėtume visi.",
+        "Ką turime, kas esame dalijamės šiandien;",
+        "Dėl Dievo tikslo mes, kuris brangesnis vis kasdien."
+      ]
+    ],
+    "chorus": [
+      "Negalim išsakyti, kas slypi mūsų Kristuje —",
+      "Jis lobis mūs brangiausias ir brangėja Jis kasdien."
+    ]
+  },
+  {
+    "number": 57,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "MŪSŲ PASIMĖGAVIMAS",
+    "languages": {
+      "russian": 426,
+      "english": 1153
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1153",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1153_i.mp3",
+    "verses": [
+      [
+        "Mes suradom Kristų, Jis dabar",
+        "Tapo viskas visame.",
+        "Vardo Jo kasdien mes šaukiamės —",
+        "Taip palaimoj esame."
+      ],
+      [
+        "Radom Kristų — Jis dabar Dvasia,",
+        "Jis gyvena mumyse.",
+        "Toks prieinamas yra Jis mums —",
+        "Nuolat mūsų širdyse."
+      ],
+      [
+        "Mes suradom kelią Juo gyvent:",
+        "Jo žodžiu mūs maldoje.",
+        "Jo tik šaukiamės mes nuolatos,",
+        "Valgom, geriam mes Jame."
+      ],
+      [
+        "Vietinę bažnyčią radome —",
+        "Jau namus mes turime.",
+        "Mums atsakymai bažnyčioje",
+        "Kaip palikti Babelę."
+      ],
+      [
+        "Džiaugsmui šiam nėra jokių ribų",
+        "Mūs susirinkimuose.",
+        "Viešpats duoda mums šiandien jėgų,",
+        "Jo turtuose skęstame."
+      ]
+    ],
+    "chorus": [
+      "Šiuo džiaugsmu mes džiaugiamės kiekvieną dieną.",
+      "Dievo džiaugsmas! Dievo džiaugsmas!",
+      "Šiuo džiaugsmu mes džiaugiamės kiekvieną dieną —",
+      "Nieks negali mums jo apribot."
+    ]
+  },
+  {
+    "number": 58,
+    "title": "ŠIRDYJE GIEDU GIESMĘ",
+    "verses": [
+      [
+        "Širdyje giedu giesmę",
+        "Tam, kuris mirė už mane.",
+        "Viešpatie, trokštu būt šalia,",
+        "Nes ištikima meilė Tava.",
+        "Džiaugsmo versmė!",
+        "Gyvybės srovė! Tu visa man esi!",
+        "Širdis priklauso Tau vienam.",
+        "Gyvenimą atiduodu Tau,",
+        "Argi kitaip atsidėkot galiu? (2k.)"
+      ],
+      [
+        "Kai tądien sutikau Tave",
+        "Aš paskendau meilės jūroje.",
+        "Manyje buvo vien tamsa.",
+        "Kol ją išsklaidė Viešpaties šviesa.",
+        "Kai atsigręžiau,",
+        "Atvėriau širdį Tau.",
+        "Tu įėjai vidun, pripildei visas gelmes!",
+        "Dabar žinau — esame kartu",
+        "Ir mūsų nebeišskirs niekas per amžius! (2k.)"
+      ]
+    ]
+  },
+  {
+    "number": 59,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "MEILĖ JAM",
+    "languages": {
+      "russian": 403,
+      "english": 1159
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1159",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0713_i.mp3",
+    "verses": [
+      [
+        "Jėzau, sužavėtas Tavo grožiu.",
+        "Atveriu aš savo širdį Tau.",
+        "Pasilikt religijoj nenoriu,",
+        "Noriu priklausyti aš tik Tau.",
+        "Kai visad žvelgiu į Tavo šlovę,",
+        "Pradedu tada ir aš spindėt.",
+        "Aš maldauju: Jėzau, mane persunk,",
+        "Savo Dvasią su mana suliek."
+      ],
+      [
+        "Sušvytėjęs! Regiu aukštumose",
+        "Tavo sostą, o Žmogaus Sūnau!",
+        "Dievo ugnimi esu apgaubtas,",
+        "Kad su Tavimi spindėčiau.",
+        "Ir pažindamas puikumą Tavo,",
+        "Gėdoje prarandu meilę sau.",
+        "Tiktai Tau mes atiduodam šlovę,",
+        "Už Tave mums nieko nėr saldžiau."
+      ],
+      [
+        "Indą alebastrinį, o Jėzau!",
+        "Sudaužysiu aš iš meilės Tau.",
+        "Ir patepsiu galvą Tau, Valdove,",
+        "Pamiltasis, dovana ši Tau.",
+        "Dėl Tavęs aukojuos šiandien, Jėzau!",
+        "Tave myliu — tuo laimingas aš.",
+        "Savo širdyje aš meilės pilnas,",
+        "Brangų tepalą atnešiu aš."
+      ],
+      [
+        "O, pakilk ant smilkinimo kalno,",
+        "Aš ilgiuosi, Viešpatie, Tavęs.",
+        "Iš širdies šaltinio gerki, Jėzau!",
+        "Atrandu ramybę Tavyje.",
+        "Ir ne vienas dievinu Tave aš:",
+        "Su šventaisiais — Tavo Nuotaka.",
+        "O, ateik! Tavęs mes, Jėzau, laukiam;",
+        "Norim būti Tavo meilėje."
+      ]
+    ]
+  },
+  {
+    "number": 60,
+    "title": "PASIŠVENTIMAS",
+    "sub-title": "PATRAUKTI VIEŠPATIES GROŽIU",
+    "languages": {
+      "russian": 308,
+      "english": 437
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/nt/437",
+    "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e0437_new.mp3",
+    "verses": [
+      [
+        "Kas tiktai pamato Jėzų,",
+        "Atiduoda širdį Jam.",
+        "Nuolatos mes su džiaugsmu,",
+        "Giedame tik Jam vienam."
+      ],
+      [
+        "Apgauti stabų tuštybės",
+        "Veltui kreipėmės į juos.",
+        "Nes juose nėra gyvybės,",
+        "Vien tik klystkeliai tamsos."
+      ],
+      [
+        "Žemiški stabai neteko",
+        "Apgaulingos prabangos,",
+        "Kai pražydo Jo pilnatvė",
+        "Neprilygstamos šviesos."
+      ],
+      [
+        "Netikrų dievų vilionės",
+        "Išsisklaidė lyg naktis,",
+        "Kai nušvito Jėzaus grožis",
+        "Atsivėrė Jo širdis."
+      ],
+      [
+        "Baigėsi nakties tamsybė,",
+        "Kyla saulė — jau aušra.",
+        "Baigėsi žiemos galybė,",
+        "Mus užliejo šiluma."
+      ],
+      [
+        "Trokštu Jam atsidėkoti,",
+        "Jėzaus veidas — mūs viltis.",
+        "Su mumis kartu raudoti",
+        "Sugeba tik Jo širdis."
+      ],
+      [
+        "Atgaivinti Jo gyvybe",
+        "Ir pripildyti džiaugsmu,",
+        "Apgaubti mes Jėzaus meile —",
+        "Nebėra daugiau stabų."
+      ]
+    ],
+    "chorus": [
+      "Pavergti mes Tavo grožio",
+      "Gyriaus duoklę nešam Tau.",
+      "Neprilygstamas, Valdove,",
+      "Nuostabus, Karaliau!"
+    ]
   }
 ]
