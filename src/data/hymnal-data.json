@@ -4049,5 +4049,221 @@
         "Mes visi be atvangos."
       ]
     ]
+  },
+  {
+    "number": 86,
+    "title": "DVASINĖ KOVA",
+    "sub-title": "ŽEMĖS UŽVALDYMAS",
+    "languages": {
+      "russian": 648,
+      "english": 1287
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1287",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1118_i.mp3",
+    "verses": [
+      [
+        "Užimsime mes žemę Dievo duotą mums,",
+        "Nes Kristuje mes galim daug pasiekt.",
+        "Kad ją užimt, mes esame aprūpinti",
+        "Dvasia, Žodžiu, Bažnyčia ir Krauju."
+      ],
+      [
+        "Mes turim kraują! Jo dėka ryžtingi mes.",
+        "Mūs Kristus Dievui tinkama auka.",
+        "Ir kraujas šis apvalo mus visus kasdien,",
+        "Todėl apstus mums Dievas malone."
+      ],
+      [
+        "Mes turim Žodį — maistas mūs yra kasdien,",
+        "Skaitydami kartojame „Amen“.",
+        "Šis Žodis kalba mūsų viduje kasdien",
+        "Ir veda mus Jis Viešpaties šlovėn."
+      ],
+      [
+        "Mes turim Dvasią! Tiesą turime per Ją.",
+        "Ji nepriklausoma nuo mūs jausmų.",
+        "Dvasia gyvena mūsų viduje kartu",
+        "Ir veda mus siauru tiesos keliu."
+      ],
+      [
+        "Bažnyčią turim! Tik joje mes galime",
+        "Pilnatvę visą Viešpaties turėt.",
+        "Ir visaapimantis Kristus taps visų",
+        "Ir bus šventųjų viskas visame."
+      ]
+    ],
+    "chorus": [
+      "* Sesės *",
+      "Tai užvaldykim žemę, broliai!",
+      "Ją Dievas mums atidavė.",
+      "Greičiau užimkim ir užvaldykim",
+      "Kaip bus šlovinga ją įgyt.",
+      "* Broliai *",
+      "Tai užvaldykim žemę, sesės!",
+      "Tikėdami giliai širdy.",
+      "Ir neikim patys, kaip daugel metų,",
+      "Juk Viešpats veda mus pirmyn."
+    ]
+  },
+  {
+    "number": 87,
+    "title": "KRISTUS MUMYSE",
+    "sub-title": "ŠLOVĖS VILTIS",
+    "languages": {
+      "russian": 686,
+      "english": 948
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/948",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0948_i.mp3",
+    "verses": [
+      [
+        "Paslaptis didinga mums jau atskleista:",
+        "Kristus — Dievo amžina tiesa.",
+        "Įsikūnijimas Dievo Jis yra,",
+        "Amžina viltis tiktai Jame."
+      ],
+      [
+        "Jis atgimdė dvasią mano mirusią,",
+        "Sielą atmainys pagal Save.",
+        "Kūnas mano Juo pašlovintas jau bus,",
+        "Tapsime kaip Jis pilnatvėje."
+      ],
+      [
+        "Prigimty, gyvybėj — viena esame,",
+        "Šlovę Jo paveldėsime mes.",
+        "Pasiliksiu amžiais prieš Jo veidą aš,",
+        "Atvaizdu aš tapsiu Viešpaties."
+      ]
+    ],
+    "chorus": [
+      "Kaip šlovinga, Kristus manyje!",
+      "Jis gyvybė, lieku viltyje.",
+      "Ir kaip paslaptis Jis mano dvasioje",
+      "Tik per Jį aš būsiu šlovėje."
+    ]
+  },
+  {
+    "number": 88,
+    "title": "ŠLOVĖS VILTIS",
+    "sub-title": "KRISTUS, KAIP MŪSŲ PAŠLOVINIMAS",
+    "languages": {
+      "russian": 687,
+      "english": 949
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/949",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0503_i.mp3",
+    "verses": [
+      [
+        "Šlovės viltis tik Kristus, gyvybė Jis mana,",
+        "Suteikęs atgimimą, Jis persunkė mane.",
+        "Ateis, kad mano kūną pakeistų iš tiesų,",
+        "Kad tapčiau aš šlovingu Jo atvaizdu."
+      ],
+      [
+        "Šlovės viltis Jis mūsų, Jis Dievo šlovėje.",
+        "Ateis, kad susiliečiau su Juo pilnatvėje",
+        "Jis atneša man Dievą, kad aš dalinčiau Jį",
+        "Kad Jo šlovėj per amžius pasilikčiau."
+      ],
+      [
+        "Šlovės viltis Jis mūsų, Jisai atpirko mus.",
+        "Ateis ir mano kūnas tada bus nemarus.",
+        "Tik pergale Savąja Jis mirtį sunaikins.",
+        "Atėjęs mano kūną pašlovins."
+      ],
+      [
+        "Šlovės viltis tik Kristus, istorija mana,",
+        "Aš gyvas Jo gyvybe, nes viena esame.",
+        "Ateis, kad būčiau laisvėj, kad būčiau šlovėje;",
+        "Ir viena amžinybėj mes tapsime."
+      ]
+    ],
+    "chorus": [
+      "Ateis! Ateis! Mane pašlovint ateis!",
+      "Pakeisti kūną man ateis į Savo atvaizdą.",
+      "Ateis! Ateis! Išpirkti mus visus!",
+      "Šlovės viltis Jis mūsų, pašlovint mus ateis."
+    ]
+  },
+  {
+    "number": 89,
+    "title": "ŠLOVĖS VILTIS",
+    "sub-title": "VESTUVIU DIENA",
+    "languages": {
+      "russian": 711,
+      "english": 1314
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1314",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0175_i.mp3",
+    "verses": [
+      [
+        "Greit Viešpats vėl sugrįš,",
+        "Laukiame Jo visi.",
+        "Palaimingiausia diena ši bus.",
+        "Galime tik Tavy",
+        "Mylėt ir būt gyvi,",
+        "Esi Jaunikis mūs visų."
+      ],
+      [
+        "Nepastebėsime,",
+        "Kaip Jį išgirsime",
+        "Ir danguje mes išvysim Jį.",
+        "Kokia palaiminta",
+        "Bus ši akimirka —",
+        "Jaunikis su Jaunąja bus."
+      ],
+      [
+        "Dienos trumpėja jau.",
+        "Greit jos prabėgs, tačiau",
+        "Jėzus, mūs Viešpats, pas mus ateis.",
+        "Trokštame su Tavim",
+        "Vienybėje gyvent —",
+        "Tu pakerėjai mūs širdis."
+      ],
+      [
+        "Susitikimas greit,",
+        "Viešpats suskubs ateit",
+        "Nuotakos Savo pasiimt.",
+        "O, aleliuja!",
+        "Džiaugiasi mūs dvasia,",
+        "Palaimintas Jaunikis bus."
+      ]
+    ]
+  },
+  {
+    "number": 90,
+    "title": "KARALYSTĖ",
+    "sub-title": "JOS SĖKLA",
+    "languages": {
+      "english": 1299
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1299",
+    "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e1299_new.mp3",
+    "verses": [
+      [
+        "Mūs Kūrėjas turi tikslą, dėl kurio mes žemėje,",
+        "Atspindėdami Jo šlovę, valdžią Jo išreiškiame.",
+        "Nors žmogus ir nusidėjo, nebematė jau prasmės —",
+        "Mūsų Dievo Karalyste per Jo Sūnų suklestės."
+      ],
+      [
+        "Jėzus, Gelbėtojas mūsų, Tėvo siųstas žemėje.",
+        "Jis dabar — Dvasia, Gyvybe gali augti žmoguje.",
+        "Tarsi sėkla mūsų dvasioj Kristus auga, plečiasi;",
+        "Kol mes tapsime galiausiai Jo gyvybės vaisiumi."
+      ],
+      [
+        "Broliai, sesės, laikas trumpas — Kristus laukia Nuotakos.",
+        "Jis — sugrįžti neuždelstų, jei gyvybė sulapos.",
+        "Nesistenkime kovoti, o tik savo vidumi",
+        "Atsigręžkime į Kristų, persikeiskime į Jį."
+      ]
+    ],
+    "chorus": [
+      "Jėzaus Kristaus Karalystė, nepaisant priešiškų planų,",
+      "Reali, tvirta, galinga auga širdyse žmonių.",
+      "Tik beverčiai išvedžiojimai mus moko: laukite mirties,",
+      "Kristus stato Karalystę žemėje dabar išties."
+    ]
   }
 ]
