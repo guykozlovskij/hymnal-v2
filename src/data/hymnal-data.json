@@ -4638,5 +4638,278 @@
         "Jei meilę saugosit visad tarp savęs."
       ]
     ]
+  },
+  {
+    "number": 101,
+    "title": "GYRIUS VIEŠPAČIUI",
+    "sub-title": "JO VARDAS",
+    "languages": {
+      "russian": 62,
+      "english": 1084
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1084",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1084_i.mp3",
+    "verses": [
+      [
+        "Jo vardas man — patepimas:",
+        "Jėzus, Jėzus, Jėzus, Jėzus!",
+        "Jo vardas man — patepimas,",
+        "Jo vardas man — patepimas."
+      ],
+      [
+        "Mergelės už tai myli Jį:",
+        "Jėzus, Jėzus, Jėzus, Jėzus!",
+        "Mergelės už tai myli Jį,",
+        "Mergelės už tai myli Jį."
+      ],
+      [
+        "Jo meilė, kaip vynas saldus:",
+        "Jėzus, Jėzus, Jėzus, Jėzus!",
+        "Jo meilė, kaip vynas saldus,",
+        "Jo meilė, kaip vynas saldus."
+      ],
+      [
+        "Žavėki, mes seksim Tavim:",
+        "Jėzau, Jėzau, Jėzau, Jėzau!",
+        "Žavėki, mes seksim Tavim,",
+        "Žavėki, mes seksim Tavim."
+      ],
+      [
+        "Pamiltas! Tu man nuostabus:",
+        "Jėzau, Jėzau, Jėzau, Jėzau!",
+        "Pamiltas! Tu man nuostabus,",
+        "Pamiltas! Tu man nuostabus."
+      ],
+      [
+        "Siela rado Mylimąjį:",
+        "Jėzus, Jėzus, Jėzus, Jėzus!",
+        "Siela rado Mylimąjį,",
+        "Siela rado Mylimąjį."
+      ],
+      [
+        "Visa siela myliu Tave:",
+        "Jėzau, Jėzau, Jėzau, Jėzau!",
+        "Visa siela myliu Tave,",
+        "Visa siela myliu Tave."
+      ],
+      [
+        "Laikysiuos aš Mylimojo:",
+        "Jėzaus, Jėzaus, Jėzaus, Jėzaus!",
+        "Laikysiuos aš Mylimojo,",
+        "Laikysiuos aš Mylimojo."
+      ],
+      [
+        "Ateik, o Pamiltas, visų:",
+        "Jėzau, Jėzau, Jėzau, Jėzau!",
+        "Ateik, o Pamiltas, visų,",
+        "Ateik, o Pamiltas, visų."
+      ],
+      [
+        "Visa širdim mylim Tave:",
+        "Jėzau, Jėzau, Jėzau, Jėzau!",
+        "Visa širdim mylim Tave,",
+        "Visa širdim mylim Tave."
+      ]
+    ]
+  },
+  {
+    "number": 102,
+    "title": "KRISTAUS, KAIP GANYTOJO, PATYRIMAS",
+    "languages": {
+      "russian": 390,
+      "english": 1170
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1170",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1170_i.mp3",
+    "verses": [
+      [
+        "Viešpats Ganytojas amžiams,",
+        "Jis poilsio mano vieta.",
+        "Prie vandenų Jis mane veda",
+        "Ir taip Jis pripildo mane."
+      ],
+      [
+        "Ganytojas ir ganykla Jis",
+        "Ramybės vanduo Jis yra.",
+        "Aš dvasioj iš Jo turtų valgau,",
+        "Geriu Jo malonę visad."
+      ],
+      [
+        "Tik Jis — ištaisys mano sielą",
+        "Ir valią ir protą, jausmus.",
+        "Nors tenka per slėnį man eiti —",
+        "Lydės Jis mane — Nuostabus."
+      ],
+      [
+        "Dėl manęs Jis paruošė puotą,",
+        "Kad nugalėt priešą per ją.",
+        "Aliejum man patepė galvą,",
+        "Ir taurė džiaugsmu sklidina."
+      ],
+      [
+        "Dabar Jo namuos gyvenu aš,",
+        "Pripildytas Dievo džiaugsmu.",
+        "Šiam džiaugsmui nėra jokių žodžių,",
+        "Nes džiaugsmas šis — Viešpats brangus."
+      ]
+    ],
+    "chorus": [
+      "Jo palaima ir malonė bus su manim",
+      "Per visas, visas mano dienas.",
+      "Jo palaima ir malonė bus su manim",
+      "Per visas, visas mano dienas.",
+      "Pasiliksiu aš amžiams Jo namuose",
+      "Ir puotausiu prie stalo, kurs padengtas man.",
+      "Jo palaima ir malonė bus su manim",
+      "Per visas, visas mano dienas."
+    ]
+  },
+  {
+    "number": 103,
+    "title": "RAŠTO VIETOS GIEDOJIMUI",
+    "sub-title": "DEBOROS GIESMĖ",
+    "verses": [
+      [
+        "Pabusk, pabusk, Debora!",
+        "Pabusk, pabusk, giesmę giedok.",
+        "Pabusk, Barakai, pakilki drąsiai,",
+        "Tu laimėjai!"
+      ]
+    ],
+    "chorus": [
+      "Tekrinta Tavo priešai, o Jehova!",
+      "Bet tiems, kas myli Tave,",
+      "Suteiki džiaugsmą!",
+      "Pabuskite, Dievo vaikai.",
+      "Pakilkite kaip karžygiai,",
+      "Kovokit kaip Jehelė",
+      "Su Dievo priešu!",
+      "",
+      "Tekrinta Tavo priešai, o Jehova!",
+      "Bet tiems, kas myli Tave,",
+      "Suteiki džiaugsmą!"
+    ]
+  },
+  {
+    "number": 104,
+    "title": "RAŠTO VIETOS GIEDOJIMUI",
+    "sub-title": "RŪTOS GIESMĖ",
+    "verses": [
+      [
+        "Kur eisi tu, eisiu aš.",
+        "Kur busi tu, busiu aš!",
+        "Tavoji tauta — bus mano tauta.",
+        "Tavo Dievas — mano Dievu!"
+      ]
+    ]
+  },
+  {
+    "number": 105,
+    "title": "GALUTINIS APSIREIŠKIMAS",
+    "sub-title": "DIEVO AMŽINASIS TIKSLAS",
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/ns/28",
+    "melody-url": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0028.mp3",
+    "verses": [
+      [
+        "Pašaukė visus mus Dievas,",
+        "Dėl Dievo namų statybos.",
+        "Buvo tam Jisai paruoštas",
+        "Ir dabar užbaigtas Jis.",
+        "Kaip Dvasia Jis mumyse,",
+        "Dievo duota mums dalia,",
+        "Kad pilnai išgelbėti mes",
+        "Taptume tokie kaip Jis."
+      ],
+      [
+        "Pavyzdys mums Jėzus buvo,",
+        "Kaip Dievas — žmogus gyveno.",
+        "Sielos negailėdamas Jis",
+        "Klusniai ėjo link mirties.",
+        "Tik vienintelis Jis buvo,",
+        "Atkartojimu Jo tapom.",
+        "Padaugėjimas Jo esam,",
+        "Susilieję kaip grūdai mes."
+      ],
+      [
+        "Numarindami mes sielą",
+        "Kristaus prisikėlime,",
+        "Sulieta dvasia gyvenam,",
+        "Mes atmesdami save.",
+        "Ir dabar gyvenam Kūne,",
+        "Nugalim kiekvieną dieną,",
+        "Verždamiesi į Sioną",
+        "Atėjimo Jėzaus laukiam."
+      ],
+      [
+        "Dvasioje sulietoj Dievas",
+        "Ir žmogus kartu gyvena,",
+        "Kaip vieningas organizmas",
+        "Esam dviese visuma.",
+        "Šitas matymas tevaldo",
+        "Mus gyvenime kasdieniam,",
+        "Taip įgys Sau Viešpats Kūną,",
+        "Spindintį kaip Šventas miestas."
+      ]
+    ],
+    "chorus": [
+      "Te matymas Jo valdo mus visus,",
+      "Namų statybos mūsų Viešpaties.",
+      "Ir degina, kol nepradės liepsnoti mano dvasia,",
+      "Gyva stipria dvasia mes trokštame",
+      "Užbaigt Jo planą, Naują Jeruzalę, Aleliuja!"
+    ]
+  },
+  {
+    "number": 106,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO PADIDĖJIMAS",
+    "languages": {
+      "russian": 152,
+      "english": 203
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/203",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0203_full.mp3",
+    "verses": [
+      [
+        "Amžinybėj Tėvo glėby,",
+        "Prieš visas pradžių pradžias.",
+        "Viengimiu Sūnum buvai Tu",
+        "Savo Tėvo šlovėje.",
+        "Kai atidavė Tave Jis,",
+        "Tu tas pats asmuo buvai,",
+        "Dvasioje pilnatvę Tavo",
+        "Mums tada Tu paskelbei."
+      ],
+      [
+        "Tu mirei ir prisikėlei,",
+        "Pirmgimiu Sūnum tapai.",
+        "Atkartojimas mes Tavo,",
+        "Jo gyvybę suteikei.",
+        "Tavyje atgimę esam —",
+        "Dievo daugelis sūnų,",
+        "Iš tiesų mes Tavo broliai,",
+        "Tokie patys, kaip ir Tu."
+      ],
+      [
+        "Viešpatie, kaip kviečio grūdas",
+        "Žemėn Tu kritai numirt,",
+        "O numiręs prisikėlei,",
+        "Gyvybe išplėtei.",
+        "Tavo prigimty atgimę",
+        "Mes kaip daugelis grūdų,",
+        "Susilieję vienoj duonoj,",
+        "Pilnumoj išreikštas Tu."
+      ],
+      [
+        "Atkūrimas, Tavo Kūnas,",
+        "Išraiška pilnatvėje,",
+        "Esam Tavo pratęsimas",
+        "Ir Tavoji nuotaka.",
+        "Padaugėjimas gyvybės,",
+        "Visas ūgis, perteklius,",
+        "Mes — išsiplėtimas Tavo,",
+        "Mūsų Tu esi Galva."
+      ]
+    ]
   }
 ]
