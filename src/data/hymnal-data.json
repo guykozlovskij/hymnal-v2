@@ -4465,7 +4465,7 @@
   {
     "number": 95,
     "title": "GEROJI ŽINIA",
-    "sub-title": "ŠAUKIMASIS JO",
+    "sub-title": "JO ŠAUKIMASIS",
     "languages": {
       "russian": 770,
       "english": 1055
@@ -4482,6 +4482,160 @@
         "Tu mane išlaisvinki.",
         "Nuodėmingas aš ir kritęs —",
         "Štai dabar išgelbėki."
+      ]
+    ]
+  },
+  {
+    "number": 96,
+    "title": "GEROJI ŽINIA",
+    "sub-title": "ŠAUKIMASIS VIEŠPATIES",
+    "languages": {
+      "russian": 773,
+      "english": 1059
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1059",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1059_i.mp3",
+    "verses": [
+      [
+        "Noriu būt prie kryžiaus aš",
+        "Ir siela regėti.",
+        "Kaip malonė Jo žmonėms",
+        "Nenustoja lietis."
+      ],
+      [
+        "Atradau prie kryžiaus aš",
+        "Jėgą ir malonę.",
+        "Jėzau, lyg žvaigždė Tu man",
+        "Apšvietei kelionę."
+      ],
+      [
+        "Pamačiau prie kryžiaus aš",
+        "Dievo Avinėlį.",
+        "Man brangiausiu tapo Jis.",
+        "Juo susižavėjau."
+      ],
+      [
+        "Su tikėjimu, viltim.",
+        "Čia prie kryžiaus lauksiu.",
+        "Kai mus Dievas lieps pašaukt,",
+        "Į Jo didį džiaugsmą."
+      ]
+    ],
+    "chorus": [
+      "Kryžius Jo, kryžius Jo",
+      "Veda mus į šlovę.",
+      "Jo išgelbėjimas čia.",
+      "Liejas čia malonė."
+    ]
+  },
+  {
+    "number": 97,
+    "title": "GYVYBĖ",
+    "sub-title": "GEROJI ŽINIA MUMS",
+    "languages": {
+      "russian": 750,
+      "english": 1017
+    },
+    "hymnal.net-url": "",
+    "melody-url": "",
+    "verses": [
+      [
+        "Dievas Kristuje atėjo,",
+        "Tapo Žmogumi kaip mes.",
+        "Nukryžiuotas buvo Jis,",
+        "Kad būtume mes laisvėje.",
+        "Prisikėlė ir atėjo",
+        "Kaip Dvasia Jisai pas mus,",
+        "Kad būt gyvybe mums."
+      ]
+    ],
+    "chorus": [
+      "Jam šlovė! O aleliuja!",
+      "Jam šlovė! O aleliuja!",
+      "Jam šlovė! O aleliuja!",
+      "Gyvybė Kristus mums!",
+      "",
+      "Pergalė! O aleliuja!",
+      "Pergalė! O aleliuja!",
+      "Pergalė! O aleliuja!",
+      "Jis tapo viskuo mums!"
+    ]
+  },
+  {
+    "number": 98,
+    "title": "GEROJI ŽINIA",
+    "languages": {
+      "russian": 789,
+      "english": 1331
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1331",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1331_i.mp3",
+    "verses": [
+      [
+        "Tu paragauk, koks geras Jis,",
+        "Ir regėsi tu, koks geras Jis.",
+        "Jis geras tau ir Jis geras man,",
+        "Ką beveiktum tu — visad ragauk."
+      ],
+      [
+        "Viešpatie Jėzau — šauki Jį!",
+        "Viešpatie Jėzau — šauki Jį!",
+        "Malonė po malonės,",
+        "Tau ji gyvenimą staiga pakeis."
+      ],
+      [
+        "Širdis pajus, kai meilė plūs,",
+        "Širdis pajus, kai meilė plūs.",
+        "Ir iš dangaus pripildys ją,",
+        "Pažinsi Dievą tu sava dvasia."
+      ],
+      [
+        "Už Jo gyvybę šlovink Jį,",
+        "Ji mumyse — tu šlovink Jį.",
+        "Išliejo Kristų į tave,",
+        "Jisai gyvybė — gyvenki ja."
+      ]
+    ]
+  },
+  {
+    "number": 99,
+    "title": "RAŠTO VIETOS GIEDOJIMUI",
+    "sub-title": "PSALMĖ 116:12—13",
+    "languages": {
+      "russian": 793,
+      "english": 1336
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1336",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1336_i.mp3",
+    "verses": [
+      [
+        "Kuo Viešpačiui atlyginsiu",
+        "Už visa, už visa, už visa ką padarė Jis?",
+        "Priimsiu gelbėjimo taurę,",
+        "Ir šauksiuos, ir šauksiuos, ir šauksiuos",
+        "Vardo mano Viešpaties."
+      ]
+    ]
+  },
+  {
+    "number": 100,
+    "title": "RAŠTO VIETOS GIEDOJIMUI",
+    "sub-title": "EVANGELIJA PAGAL JONĄ 13:34",
+    "languages": {
+      "russian": 799,
+      "english": 1343
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1343",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1154_i.mp3",
+    "verses": [
+      [
+        "Naują įsakymą Aš duodu jums:",
+        "„Tad mylėkit viens kitą, kaip Aš myliu jus“",
+        "„Tad mylėkit viens kitą, kaip Aš myliu jus“",
+        "Pažins visi jus, kad mokiniai jūs Mano,",
+        "Jei meilę saugosit visad tarp savęs.",
+        "Pažins visi jus, kad mokiniai jūs Mano,",
+        "Jei meilę saugosit visad tarp savęs."
       ]
     ]
   }
