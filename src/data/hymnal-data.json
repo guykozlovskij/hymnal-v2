@@ -4265,5 +4265,224 @@
       "Tik beverčiai išvedžiojimai mus moko: laukite mirties,",
       "Kristus stato Karalystę žemėje dabar išties."
     ]
+  },
+  {
+    "number": 91,
+    "title": "GEROJI ŽINIA",
+    "sub-title": "KRAUJAS",
+    "languages": {
+      "russian": 744,
+      "english": 1007
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1007",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1007_i.mp3",
+    "verses": [
+      [
+        "Ar žinai tu kraujo jėgą? Pasakyk.",
+        "Ar nuplautas tu Jėzaus krauju?",
+        "Ar pasitiki malone Dievo tu?",
+        "Ar nuplautas tu Jėzaus krauju?"
+      ],
+      [
+        "Ar kiekvieną dieną seki Vieš pačiu?",
+        "Ar nuplautas tu Jėzaus krauju?",
+        "Ir ar ieškai sielvarte ramybės tu?",
+        "Ar nuplautas tu Jėzaus krauju?"
+      ],
+      [
+        "Kai Jaunikis grįš, ar rūbas bus švarus?",
+        "Ar nuplautas tu Jėzaus krauju?",
+        "Ar švytėsi tu sava siela prieš Jį?",
+        "Ar nuplautas tu Jėzaus krauju?"
+      ],
+      [
+        "Nuodėmingus drabužius paliki tu.",
+        "Ar nuplautas tu Jėzaus krauju?",
+        "Sielos nešvarą nuplauki tu krauju,",
+        "Būk nuplautas tu Jėzaus krauju."
+      ]
+    ],
+    "chorus": [
+      "Ar švarus tu? Kraujas Jo",
+      "Gali nuodėmes tavo nuplaut.",
+      "Avinėlio kraujas liejosi už mus,",
+      "Kad tu būtum šiandieną skaistus."
+    ]
+  },
+  {
+    "number": 92,
+    "title": "GEROJI ŽINIA",
+    "sub-title": "ATĖJIMAS PAS VIEŠPATĮ",
+    "languages": {
+      "russian": 765,
+      "english": 1048
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/nt/1048",
+    "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e1048_new.mp3",
+    "verses": [
+      [
+        "Nieks neišteisina manęs,",
+        "Tik Tavo kraujas šventas.",
+        "Žinau aš, kad šauki mane,",
+        "Einu aš, Jėzau, pas Tave."
+      ],
+      [
+        "Einu dabar, nelauksiu aš,",
+        "Kol sieloje nurims audra.",
+        "Šventu krauju nuplauk mane,",
+        "Einu aš, Jėzau, pas Tave."
+      ],
+      [
+        "Nors mane drasko viduje",
+        "Ramybės nėra širdyje.",
+        "Esu kovoj ir baimėje,",
+        "Einu aš, Jėzau pas Tave."
+      ],
+      [
+        "Koks alkanas ir aklas aš,",
+        "Bet Tu esi turtingas man.",
+        "Aš viską rasiu Tavyje,",
+        "Einu aš, Jėzau, pas Tave."
+      ],
+      [
+        "Koks aš esu — priimsi Tu,",
+        "Tikiu aš Tavo pažadu.",
+        "Išliesi man malonę,",
+        "Einu aš, Jėzau, pas Tave."
+      ],
+      [
+        "Beribė meilė Tavo man",
+        "Pašalino kliūtis visas.",
+        "Dabar aš Tavo meilėje,",
+        "Einu aš, Jėzau, pas Tave."
+      ]
+    ]
+  },
+  {
+    "number": 93,
+    "title": "GEROJI ŽINIA",
+    "sub-title": "ATĖJIMAS PAS VIEŠPATĮ",
+    "languages": {
+      "russian": 767,
+      "english": 1051
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1051",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1051_i.mp3",
+    "verses": [
+      [
+        "Girdžiu šaukimą aš,",
+        "Tu pas Save kvieti.",
+        "Savu šventu krauju mane",
+        "Tu nori apvalyt."
+      ],
+      [
+        "Nors silpnas aš esu",
+        "Ir nuodėmė many,",
+        "Nuplauni Tu mane krauju,",
+        "Šventumą suteiki."
+      ],
+      [
+        "O Jėzau, Tu užbaik",
+        "Šį darbą manyje.",
+        "Suteik malonę man, meldžiu,",
+        "Ją lieki į mane."
+      ],
+      [
+        "Kas ištikimas Jam —",
+        "Suteikia viską Jis.",
+        "Tik nenustok į Jį tikėt,",
+        "Laikykis Jo širdy."
+      ],
+      [
+        "Garbė už kraują Jo,",
+        "Garbė, nes šventas Jis.",
+        "Palaimą teikia Kristus mums —",
+        "Tik Jo dėka tyri."
+      ]
+    ],
+    "chorus": [
+      "Pas Tave einu,",
+      "Mano Viešpatie.",
+      "Nuodėmes manas nuplauk,",
+      "Brangiausiuoju krauju."
+    ]
+  },
+  {
+    "number": 94,
+    "title": "GEROJI ŽINIA",
+    "sub-title": "ATĖJIMAS PAS VIEŠPATĮ",
+    "languages": {
+      "russian": 768,
+      "english": 1052
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1052",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1052_i.mp3",
+    "verses": [
+      [
+        "Toks Dievui tolimas buvau,",
+        "Bet einu namo.",
+        "Aš nuodėmėje gyvenau,",
+        "Bet einu namo."
+      ],
+      [
+        "Prabėgo metų daug tuščiai,",
+        "Aš einu namo.",
+        "Su ašarom atgailavau,",
+        "Aš einu namo."
+      ],
+      [
+        "Pavargęs būti nuodėmėj,",
+        "Aš einu namo.",
+        "Pasitikiu tik Tavimi,",
+        "Aš einu namo."
+      ],
+      [
+        "Ir skausmas širdį varsto man,",
+        "Aš einu namo.",
+        "Jėgų man duoki ir vilties,",
+        "Aš einu namo."
+      ],
+      [
+        "Visa viltis tik Tavyje,",
+        "Aš einu namo.",
+        "Pats Viešpats mirė už mane,",
+        "Aš einu namo."
+      ],
+      [
+        "Apsivalysiu Jo krauju,",
+        "Aš einu namo.",
+        "Nuplauk už sniegą dar balčiau,",
+        "Aš einu namo."
+      ]
+    ],
+    "chorus": [
+      "Viešpatie, aš einu,",
+      "Aš einu namo!",
+      "Viešpatie, sutik mane!",
+      "Aš einu namo."
+    ]
+  },
+  {
+    "number": 95,
+    "title": "GEROJI ŽINIA",
+    "sub-title": "ŠAUKIMASIS JO",
+    "languages": {
+      "russian": 770,
+      "english": 1055
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1055",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0267_i.mp3",
+    "verses": [
+      [
+        "Nuodėmingas, be vilties aš,",
+        "Skausmuose, tamsoj, mirty.",
+        "Štai dabar, o Gelbėtojau!",
+        "Gelbėki mane meldžiu.",
+        "Gelbėki, gelbėki,",
+        "Tu mane išlaisvinki.",
+        "Nuodėmingas aš ir kritęs —",
+        "Štai dabar išgelbėki."
+      ]
+    ]
   }
 ]
