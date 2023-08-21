@@ -3,6 +3,7 @@ import json from '../data/hymnal-data.json'
 </script>
 
 <script>
+console.log(json)
 export default {
   data() {
     return {
