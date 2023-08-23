@@ -1,6 +1,5 @@
 <script setup>
 import json from '../data/hymnal-data.json'
-// import {ref} from 'vue'
 </script>
 
 <script>
@@ -32,12 +31,6 @@ export default {
     },
   },
 }
-
-
-
-
-
-
 </script>
 
 <template>
@@ -53,7 +46,7 @@ export default {
       </div>
       <div>
         <input v-model="searchValue" placeholder="Paieška">
-        <div v-for="(hymn, index) in hymnsFiltered" :key="index">
+        <div v-for="(hymn, index) in hymnsFiltered" :key="index" @click="$router.push(`/hymns/${hymn.number}`)" role="link">
           {{ hymn.number }}. {{ hymn.title }}
         </div>
       </div>
