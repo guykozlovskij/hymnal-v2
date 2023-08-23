@@ -17,7 +17,7 @@ export default {
         return this.hymnalData.filter((hymn) => {
           return hymn.title.toLowerCase().includes(this.searchValue.trim().toLowerCase()) 
           || String(hymn.number).includes(this.searchValue.trim().toLowerCase())
-          // || hymn.verses.map(verse => verse.map(line => line.includes(this.searchValue.trim().toLowerCase())))
+          || hymn.verses[0][0].includes(this.searchValue.trim().toLowerCase())
         })
       }
       return this.hymnalData
