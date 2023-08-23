@@ -4,6 +4,7 @@ import json from '../data/hymnal-data.json'
 </script>
 
 <script>
+
 export default {
   data() {
     return {
@@ -12,18 +13,29 @@ export default {
     }
   },
   computed: {
+    hymnsSearchable() {
+      return this.hymnalData.map(hymn => {
+        const joinedVerses = hymn.verses.map(verse => verse.join()).join()
+        const joinedChorus = hymn.chorus ? hymn.chorus.join() : ''
+        return joinedVerses + joinedChorus
+      })
+    },
     hymnsFiltered() {
       if (this.searchValue.trim().length > 0) {
-        return this.hymnalData.filter((hymn) => {
-          return hymn.title.toLowerCase().includes(this.searchValue.trim().toLowerCase()) 
-          || String(hymn.number).includes(this.searchValue.trim().toLowerCase())
-          || hymn.verses[0][0].includes(this.searchValue.trim().toLowerCase())
+        return this.hymnalData.filter((hymn, index) => {
+          return hymn.title.toLowerCase().includes(this.searchValue.toLowerCase())
+            || this.hymnsSearchable[index].toLowerCase().includes(this.searchValue.toLowerCase())
+            || String(hymn.number).includes(this.searchValue.toLowerCase())
         })
       }
       return this.hymnalData
-    }
-  }
+    },
+  },
 }
+
+
+
+
 
 
 </script>
