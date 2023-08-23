@@ -12,9 +12,13 @@ export default {
     }
   },
   computed: {
-    hymnsFiltered(){
+    hymnsFiltered() {
       if (this.searchValue.trim().length > 0) {
-        return this.hymnalData.filter((hymn) => hymn.title.toLowerCase().includes(this.searchValue.trim().toLowerCase()))
+        return this.hymnalData.filter((hymn) => {
+          return hymn.title.toLowerCase().includes(this.searchValue.trim().toLowerCase()) 
+          || String(hymn.number).includes(this.searchValue.trim().toLowerCase())
+          // || hymn.verses.map(verse => verse.map(line => line.includes(this.searchValue.trim().toLowerCase())))
+        })
       }
       return this.hymnalData
     }
@@ -29,7 +33,6 @@ export default {
     <section id="home-view">
       <h1>Himnynas V2</h1>
       <br>
-      <!-- TODO conditional rendering based on search results rather than input result-->
       <div id="hymn-list">
         <div v-for="(hymn, index) in hymnalData" :key="index">
           <button class="hymn-select-button" @click="$router.push(`/hymns/${hymn.number}`)" role="link">{{ hymn.number
