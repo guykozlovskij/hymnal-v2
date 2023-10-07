@@ -1,6 +1,7 @@
 <script setup>
 import json from '../data/hymnal-data.json'
-</script>
+// import {ref} from 'vue'
+</script >
 
 <script>
 
@@ -30,6 +31,20 @@ export default {
       return this.hymnalData
     },
   },
+  methods: {
+    getSearchDataFromSate() {
+      const searchData = sessionStorage.getItem('searchValue' || '')
+      if (searchData) {
+        this.searchValue = searchData
+      }
+    },
+    saveSearchState() {
+      sessionStorage.setItem('searchValue', this.searchValue)
+    },
+  },
+  created() {
+    this.getSearchDataFromSate()
+  }
 }
 </script>
 
@@ -45,8 +60,9 @@ export default {
         </div>
       </div>
       <div>
-        <input v-model="searchValue" placeholder="Paieška">
-        <div v-for="(hymn, index) in hymnsFiltered" :key="index" @click="$router.push(`/hymns/${hymn.number}`)" role="link">
+        <input v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška">
+        <div v-for="(hymn, index) in hymnsFiltered" :key="index" @click="$router.push(`/hymns/${hymn.number}`)"
+          role="link">
           {{ hymn.number }}. {{ hymn.title }}
         </div>
       </div>
