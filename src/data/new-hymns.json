@@ -1,40 +1,52 @@
 {
-  "number": 0,
-  "title": "",
-  "sub-title": "",
+  "number": 1,
+  "title": "RAGINIMAS BENDRAUTI SU VIEŠPAČIU",
   "languages": {
-    "russian": 1,
-    "english": 1
+    "russian": 463,
+    "english": 643
   },
-  "hymnal.net-url": "",
-  "melody-url": "",
+  "hymnal.net-url": "https://www.hymnal.net/en/hymn/nt/643",
+  "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e0643_new.mp3",
   "verses": [
     [
-
+      "Skirk laiko regėt Jį,",
+      "Kalbėki su Juo,",
+      "Žodžiu Jo maitinkis,",
+      "Jame pasilik.",
+      "Lauk Jo buvime,",
+      "Romus, nuolankus,",
+      "Ir tik Jo palaiminimo",
+      "Tu ieškok."
     ],
     [
-
+      "Skirk laiko regėt Jį,",
+      "Pasaulis skubus.",
+      "Daug laiko su Jėzum",
+      "Praleiski slaptoj.",
+      "Žvelgdamas į Jėzų,",
+      "Tu būsi kaip Jis.",
+      "Tavam elgesy",
+      "Jo panašumą matys."
     ],
     [
-
+      "Skirk laiko regėt Jį,",
+      "Leisk būt Jam vedliu",
+      "Ir kas benutiktų,",
+      "Nebėk prieky Jo.",
+      "Džiaugsme,liūdesy",
+      "Vis dar seki Jį,",
+      "Žiūrėki į Jėzų,",
+      "Tikėk Jo žodžiu."
     ],
     [
-
-    ],
-    [
-
-    ],
-    [
-
-    ],
-    [
-
-    ],
-    [
-
+      "Skirk laiko regėt Jį,",
+      "Būk sieloj ramus.",
+      "Mintis ir jausmus Jam",
+      "Paveski savus.",
+      "Prie meilės šaltinių",
+      "Dvasia Jo nuves,",
+      "Tuomet Jo malonė",
+      "Tau bus suteikta."
     ]
-  ],
-  "chorus": [
-
   ]
 }
