@@ -153,5 +153,45 @@
       "Ka sako mums draugai nerūpi jau daugiau,",
       "Jėzau, mylim mes Tave."
     ]
+  },
+  {
+    "number": 4,
+    "title": "KRISTAUS KAIP GYVYBĖS PATYRIMAS",
+    "languages": {
+      "russian": 355
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/ns/138",
+    "melody-url": "https://www.hymnal.net/Hymns/NewSongs/mp3/ns0138.mp3",
+    "verses": [
+      [
+        "Tai, ką pasiekt norejau,",
+        "Prarasta tapo man.",
+        "Jėzus išlaisvino",
+        "Nuo to, kuo buvau!",
+        "Viską, ką aš turėjau,",
+        "Blogo ar gero,",
+        "Šiukslėmis tai laikau,",
+        "Kad įgyčiau Jį!"
+      ],
+      [
+        "Pamirški, kas praėjo,",
+        "Į priekį veržkis tu!",
+        "Sieki Šitų dalykų",
+        "Su šia mintim.",
+        "Visad norėk daugiau!",
+        "Veržkis užaugt į Jį,",
+        "Kristų pažink,",
+        "Kad būtum rastas Jame."
+      ]
+    ],
+    "chorus": [
+      "Nepasiduok!",
+      "Bėgsiu, kol nepasieksiu",
+      "Tikslo, kuriam",
+      "Esu aš pašauktas!",
+      "Eisiu pirmyn!",
+      "Veršiuosi ir laikysiuos",
+      "Aš tiktai To, Kurs laiko mane!"
+    ]
   }
 ]
