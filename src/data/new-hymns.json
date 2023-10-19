@@ -1,52 +1,115 @@
-{
-  "number": 1,
-  "title": "RAGINIMAS BENDRAUTI SU VIEŠPAČIU",
-  "languages": {
-    "russian": 463,
-    "english": 643
-  },
-  "hymnal.net-url": "https://www.hymnal.net/en/hymn/nt/643",
-  "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e0643_new.mp3",
-  "verses": [
-    [
-      "Skirk laiko regėt Jį,",
-      "Kalbėki su Juo,",
-      "Žodžiu Jo maitinkis,",
-      "Jame pasilik.",
-      "Lauk Jo buvime,",
-      "Romus, nuolankus,",
-      "Ir tik Jo palaiminimo",
-      "Tu ieškok."
-    ],
-    [
-      "Skirk laiko regėt Jį,",
-      "Pasaulis skubus.",
-      "Daug laiko su Jėzum",
-      "Praleiski slaptoj.",
-      "Žvelgdamas į Jėzų,",
-      "Tu būsi kaip Jis.",
-      "Tavam elgesy",
-      "Jo panašumą matys."
-    ],
-    [
-      "Skirk laiko regėt Jį,",
-      "Leisk būt Jam vedliu",
-      "Ir kas benutiktų,",
-      "Nebėk prieky Jo.",
-      "Džiaugsme,liūdesy",
-      "Vis dar seki Jį,",
-      "Žiūrėki į Jėzų,",
-      "Tikėk Jo žodžiu."
-    ],
-    [
-      "Skirk laiko regėt Jį,",
-      "Būk sieloj ramus.",
-      "Mintis ir jausmus Jam",
-      "Paveski savus.",
-      "Prie meilės šaltinių",
-      "Dvasia Jo nuves,",
-      "Tuomet Jo malonė",
-      "Tau bus suteikta."
+[
+  {
+    "number": 1,
+    "title": "RAGINIMAS BENDRAUTI SU VIEŠPAČIU",
+    "languages": {
+      "russian": 463,
+      "english": 643
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/nt/643",
+    "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e0643_new.mp3",
+    "verses": [
+      [
+        "Skirk laiko regėt Jį,",
+        "Kalbėki su Juo,",
+        "Žodžiu Jo maitinkis,",
+        "Jame pasilik.",
+        "Lauk Jo buvime,",
+        "Romus, nuolankus,",
+        "Ir tik Jo palaiminimo",
+        "Tu ieškok."
+      ],
+      [
+        "Skirk laiko regėt Jį,",
+        "Pasaulis skubus.",
+        "Daug laiko su Jėzum",
+        "Praleiski slaptoj.",
+        "Žvelgdamas į Jėzų,",
+        "Tu būsi kaip Jis.",
+        "Tavam elgesy",
+        "Jo panašumą matys."
+      ],
+      [
+        "Skirk laiko regėt Jį,",
+        "Leisk būt Jam vedliu",
+        "Ir kas benutiktų,",
+        "Nebėk prieky Jo.",
+        "Džiaugsme,liūdesy",
+        "Vis dar seki Jį,",
+        "Žiūrėki į Jėzų,",
+        "Tikėk Jo žodžiu."
+      ],
+      [
+        "Skirk laiko regėt Jį,",
+        "Būk sieloj ramus.",
+        "Mintis ir jausmus Jam",
+        "Paveski savus.",
+        "Prie meilės šaltinių",
+        "Dvasia Jo nuves,",
+        "Tuomet Jo malonė",
+        "Tau bus suteikta."
+      ]
     ]
-  ]
-}
+  },
+  {
+    "number": 2,
+    "title": "VIEŠPATIES ŠLOVINIMAS UŽ JO IŠGELBĖJIMĄ",
+    "languages": {
+      "russian": 84,
+      "english": 116
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/116",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0116_full.mp3",
+    "verses": [
+      [
+        "Koks atpirkimas nuostabus",
+        "O, Viešpatie, Tavy,",
+        "Per amžius neregėta tai,",
+        "Ką Tu man padarei.",
+        "Tu paslaptingas Dieviškas",
+        "Nėr žodžių apsakyt.",
+        "Šis atpirkimas nuostabus",
+        "Aukščiau už gįrius mūs."
+      ],
+      [
+        "Už mus ant kryžiaus perdurtas, -",
+        "Ten kraujas ir vanduo, -",
+        "Tekėjo mums suteikti jie givybę Dievišką.",
+        "Nuplovė ir atpirko mus",
+        "Mums būt priimtinais.",
+        "Atnaujinti givybėje",
+        "Mes esam Tavyje."
+      ],
+      [
+        "Esi Tu grūdas Dieviškas,",
+        "Mirei, kad daug grūdų",
+        "Į kūną sumaišyti juos,",
+        "Dalinti prigimtį.",
+        "Mes Tavo padidėjimas,",
+        "Tu mūsų sudėtis.",
+        "Per mus judi ir gyveni",
+        "Išreikštas Tu esi."
+      ],
+      [
+        "Mes Tavo Kūnas",
+        "Įsikurt gali Tu mumyse.",
+        "Įgytį Sau namus,",
+        "Atrast pasitikėjimą.",
+        "Mes esam Tavo kopija -",
+        "Patenkintas Esi",
+        "Viskuom kas Tu esi Kūne",
+        "Mėgaujames visi."
+      ],
+      [
+        "Žiūrėdami į ženklus čia",
+        "Prisimenam Tave.",
+        "Už dydį aptirkimą",
+        "Šlovę atiduodame.",
+        "Mes - tavo padidėjimas,",
+        "Namai ir nuotaka.",
+        "Dėkojam, šlovinam Tave",
+        "Ir aukštinsim visad."
+      ]
+    ]
+  }
+]
