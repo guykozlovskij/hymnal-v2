@@ -62,7 +62,7 @@ export default {
         </div>
       </section>
       <section id="new-hymns-list">
-        <div v-for="(hymn, index) in newHymnsData" :key="index">
+        <div v-for="(hymn, index) in newHymnsData" :key="index" @click="$router.push(`/hymns/n/${hymn.number}`)" role="link">
           <button class="new-hymn-select-button">
             {{ hymn.title }}
           </button>
