@@ -1,5 +1,8 @@
 * {
-  background-color: whitesmoke;
+  background-color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
 }
 
 #home-view {
@@ -9,24 +12,83 @@
   flex-direction: column;
   h1 {
     font-size: 30px;
-    color: #293339;
+  }
+  h2 {
+    font-size: 25px;
+    text-align: center;
+  }
+  #search-bar {
+    margin-bottom: 30px;
+    padding: 8px 12px;
+    font-size: 14px;
+    width: 250px;
+    color: #555;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
   }
   #hymn-list {
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    max-width: 440px;
+    justify-content: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    max-width: 600px;
     .hymn-select-button {
-      font-size: 20px;
-      width: 40px;
-      height: 40px;
-      margin-left: 2px;
-      margin-right: 2px;
-      margin-bottom: 4px;
+      color: rgb(43, 100, 222);
+      background-color: rgb(225, 229, 236);
+      font-size: 25px;
+      text-align: center;
+      border: 1px solid;
+      border-radius: 5px;
+      margin: 5px;
+      width: 55px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+  }
+  #new-hymns-list {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+    .new-hymn-select-button {
+      border: 1px solid;
+      color: rgb(19, 82, 219);
+      background-color: rgb(225, 229, 236);
+      width: 100%;
+      text-align: left;
+      border-radius: 5px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-bottom: 15px;
+    }
+  }
+  #search-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    #search-result-wrapper {
+      display: flex;
+      flex-direction: column;
+      .search-result {
+      }
     }
   }
 }
 
 .hymn-view {
+  line-height: 1.42857143;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -45,7 +107,7 @@
     background-color: #4e4e4e69;
   }
   .verses {
-    //!!! Comeback to left adjustment 
+    //!!! Comeback to left adjustment
     position: relative;
     left: 20px;
     .hymn-verse {

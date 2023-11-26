@@ -1,12 +1,9 @@
 <script setup>
 import hymnalJSON from '../data/hymnal-data.json'
 import newHymnsJSON from '../data/new-hymns.json'
-
-// import {ref} from 'vue'
 </script >
 
 <script>
-
 export default {
   data() {
     return {
@@ -55,8 +52,7 @@ export default {
   <main>
     <section id="home-view">
       <h1>Himnynas V2</h1>
-      <input v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška">
-      <br>
+      <input id="search-bar" v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška">
       <section v-if="!searchValue" id="hymn-list">
         <div v-for="(hymn, index) in hymnalData" :key="index">
           <button class="hymn-select-button" @click="$router.push(`/hymns/${hymn.number}`)" role="link">{{ hymn.number
@@ -64,19 +60,21 @@ export default {
         </div>
       </section>
       <section v-if="!searchValue" id="new-hymns-list">
+        <h2>Nauji Himnai</h2>
         <div v-for="(hymn, index) in newHymnsData" :key="index" @click="$router.push(`/hymns/n/${hymn.number}`)"
           role="link">
           <button class="new-hymn-select-button">
-            {{ hymn.title }}
+            {{ hymn.number }} {{ hymn.title }}
           </button>
         </div>
       </section>
       <section>
-        <!-- TODO  -->
-        <section v-if="searchValue" id="searchList">
-          <div v-for="(hymn, index) in hymnsFiltered" :key="index" @click="$router.push(`/hymns/${hymn.number}`)"
-            role="link">
-            {{ hymn.number }}. {{ hymn.title }}
+        <section v-if="searchValue" id="search-list">
+          <div id="search-result-wrapper">
+            <div class="search-result" v-for="(hymn, index) in hymnsFiltered" :key="index"
+              @click="$router.push(`/hymns/${hymn.number}`)" role="link">
+              {{ hymn.number }}. {{ hymn.title }}
+            </div>
           </div>
         </section>
       </section>

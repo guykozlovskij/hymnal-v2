@@ -62,6 +62,8 @@ export default {
         </li>
       </ol>
       
+      <button @click="$router.push(`/`)" role="link">« Grįžti</button>
+
     </div>
   </section>
 </template>        

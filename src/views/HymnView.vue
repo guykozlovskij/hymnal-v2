@@ -39,9 +39,9 @@ export default {
       <!--* Not rendering lists if there is only 1 verse -->
       <div v-if="hymnData['verses'].length === 1">
         <span v-for="(line, index) in hymnData.verses[0]" :key="index">
-            {{ line }}
-            <br>
-          </span>
+          {{ line }}
+          <br>
+        </span>
       </div>
 
       <div v-if="hymnData.chorus" class="hymn-chorus">
@@ -59,7 +59,8 @@ export default {
           </span>
         </li>
       </ol>
-      
+
+      <button @click="$router.push(`/`)" role="link">« Grįžti</button>
     </div>
   </section>
 </template>        
