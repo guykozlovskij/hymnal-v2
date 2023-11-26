@@ -55,25 +55,30 @@ export default {
   <main>
     <section id="home-view">
       <h1>Himnynas V2</h1>
+      <input v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška">
       <br>
-      <section id="hymn-list">
+      <section v-if="!searchValue" id="hymn-list">
         <div v-for="(hymn, index) in hymnalData" :key="index">
-          <button class="hymn-select-button" @click="$router.push(`/hymns/${hymn.number}`)" role="link">{{hymn.number }}</button>
+          <button class="hymn-select-button" @click="$router.push(`/hymns/${hymn.number}`)" role="link">{{ hymn.number
+          }}</button>
         </div>
       </section>
-      <section id="new-hymns-list">
-        <div v-for="(hymn, index) in newHymnsData" :key="index" @click="$router.push(`/hymns/n/${hymn.number}`)" role="link">
+      <section v-if="!searchValue" id="new-hymns-list">
+        <div v-for="(hymn, index) in newHymnsData" :key="index" @click="$router.push(`/hymns/n/${hymn.number}`)"
+          role="link">
           <button class="new-hymn-select-button">
             {{ hymn.title }}
           </button>
         </div>
       </section>
       <section>
-        <input v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška">
-        <div v-for="(hymn, index) in hymnsFiltered" :key="index" @click="$router.push(`/hymns/${hymn.number}`)"
-          role="link">
-          {{ hymn.number }}. {{ hymn.title }}
-        </div>
+        <!-- TODO  -->
+        <section v-if="searchValue" id="searchList">
+          <div v-for="(hymn, index) in hymnsFiltered" :key="index" @click="$router.push(`/hymns/${hymn.number}`)"
+            role="link">
+            {{ hymn.number }}. {{ hymn.title }}
+          </div>
+        </section>
       </section>
     </section>
   </main>
