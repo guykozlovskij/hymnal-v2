@@ -3,6 +3,7 @@
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #333;
+  
 }
 
 #home-view {
@@ -60,7 +61,7 @@
       border: 1px solid;
       color: rgb(19, 82, 219);
       background-color: rgb(225, 229, 236);
-      width: 100%;
+      width: 80%;
       text-align: left;
       border-radius: 5px;
       padding-top: 10px;
@@ -110,6 +111,7 @@
     //!!! Comeback to left adjustment
     position: relative;
     left: 20px;
+    
     .hymn-verse {
       margin-bottom: 15px;
     }
@@ -130,4 +132,21 @@
       padding-top: 0px;
     }
   }
+}
+
+nav {
+  position: fixed;
+  bottom: 0;
+  padding: 0px;
+  margin: 0px;
+  left: 0px;
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 70px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
