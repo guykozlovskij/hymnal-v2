@@ -1,9 +1,13 @@
+$theme-color: #448AFF;
+
 * {
-  background-color: #fff;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #333;
-  
+}
+
+header {
+  z-index: 0;
 }
 
 #home-view {
@@ -42,7 +46,7 @@
       background-color: rgb(225, 229, 236);
       font-size: 25px;
       text-align: center;
-      border: 1px solid;
+      border: 0px solid;
       border-radius: 5px;
       margin: 5px;
       width: 55px;
@@ -135,7 +139,7 @@
 }
 
 
-$navigation-color: #448AFF;
+
 
 nav {
   position: fixed;
@@ -150,11 +154,13 @@ nav {
   justify-content: space-around;
   align-items: center;
   height: 70px;
-  background-color: $navigation-color;
-  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+  // background-color: #4489ff69;
+  // box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+  background-color: $theme-color;
   .vue-icon {
-    background-color: $navigation-color;
+    background: transparent;
     fill: white;
+    border: 0px;
   }
 }
 

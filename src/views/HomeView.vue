@@ -51,10 +51,7 @@ export default {
 <template>
   <main>
     <section id="home-view">
-      <v-icon name="gi-ancient-sword" scale="4"/>
-      <p>here</p>
-      <v-icon name="fa-wordpress"  scale="1.5"/>
-      <h1>Himnynas V2</h1>
+      <h1>Himnynas</h1>
       <input id="search-bar" v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška">
       <section v-if="!searchValue" id="hymn-list">
         <div v-for="(hymn, index) in hymnalData" :key="index">

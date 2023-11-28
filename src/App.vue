@@ -4,13 +4,14 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <header>
+    <RouterView />
     <div class="wrapper">
       <nav>
-        <RouterLink to="/"><v-icon class="vue-icon" name="bi-book" scale="2" style="color: transparent;"/></RouterLink>
-        <RouterLink to="/"><v-icon class="vue-icon" name="bi-search" scale="2"/></RouterLink>
-        <RouterLink to="/"><v-icon class="vue-icon" name="bi-gear-wide" scale="2"/></RouterLink>
+        <RouterLink to="/"><v-icon class="vue-icon" name="bi-book" scale="2.3" style="color: transparent;"/></RouterLink>
+        <RouterLink to="/"><v-icon class="vue-icon" name="bi-search" scale="2.3"/></RouterLink>
+        <RouterLink to="/"><v-icon class="vue-icon" name="bi-gear-wide" scale="2.3"/></RouterLink>
       </nav>
     </div>
   </header>
-  <RouterView />
+
 </template>
