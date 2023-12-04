@@ -16,8 +16,11 @@ const router = createRouter({
     {
       path: '/hymns/n/:id',
       component: () => import('../views/NewHymnView.vue')
+    },
+    {
+      path: '/new-hymns',
+      component: () => import('../views/NewHymns.vue')
     }
-
   ]
 })
 

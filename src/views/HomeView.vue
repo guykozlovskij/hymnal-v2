@@ -53,19 +53,11 @@ export default {
     <section id="home-view">
       <h1>Himnynas</h1>
       <input id="search-bar" v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška">
+      <a role="link" @click="$router.push(`/new-hymns`)">« Nauji Himnai »</a>
       <section v-if="!searchValue" id="hymn-list">
         <div v-for="(hymn, index) in hymnalData" :key="index">
           <button class="hymn-select-button" @click="$router.push(`/hymns/${hymn.number}`)" role="link">{{ hymn.number
           }}</button>
-        </div>
-      </section>
-      <section v-if="!searchValue" id="new-hymns-list">
-        <h2>Nauji Himnai</h2>
-        <div v-for="(hymn, index) in newHymnsData" :key="index" @click="$router.push(`/hymns/n/${hymn.number}`)"
-          role="link">
-          <button class="new-hymn-select-button">
-            {{ hymn.number }} {{ hymn.title }}
-          </button>
         </div>
       </section>
       <section>
