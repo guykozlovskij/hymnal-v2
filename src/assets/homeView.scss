@@ -3,6 +3,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  padding-bottom: 100px;
   h1 {
     font-size: 30px;
   }
@@ -10,49 +11,44 @@
     font-size: 25px;
     text-align: center;
   }
-  #search-bar {
-    margin-bottom: 30px;
-    padding: 8px 12px;
-    font-size: 14px;
-    width: 250px;
-    color: #555;
-    background-image: none;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
-  #hymn-list {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 80px;
-    max-width: 600px;
-    .hymn-select-button {
-      color: rgb(43, 100, 222);
-      background-color: rgb(225, 229, 236);
-      font-size: 20px;
-      border: 1px solid;
-      border-radius: 5px;
-      margin: 5px;
-      width: 45px;
-      padding: 0px;
-      width: 50px;
-      height: 50px;
-    }
-  }
-  #search-list {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  #new-hymns-link {
+    font-size: 25px;
     text-align: center;
-    width: 100%;
-    #search-result-wrapper {
-      display: flex;
-      flex-direction: column;
-      .search-result {
-      }
-    }
+    color: $theme-color;
+    padding-bottom: 25px;
+  }
+}
+
+#search-bar {
+  margin-bottom: 30px;
+  padding: 8px 12px;
+  font-size: 14px;
+  width: 250px;
+  color: #555;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#hymn-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 80px;
+  max-width: 600px;
+  .hymn-select-button {
+    color: rgb(43, 100, 222);
+    background-color: rgb(225, 229, 236);
+    font-size: 20px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 5px;
+    width: 45px;
+    padding: 0px;
+    width: 50px;
+    height: 50px;
   }
 }

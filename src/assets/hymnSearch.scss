@@ -1,0 +1,14 @@
+#search-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  font-size: 17px;
+  padding-left: 25px;
+  padding-right: 25px;
+  max-width: fit-content;
+  line-height: 1.42857143;
+  #search-result-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+}

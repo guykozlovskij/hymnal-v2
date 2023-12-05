@@ -1,11 +1,9 @@
 * {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
   color: #333;
 }
 
 $theme-color: #448aff;
 
+@import "nav", "homeView", "hymnView", "newHymnsList.scss", "hymnSearch";
 
-
-@import "nav", "homeView", "hymnView", "newHymns.scss";

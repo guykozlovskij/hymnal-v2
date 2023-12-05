@@ -19,7 +19,7 @@ const router = createRouter({
     },
     {
       path: '/new-hymns',
-      component: () => import('../views/NewHymns.vue')
+      component: () => import('../views/NewHymnsList.vue')
     }
   ]
 })
