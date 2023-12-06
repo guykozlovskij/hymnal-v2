@@ -41,6 +41,11 @@ export default {
     saveSearchState() {
       sessionStorage.setItem('searchValue', this.searchValue)
     },
+    onQueryChange(event) {
+      if (event.target.value.trim().length === 0) {
+        this.response = null;
+      }
+    }
   },
   created() {
     this.getSearchDataFromSate()
@@ -52,7 +57,8 @@ export default {
   <main>
     <section id="home-view">
       <h1>Himnynas</h1>
-      <input id="search-bar" v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška">
+      <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue"
+        placeholder="Paieška">
       <a id="new-hymns-link" role="link" @click="$router.push(`/new-hymns`)">« Nauji Himnai »</a>
       <section v-if="!searchValue" id="hymn-list">
         <div v-for="(hymn, index) in hymnalData" :key="index">
@@ -62,9 +68,10 @@ export default {
       </section>
       <section>
         <section v-if="searchValue" id="search-list">
-            <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index" @click="$router.push(`/hymns/${hymn.number}`)" role="link">
-              <a class="search-result-line">{{ hymn.number }}. {{ hymn.verses[0][0] }}</a>
-            </div>
+          <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index"
+            @click="$router.push(`/hymns/${hymn.number}`)" role="link">
+            <a class="search-result-line">{{ hymn.number }}. {{ hymn.verses[0][0].replace(/\.$|\,$|\:$|\!$|\—$/, "") }}</a>
+          </div>
         </section>
       </section>
     </section>
