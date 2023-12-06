@@ -57,22 +57,12 @@ export default {
   <main>
     <section id="home-view">
       <h1>Himnynas</h1>
-      <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue"
-        placeholder="Paieška">
-      <a id="new-hymns-link" role="link" @click="$router.push(`/new-hymns`)">« Nauji Himnai »</a>
-      <section v-if="!searchValue" id="hymn-list">
-        <div v-for="(hymn, index) in hymnalData" :key="index">
-          <button class="hymn-select-button" @click="$router.push(`/hymns/${hymn.number}`)" role="link">{{ hymn.number
-          }}</button>
+      <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška">
+      <section id="search-list">
+        <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index"
+          @click="$router.push(`/hymns/${hymn.number}`)" role="link">
+          <a class="search-result-line">{{ hymn.number }}. {{ hymn.verses[0][0].replace(/\.$|\,$|\:$|\!$|\—$/, "") }}</a>
         </div>
-      </section>
-      <section>
-        <section v-if="searchValue" id="search-list">
-          <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index"
-            @click="$router.push(`/hymns/${hymn.number}`)" role="link">
-            <a class="search-result-line">{{ hymn.number }}. {{ hymn.verses[0][0].replace(/\.$|\,$|\:$|\!$|\—$/, "") }}</a>
-          </div>
-        </section>
       </section>
     </section>
   </main>
