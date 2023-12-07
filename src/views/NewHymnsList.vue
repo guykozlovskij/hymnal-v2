@@ -1,6 +1,6 @@
 <script setup>
 import newHymnsJSON from '../data/new-hymns.json'
-</script>
+</script >
 
 <script>
 export default {
