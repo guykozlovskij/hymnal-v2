@@ -1,7 +1,7 @@
 <script setup>
 import hymnalJSON from '../data/hymnal-data.json'
 import newHymnsJSON from '../data/new-hymns.json'
-</script >
+</script>
 
 <script>
 export default {
