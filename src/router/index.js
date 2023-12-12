@@ -6,12 +6,12 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: () => import('../views/HomeView.vue')
+      component: () => import('../views/HymnIndex.vue')
     },
     {
-      path: '/index',
-      name: 'index',
-      component: () => import('../views/HymnIndex.vue')
+      path: '/search',
+      name: 'search',
+      component: () => import('../views/SearchView.vue')
     },
     {
       path: '/hymns/:id',
@@ -24,6 +24,10 @@ const router = createRouter({
     {
       path: '/new-hymns',
       component: () => import('../views/NewHymnsList.vue')
+    },
+    {
+      path: '/settings',
+      component: () => import('../views/SettingsView.vue')
     }
   ]
 })

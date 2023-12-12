@@ -3,8 +3,6 @@ import hymnalJSON from '../data/hymnal-data.json'
 import newHymnsJSON from '../data/new-hymns.json'
 </script>
 
-<!-- TODO -->
-
 <script>
 export default {
   data() {
@@ -61,7 +59,7 @@ export default {
     <section id="home-view">
       <h1>Himnynas</h1>
       <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue"
-        placeholder="Paieška">
+        placeholder="Paieška" type="search">
       <section id="search-list">
         <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index"
           @click="$router.push(`/hymns/${hymn.number}`)" role="link">
