@@ -17,9 +17,14 @@ export default {
     <div class="hymn-intro">
       <h4>{{ hymnData.number }}. {{ hymnData.title }}</h4>
       <h4 v-if="hymnData['sub-title']">{{ hymnData['sub-title'] }}</h4>
-      <h4 v-if="hymnData['languages']">(R{{ hymnData.languages.russian }}, A{{ hymnData.languages.english }})</h4>
+      <h4 v-if="hymnData['languages']">
+        (
+        <span v-if="hymnData['languages']['russian']">R{{ hymnData.languages.russian }},</span>
+        <span v-if="hymnData['languages']['russian']">A{{ hymnData.languages.english }}</span>
+        )
+      </h4>
     </div>
-    <audio v-if="hymnData['melody-url']" class="hymn-mp3" controls="" autostart="false" preload="none" name="media">
+    <audio controls loop v-if="hymnData['melody-url']" class="hymn-mp3" autostart="false" preload="none" name="media">
       <source v-bind:src="hymnData['melody-url']" type="audio/mpeg">
     </audio>
     <div class="verses">
@@ -51,7 +56,7 @@ export default {
           </span>
         </li>
       </ol>
-      <button @click="$router.push(`/`)" role="link">« Grįžti</button>
+      <button @click="$router.go(-1)" role="link">« Grįžti</button>
     </div>
   </section>
 </template>        
