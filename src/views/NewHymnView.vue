@@ -23,7 +23,7 @@ export default {
       <h4 v-if="newHymnData['languages']">(R{{ newHymnData.languages.russian }}, A{{ newHymnData.languages.english }})
       </h4>
     </div>
-    <audio v-if="newHymnData['melody-url']" class="hymn-mp3" controls="" autostart="false" preload="none" name="media">
+    <audio v-if="newHymnData['melody-url']" class="hymn-mp3" controls="" autostart="false" preload="auto" name="media">
       <source v-bind:src="newHymnData['melody-url']" type="audio/mpeg">
     </audio>
     <div class="verses">

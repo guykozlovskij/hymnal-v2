@@ -1,4 +1,4 @@
-#home-view {
+#search-view {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -23,9 +23,7 @@
   line-height: 1.42857143;
   width: 100%;
   max-width: 380px;
-  a{
-    // padding-left: 10px;
-    // padding-right: 5px;
+  a {
     font-size: 17px;
   }
 }

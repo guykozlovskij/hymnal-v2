@@ -24,7 +24,7 @@ export default {
         )
       </h4>
     </div>
-    <audio controls loop v-if="hymnData['melody-url']" class="hymn-mp3" autostart="false" preload="none" name="media">
+    <audio controls loop v-if="hymnData['melody-url']" class="hymn-mp3" autostart="false" preload="auto" name="media">
       <source v-bind:src="hymnData['melody-url']" type="audio/mpeg">
     </audio>
     <div class="verses">
