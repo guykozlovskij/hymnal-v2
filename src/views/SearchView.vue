@@ -63,7 +63,7 @@ export default {
       <section id="search-list">
         <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index"
           @click="$router.push(`/hymns/${hymn.number}`)" role="link">
-          <div class="search-result-line" v-bind:style="{ backgroundColor: colors[index % 2] }">
+          <div class="search-result-line" v-bind:style="{ backgroundColor: colors[index % 2]}">
             <a>{{ hymn.number }}. {{ hymn.verses[0][0].replace(/\.$|\,$|\:$|\!$|\—$/, "") }}</a>
           </div>
         </div>

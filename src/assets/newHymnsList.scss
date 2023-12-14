@@ -1,21 +1,27 @@
 #new-hymns-page {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  padding-left: 25px;
-  padding-right: 25px;
-  line-height: 1.42857143;
+  justify-content: center;
+  flex-direction: column;
+  padding-bottom: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #new-hymns-list {
-  display: flex;
-  flex-direction: column;
-  padding-top: 20px;
-  font-size: 20px;
-  text-align: left;
+  line-height: 1.42857143;
+  width: 100%;
+  max-width: 380px;
+  a {
+    font-size: 17px;
+  }
 }
 
 .new-hymn-select-button {
-  font-size: 16px;
-  color: $theme-color;
+  padding: 5px 8px;
+  color: $text-dark-blue;
+}
+
+.new-hymn-select-button:hover {
+  color: $text-blue;
 }
