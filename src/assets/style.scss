@@ -2,7 +2,14 @@
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+body{
+  padding-top: 10px;
+  padding-bottom: 90px;
+}
+$text-blue: rgb(43, 100, 222);
 $theme-color: #448aff;
+$accent-light: #d0e0fd;
+$accent-darker: #acc9ff;
 
 @import "nav", "searchView", "hymnIndexView", "hymnView", "newHymnsList.scss", "dark-light.scss";
 

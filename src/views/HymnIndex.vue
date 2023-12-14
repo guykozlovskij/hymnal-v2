@@ -18,7 +18,7 @@ export default {
 <template>
   <main>
     <section id="index-view">
-      <h1>Index</h1>
+      <h1>Himnyas</h1>
       <a id="new-hymns-link" role="link" @click="$router.push(`/new-hymns`)">« Nauji Himnai »</a>
       <section v-if="!searchValue" id="hymn-list">
         <div v-for="(hymn, index) in hymnalData" :key="index">
