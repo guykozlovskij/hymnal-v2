@@ -14,7 +14,7 @@ const toggleDark = useToggle(isDark);
 
 <template>
   <section>
-    <h1>Settings</h1>
+    <h1>Nustatymai</h1>
     <p>Dark theme {{ isDark }}</p>
     <button @click="toggleDark()">Toggle Color Mode</button>
   </section>

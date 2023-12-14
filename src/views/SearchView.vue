@@ -59,7 +59,7 @@ export default {
     <section id="search-view">
       <h1>Himnynas</h1>
       <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue"
-        placeholder="Paieška" type="search">
+        placeholder="Pavizdys: negalim išsakyti" type="search">
       <section id="search-list">
         <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index"
           @click="$router.push(`/hymns/${hymn.number}`)" role="link">
