@@ -3,16 +3,15 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 30px;
-  margin-bottom: 100px;
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-top: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
   .hymn-intro {
     text-align: center;
-    padding-bottom: 15px;
+    padding-bottom: 25px;
     h3,
     h4 {
-      font-size: 20px;
+      font-size: 18px;
       margin-bottom: 0px;
       margin-top: 0px;
     }
@@ -21,7 +20,9 @@
     background-color: #4e4e4e69;
   }
   .verses {
-    font-size: 16px;
+    max-width: 250px;
+    padding-top: 15px;
+    font-size: 15px;
     position: relative;
     left: 20px;
     .hymn-verse {
@@ -44,4 +45,13 @@
       padding-top: 0px;
     }
   }
+}
+
+.hymn-back-button {
+  background-color: $theme-color;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  padding: 6px 12px;
+  line-height: 1.5;
+  color: white;
 }

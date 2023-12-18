@@ -19,7 +19,7 @@ const toggleDark = useToggle(isDark);
     <h1>Nustatymai</h1>
     <div Class="settings-div">
       <p class="settings-title">Tamsi Tema</p>
-      <VueToggles :width="50" @click="toggleDark()" value="true" />
+      <VueToggles :width="50" @click="toggleDark()" value="false" />
     </div>
   </section>
 </template>

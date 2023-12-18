@@ -19,7 +19,7 @@ export default {
       <h4 v-if="hymnData['sub-title']">{{ hymnData['sub-title'] }}</h4>
       <h4 v-if="hymnData['languages']">
         (
-        <span v-if="hymnData['languages']['russian']">R{{ hymnData.languages.russian }},</span>
+        <span v-if="hymnData['languages']['russian']">R{{ hymnData.languages.russian }}, </span>
         <span v-if="hymnData['languages']['russian']">A{{ hymnData.languages.english }}</span>
         )
       </h4>
@@ -41,6 +41,7 @@ export default {
           {{ line }}
           <br>
         </span>
+        <br>
       </div>
       <div v-if="hymnData.chorus" class="hymn-chorus">
         <span v-for="(line, index) in hymnData.chorus" :key="index">
@@ -56,7 +57,7 @@ export default {
           </span>
         </li>
       </ol>
-      <button @click="$router.go(-1)" role="link">« Grįžti</button>
     </div>
+    <button class="hymn-back-button" @click="$router.go(-1)" role="link">« Grįžti</button>
   </section>
 </template>        

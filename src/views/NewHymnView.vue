@@ -55,7 +55,7 @@ export default {
           </span>
         </li>
       </ol>
-      <button @click="$router.push(`/`)" role="link">« Grįžti</button>
     </div>
+    <button class="hymn-back-button" @click="$router.push(`/`)" role="link">« Grįžti</button>
   </section>
 </template>        
