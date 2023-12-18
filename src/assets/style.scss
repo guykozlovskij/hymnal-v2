@@ -17,6 +17,13 @@ $theme-color: #448aff;
 $accent-light: #d0e0fd;
 $accent-darker: #acc9ff;
 
-@import "nav", "searchView", "hymnIndexView", "hymnView", "newHymnsList.scss", "dark-light.scss";
+@import 
+"nav", 
+"searchView",
+"hymnIndexView", 
+"hymnView", 
+"newHymnsList.scss", 
+"settingsView.scss", 
+"dark-light.scss";
 
 

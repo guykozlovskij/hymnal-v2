@@ -1,0 +1,19 @@
+#settings-view {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.settings-div {
+  width: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  .settings-title{
+    font-size: 20px;
+  }
+}
