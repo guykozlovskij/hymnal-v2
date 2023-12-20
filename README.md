@@ -1,6 +1,7 @@
-# Hymnal V2
+# Hymnal V2 - WIP
+A progressive web app serving as a Lithuanian Church hymnal
 
-A progressive web app hymnal.
+Deployed at [hymnal-v2.vercel.app](https://hymnal-v2.vercel.app/)
 
 ## Customize configuration
 
@@ -15,7 +16,11 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
+# For running locally
 npm run dev
+
+# Exposes Network IP. When run, follow the URL https://192.168.1.100:5173/ on your mobile device for testing
+npm run dev -- --host  
 ```
 
 ### Compile and Minify for Production
@@ -24,8 +29,5 @@ npm run dev
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
 
-```sh
-npm run lint
-```
+

@@ -10,7 +10,7 @@ addIcons(BiBook, BiSearch, BiStar, BiGearWide)
 
 const app = createApp(App)
 
-app.component("v-icon", OhVueIcon);
+app.component("v-icon", OhVueIcon)
 
 app.use(router)
 

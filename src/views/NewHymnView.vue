@@ -1,4 +1,5 @@
-<!-- TODO: This duplicate file will be retired as soon as new hymns are re-numbered and made part of the core hymnal -->
+<!-- TODO: This duplicate file will be retired as soon as the new hymns are re-numbered and made part of the core hymnal. It'sa complete copy of HymnView.vue -->
+<!-- TODO: If making changes to the HymnView.vue, upon completion please copy and paste the changes (overwriting everything inside the template tag is easiest) -->
 
 <script setup>
 import json from '../data/new-hymns.json'
