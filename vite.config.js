@@ -12,6 +12,7 @@ export default defineConfig({
     vueJsx(),
     VitePWA({
       manifest: {
+        name: "Himnynas",
         icons: [
           {
             src: '/icons/icon.png',
