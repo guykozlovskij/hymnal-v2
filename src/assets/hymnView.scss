@@ -17,12 +17,12 @@
     }
   }
   .hymn-mp3::-webkit-media-controls-panel {
-    background-color: #4e4e4e69;
+    background-color: $accent-darker;
   }
   .verses {
     max-width: 250px;
     padding-top: 15px;
-    font-size: 15px;
+    font-size: 16px;
     position: relative;
     left: 20px;
     .hymn-verse {
@@ -48,10 +48,12 @@
 }
 
 .hymn-back-button {
-  background-color: $theme-color;
+  margin-top: 15px;
+  font-size: 16px;
+  background-color: $accent-darker;
   border: 1px solid transparent;
   border-radius: 0.25rem;
   padding: 6px 12px;
   line-height: 1.5;
-  color: white;
+  color: rgb(0, 0, 0);
 }
