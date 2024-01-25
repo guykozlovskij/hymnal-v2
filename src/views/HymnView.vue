@@ -8,8 +8,18 @@ export default {
     return {
       hymnData: json[this.$route.params.id - 1]
     }
+  },
+  methods: {
+    scrollToTop() {
+      window.scrollTo(0, 0);
+    }
+  },
+  created() {
+    this.scrollToTop()
   }
+
 }
+
 </script>
 
 <template>
@@ -20,7 +30,7 @@ export default {
       <h4 v-if="hymnData['languages']">
         (
         <span v-if="hymnData['languages']['russian']">R{{ hymnData.languages.russian }}, </span>
-        <span v-if="hymnData['languages']['russian']">A{{ hymnData.languages.english }}</span>
+        <span v-if="hymnData['languages']['english']">A{{ hymnData.languages.english }}</span>
         )
       </h4>
     </div>

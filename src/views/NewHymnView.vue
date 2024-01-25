@@ -11,7 +11,7 @@ export default {
     return {
       newHymnData: json[this.$route.params.id - 1]
     }
-  }
+  },
 }
 
 </script>
