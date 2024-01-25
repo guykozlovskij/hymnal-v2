@@ -13,6 +13,7 @@ export default defineConfig({
     VitePWA({
       manifest: {
         name: "Himnynas",
+        short_name: "Himnynas",
         icons: [
           {
             src: '/icons/icon.png',
