@@ -9,7 +9,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <nav>
         <RouterLink to="/"><v-icon class="vue-icon" name="bi-book" scale="2.2" /></RouterLink>
         <RouterLink to="/search"><v-icon class="vue-icon" name="bi-search" scale="2.2" /></RouterLink>
-        <RouterLink to="/settings"><v-icon class="vue-icon" name="bi-gear-wide" scale="2.3" /></RouterLink>
+        <RouterLink to="/settings"><v-icon class="vue-icon" name="bi-gear-wide" scale="2.2" /></RouterLink>
       </nav>
     </div>
   </header>
