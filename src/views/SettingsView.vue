@@ -1,6 +1,6 @@
 <script setup>
 // import { useDark, useToggle  } from '@vueuse/core'
-import { VueToggles } from "vue-toggles"
+// import { VueToggles } from "vue-toggles"
 </script>
 
 <script>
@@ -18,8 +18,9 @@ import { VueToggles } from "vue-toggles"
   <section id="settings-view">
     <h1>Nustatymai</h1>
     <div Class="settings-div">
-      <p class="settings-title">Tamsi Tema</p>
-      <VueToggles :width="50" @click="toggleDark()" value="false" />
+      <!-- <p class="settings-title">Tamsi Tema</p> -->
+      <!-- <VueToggles :width="50" @click="toggleDark()" value="false" /> -->
+      <strong>Daugiau informacijos bus pridėta greitai.</strong>
     </div>
   </section>
 </template>
