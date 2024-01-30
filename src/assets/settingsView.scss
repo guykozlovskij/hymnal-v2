@@ -2,8 +2,8 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .settings-div {
@@ -26,7 +26,7 @@
   border: 2px solid $accent-darker;
   // box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
   .update-card {
-    width: 84%;
+    width: 80%;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
     border-radius: 30px;
     background-color: $accent-light;
