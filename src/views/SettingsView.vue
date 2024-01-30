@@ -17,10 +17,15 @@
 <template>
   <section id="settings-view">
     <h1>Nustatymai</h1>
-    <div Class="settings-div">
-      <!-- <p class="settings-title">Tamsi Tema</p> -->
-      <!-- <VueToggles :width="50" @click="toggleDark()" value="false" /> -->
-      <strong>Daugiau informacijos bus pridėta greitai.</strong>
-    </div>
+    <!-- <p class="settings-title">Tamsi Tema</p> -->
+    <!-- <VueToggles :width="50" @click="toggleDark()" value="false" /> -->
+    <section id="change-log">
+      <h3>Pakeitimų Žurnalas</h3>
+      <ul class="update-card">
+        <strong>2024-01-30</strong>
+        <li>Himnas #1 - "šventoji" -> "Šventoji"</li>
+        <li>Himnas #28 - pakeista melodija</li>
+      </ul>
+    </section>
   </section>
 </template>

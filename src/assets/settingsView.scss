@@ -1,19 +1,36 @@
 #settings-view {
   display: flex;
   align-items: center;
-  justify-content: center;
   flex-direction: column;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .settings-div {
-  width: 200px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  width: 100%;
   .settings-title {
     font-size: 20px;
+  }
+}
+
+#change-log {
+  width: 100%;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 30px;
+  overflow-y: scroll;
+  height: 450px;
+  background-color: rgb(230, 239, 254);
+  border: 2px solid $accent-darker;
+  // box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+  .update-card {
+    width: 84%;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    border-radius: 30px;
+    background-color: $accent-light;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 }
