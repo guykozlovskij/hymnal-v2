@@ -350,18 +350,56 @@
   },
   {
     "number": 8,
-    "title": "KAS APSAKYS DIDYBĘ JO",
+    "title": "KRISTAUS KAIP GYVYBĖS PATYRIMAS",
+    "languages": {
+      "russian": 505,
+      "english": 355
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/505",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0505_full.mp3",
     "verses": [
       [
-        "Kas apsakys didybę Jo ir valdžią pamatuos,",
-        "Jis trykšta gyvybės jėga!",
-        "Priklaups karaliai žemės šios ir Jėzaus",
-        "vardui nusilenks, šaltiniui Meilės ir Šviesos! }2k",
-        "Kas apsakys didybę Jo.",
-        "Kas apsakys Meilę Kristaus Viešpaties?",
-        "Kas apsakys didybę Jo?",
-        "Kas apsakys šviesą Jo?",
-        "Kas apsakys meilę Kristaus?"
+        "Štai Žmogus šlovėje,",
+        "Gyvybė Jo man.",
+        "Jis tyras ir šventas,",
+        "Triumfuojantis Jis.",
+        "Jis laisvas ir mylintis,",
+        "Koks Jis švelnus!",
+        "Turėti gyvybę",
+        "Šlovėj Jo galiu."
+      ],
+      [
+        "Štai Žmogus šlovėje,",
+        "Gyvybė Jo man.",
+        "Šėtoną įveikęs",
+        "Be pančių Jisai",
+        "Gyvybėje valdo,",
+        "Koksai Jis puikus!",
+        "Turėti gyvybę",
+        "Šlovej Jo galiu."
+      ],
+      [
+        "Štai Žmogus šlovėje,",
+        "Gyvybė Jo man.",
+        "Jame nėr silpnybių,",
+        "Ligų nėr Jame.",
+        "Stiprus ir toks tvirtas",
+        "Džiaugsmingas Jisai!",
+        "Turėsiu gyvybę",
+        "Aš Jo šlovėj."
+      ],
+      [
+        "Štai Žmogus šlovėje,",
+        "Gyvybė Jo man.",
+        "Ramybė tvirta Jo,",
+        "Koksai Jis kantrus!",
+        "Spindėdamas laukia",
+        "Išvyst manyje",
+        "Kaip Jo gyvybe",
+        "Many bus atskleista.",
+        "",
+        "(Paskutines dvi eilutės",
+        "kartojamos du kartus)"
       ]
     ]
   },
@@ -553,16 +591,62 @@
   },
   {
     "number": 13,
-    "title": "TĖVO GARBINIMAS JO IŠAUKŠTINIMAS",
+    "title": "VIEŠPATIES ŠLOVINIMAS UŽ JO IŠGELBĖJIMĄ",
+    "languages": {
+      "russian": 84,
+      "english": 116
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/116",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0116_full.mp3",
     "verses": [
       [
-        "Štai į Tave žvelgiu,",
-        "O Dieve Visagali!",
-        "Aš šlovinu Tave, lenkiuosi,",
-        "Giedu gyrių Tau.",
-        "O mano Amžinasis Tėve,",
-        "Garbinsiu Tave per amžius,",
-        "Tavo vardą aukštinsiu,"
+        "Koks atpirkimas nuostabus",
+        "O, Viešpatie, Tavy,",
+        "Per amžius neregėta tai,",
+        "Ką Tu man padarei.",
+        "Tu paslaptingas Dieviškas",
+        "Nėr žodžių apsakyt.",
+        "Šis atpirkimas nuostabus",
+        "Aukščiau už gįrius mūs."
+      ],
+      [
+        "Už mus ant kryžiaus perdurtas, -",
+        "Ten kraujas ir vanduo, -",
+        "Tekėjo mums suteikti jie givybę Dievišką.",
+        "Nuplovė ir atpirko mus",
+        "Mums būt priimtinais.",
+        "Atnaujinti givybėje",
+        "Mes esam Tavyje."
+      ],
+      [
+        "Esi Tu grūdas Dieviškas,",
+        "Mirei, kad daug grūdų",
+        "Į kūną sumaišyti juos,",
+        "Dalinti prigimtį.",
+        "Mes Tavo padidėjimas,",
+        "Tu mūsų sudėtis.",
+        "Per mus judi ir gyveni",
+        "Išreikštas Tu esi."
+      ],
+      [
+        "Mes Tavo Kūnas",
+        "Įsikurt gali Tu mumyse.",
+        "Įgytį Sau namus,",
+        "Atrast pasitikėjimą.",
+        "Mes esam Tavo kopija -",
+        "Patenkintas Esi",
+        "Viskuom kas Tu esi Kūne",
+        "Mėgaujames visi."
+      ],
+      [
+        "Žiūrėdami į ženklus čia",
+        "Prisimenam Tave.",
+        "Už dydį aptirkimą",
+        "Šlovę atiduodame.",
+        "Mes - tavo padidėjimas,",
+        "Namai ir nuotaka.",
+        "Dėkojam, šlovinam Tave",
+        "Ir aukštinsim visad."
       ]
     ]
   },
@@ -683,36 +767,54 @@
   },
   {
     "number": 17,
-    "title": "AŠ GYVENAU TUŠČIAI",
+    "title": "RAGINIMAS BENDRAUTI SU VIEŠPAČIU",
+    "languages": {
+      "russian": 463,
+      "english": 643
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/nt/643",
+    "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e0643_new.mp3",
     "verses": [
       [
-        "Aš gyvenau tuščiai, ir tikslo nemačiau,",
-        "Kol išgirdau Tą žinią, kad yra kažkas daugiau.",
-        "Pradžioje netikėjau — taip paprastai išėjo..."
+        "Skirk laiko regėt Jį,",
+        "Kalbėki su Juo,",
+        "Žodžiu Jo maitinkis,",
+        "Jame pasilik.",
+        "Lauk Jo buvime,",
+        "Romus, nuolankus,",
+        "Ir tik Jo palaiminimo",
+        "Tu ieškok."
       ],
       [
-        "Vėliau, pabandęs tyliai, pakviesti Jį vardu",
-        "Pasijutau lyg sunkus ligonis tapęs vėl sveiku.",
-        "Versmė gyvybės teka ir skatina mane..."
+        "Skirk laiko regėt Jį,",
+        "Pasaulis skubus.",
+        "Daug laiko su Jėzum",
+        "Praleiski slaptoj.",
+        "Žvelgdamas į Jėzų,",
+        "Tu būsi kaip Jis.",
+        "Tavam elgesy",
+        "Jo panašumą matys."
       ],
       [
-        "Vos tik pakvietęs Jėzų, ramybę pajutau.",
-        "Jisai mane pripildė, Jėzaus vardą sušukau!",
-        "Anksčiau net nesvajojau pajaust tikrovę Jo..."
+        "Skirk laiko regėt Jį,",
+        "Leisk būt Jam vedliu",
+        "Ir kas benutiktų,",
+        "Nebėk prieky Jo.",
+        "Džiaugsme,liūdesy",
+        "Vis dar seki Jį,",
+        "Žiūrėki į Jėzų,",
+        "Tikėk Jo žodžiu."
       ],
       [
-        "Dabar esu laimingas, patenkintas su Juo.",
-        "Mana dvasia džiaugsminga ir maitinasi tik Juo.",
-        "Gyvybės medis auga, todėl dabar tereikia..."
+        "Skirk laiko regėt Jį,",
+        "Būk sieloj ramus.",
+        "Mintis ir jausmus Jam",
+        "Paveski savus.",
+        "Prie meilės šaltinių",
+        "Dvasia Jo nuves,",
+        "Tuomet Jo malonė",
+        "Tau bus suteikta."
       ]
-    ],
-    "chorus": [
-      "Ištarti Jo Vardą: „O, Jėzau“",
-      "Sakyti: „Amen“ Jo šlovėj,",
-      "Pripildyti dvasią gyvybe —",
-      "Dievo gyvybė manyje,",
-      "Užliejanti visa manyje,",
-      "Dievo gyvybė manyje!"
     ]
   },
   {

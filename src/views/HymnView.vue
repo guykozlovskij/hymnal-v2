@@ -23,9 +23,10 @@ export default {
 </script>
 
 <template>
+  <div class="top">{{ hymnData.number }}</div>
   <section class="hymn-view">
     <div class="hymn-intro">
-      <h4>{{ hymnData.number }}. {{ hymnData.title }}</h4>
+      <h4>{{ hymnData.title }}</h4>
       <h4 v-if="hymnData['sub-title']">{{ hymnData['sub-title'] }}</h4>
       <h4 v-if="hymnData['languages']">
         (

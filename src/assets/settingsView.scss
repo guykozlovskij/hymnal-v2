@@ -1,9 +1,11 @@
 #settings-view {
+  line-height: 1.42857143;
+  padding-top: $distance-from-top;
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .settings-div {
@@ -21,10 +23,11 @@
   align-items: center;
   border-radius: 30px;
   overflow-y: scroll;
-  height: 450px;
+  height: 400px;
   background-color: rgb(230, 239, 254);
   border: 2px solid $accent-darker;
-  // box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+  max-width: 500px;
   .update-card {
     width: 80%;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);

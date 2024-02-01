@@ -16,7 +16,7 @@ export default {
 
 <template>
   <section v-if="!searchValue" id="new-hymns-page">
-    <h1>Nauji Himnai</h1>
+    <div class="top">Jaunimo Himnai</div>
     <div id="new-hymns-list">
       <div class="new-hymn-select-button" v-bind:style="{ backgroundColor: colors[index % 2] }"
         v-for="(hymn, index) in newHymnsData" :key="index" @click="$router.push(`/hymns/n/${hymn.number}`)" role="link">
