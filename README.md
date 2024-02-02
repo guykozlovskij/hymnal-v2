@@ -1,7 +1,7 @@
 # Hymnal V2 - WIP
-A progressive web app serving as a Lithuanian Church hymnal
+A progressive web app serving as a hymnal for a Christian community in Lithuania
 
-Deployed at [hymnal-v2.vercel.app](https://hymnal-v2.vercel.app/)
+Deployed at [hymnal-v2.vercel.app](https://himnynas.com/)
 
 ## Customize configuration
 
