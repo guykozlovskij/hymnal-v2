@@ -3,7 +3,7 @@ A progressive web app serving as a hymnal for a Christian community in Lithuania
 
 Deployed at [himnynas.com](https://himnynas.com/)
 
-## Customize configuration
+## Customize Configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
