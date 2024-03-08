@@ -43,16 +43,12 @@ npm run build
 - [x]  Home page list of all hymns
 - [x]  Individual hymn component
 - [x]  Adjust Button styling for hymns
-- [x]  clean up code
-- [x]  separate CSS files
+- [x]  Clean up code
+- [x]  Separate CSS files
 - [x]  Display New hymns as a list, with no buttons
 - [x]  Review css
 - [x]  Replace search result as first-line rather than title
 - [x]  Search needs to be a separate component
-- [x]  The first page now needs to be search
-- [x]  The number page should be the second
-- [x]  Settings third
-- [x]  search component/route
 - [x]  rainbow search
 - [x]  Adjust shrinking of the search results
 - [x]  Implement a service worker
@@ -72,12 +68,10 @@ npm run build
     - [x]  Finalise Styling and consistency across devices
     - [x]  adjust padding for single verse but chorus containing hymns eg 97
 - [x]  add git ignore
-- [x]  Go through the code again, make sure it’s readable for Saulius
 - [x]  Add all PWA icons
 - [x]  Deploy!
 - [x]  Write up the readme
 - [x]  Fix iOS text-centering
-- [x]  Sent BETA to Saulius
 - [x]  Re-add settings panel for updates notes
 - [x]  Replace old hymns with new
 - [x]  Add iOS PWA support
