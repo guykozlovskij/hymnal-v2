@@ -16,7 +16,7 @@ export default defineConfig({
         short_name: "Himnynas",
         icons: [
           {
-            src: '/icons/icon.png',
+            src: '/public/icons/icon.png',
             sizes: '512x512',
             type: 'image/png',
             purpose: 'any maskable'
