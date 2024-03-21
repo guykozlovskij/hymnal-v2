@@ -4,7 +4,6 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import vueJsx from '@vitejs/plugin-vue-jsx'
 import { VitePWA } from 'vite-plugin-pwa'
-
 export default defineConfig({
   plugins: [
     basicSsl(),
@@ -16,7 +15,7 @@ export default defineConfig({
         short_name: "Himnynas",
         icons: [
           {
-            src: '/public/icons/icon.png',
+            src: './public/icons/icon.png',
             sizes: '512x512',
             type: 'image/png',
             purpose: 'any maskable'
