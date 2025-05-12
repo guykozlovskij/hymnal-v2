@@ -42,6 +42,10 @@ export default {
       <ol v-if="hymnData['verses'].length > 1" class="verse-one">
         <li class="hymn-verse">
           <span v-for="(line, index) in hymnData.verses[0]" :key="index">
+            <span v-if="hymnData.chords">
+              {{ hymnData.chords[index] }}
+              <br>
+            </span>
             {{ line }}
             <br>
           </span>
@@ -71,4 +75,4 @@ export default {
     </div>
     <button class="hymn-back-button" @click="$router.go(-1)" role="link">« Grįžti</button>
   </section>
-</template>        
+</template>
