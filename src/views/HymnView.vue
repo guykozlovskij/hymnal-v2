@@ -8,6 +8,8 @@ export default {
   data() {
     return {
       hymnData: json[this.$route.params.id - 1],
+      chordsOn: localStorage.getItem('chordsEnabled')
+      
     }
   },
   methods: {
@@ -16,11 +18,10 @@ export default {
     },
   },
   created() {
-    this.scrollToTop()
+    this.scrollToTop();
+
   }
 }
-
-console.log(chords.isEnabled)
 </script>
 
 <template>
@@ -43,7 +44,7 @@ console.log(chords.isEnabled)
       <ol v-if="hymnData['verses'].length > 1" class="verse-one">
         <li class="hymn-verse">
           <span v-for="(line, index) in hymnData.verses[0]" :key="index">
-            <div v-if="chords.isEnabled">
+            <div v-if="chordsOn === 'true' ">
               <span v-class="chords" v-if="hymnData.chords">
                 {{ hymnData.chords[index] }}
                 <br>

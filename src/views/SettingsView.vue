@@ -13,26 +13,28 @@ import {chords} from "../stores/chords.js"
 //   valueLight: "custom-light", // attribute value for light mode
 // });
 // const toggleDark = useToggle(isDark);
-// export default {
-//   data() {
-//     return {
-//       displayChords: false
-//     } 
-//   },
-//   methods: {
-//     toggleChords() {
-//       this.displayChords = !this.displayChords
-//       console.log(this.displayChords)
-//     }
-//   }
-// }
+export default {
+  data() {
+    return {
+      displayChords: false
+    } 
+  },
+  methods: {
+    toggleChords() {
+      this.displayChords = !this.displayChords
+      console.log(this.displayChords)
+    }
+  }
+}
+
 
 </script>
 
 <template>
   <div class="top">Nustatymai</div>
   <section id="settings-view">
-    <button @click="chords.setIsEnabled(true)">Toggle</button>
+    <button @click="toggleChords()">chords test</button>
+    <button @click="chords.setIsEnabled()">Toggle</button>
     <!-- <p class="settings-title">Tamsi Tema</p> -->
     <!-- <VueToggles :width="50" @click="toggleDark()" value="false" /> -->
     <section id="change-log">
