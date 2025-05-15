@@ -1,25 +1,26 @@
 <script setup>
 import json from '../data/hymnal-data.json'
+import { chords } from '../stores/chords';
 </script>
 
 <script>
 export default {
   data() {
     return {
-      hymnData: json[this.$route.params.id - 1]
+      hymnData: json[this.$route.params.id - 1],
     }
   },
   methods: {
     scrollToTop() {
       window.scrollTo(0, 0);
-    }
+    },
   },
   created() {
     this.scrollToTop()
   }
-
 }
 
+console.log(chords.isEnabled)
 </script>
 
 <template>
@@ -42,10 +43,12 @@ export default {
       <ol v-if="hymnData['verses'].length > 1" class="verse-one">
         <li class="hymn-verse">
           <span v-for="(line, index) in hymnData.verses[0]" :key="index">
-            <span class="chords" v-if="hymnData.chords">
-              {{ hymnData.chords[index] }}
-              <br>
-            </span>
+            <div v-if="chords.isEnabled">
+              <span v-class="chords" v-if="hymnData.chords">
+                {{ hymnData.chords[index] }}
+                <br>
+              </span>
+            </div>
             {{ line }}
             <br>
           </span>
@@ -73,6 +76,7 @@ export default {
         </li>
       </ol>
     </div>
+    <!-- <button @click="toggleChords()">Toggle</button> -->
     <button class="hymn-back-button" @click="$router.go(-1)" role="link">« Grįžti</button>
   </section>
 </template>
