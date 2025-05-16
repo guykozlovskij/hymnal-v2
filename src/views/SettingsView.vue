@@ -1,23 +1,16 @@
 <script setup>
-// import { useDark, useToggle  } from '@vueuse/core'
-// import { VueToggles } from "vue-toggles"
-import {chords} from "../stores/chords.js"
+
+import { chords } from "../stores/chords.js"
+
 </script>
 
 <script>
-// export const isDark = useDark({
-//   default: "light",
-//   selector: "body", //element to add attribute to
-//   attribute: "theme", // attribute name
-//   valueDark: "custom-dark", // attribute value for dark mode
-//   valueLight: "custom-light", // attribute value for light mode
-// });
-// const toggleDark = useToggle(isDark);
+
 export default {
   data() {
     return {
       displayChords: false
-    } 
+    }
   },
   methods: {
     toggleChords() {
@@ -27,16 +20,12 @@ export default {
   }
 }
 
-
 </script>
 
 <template>
   <div class="top">Nustatymai</div>
   <section id="settings-view">
-    <button @click="toggleChords()">chords test</button>
-    <button @click="chords.setIsEnabled()">Toggle</button>
-    <!-- <p class="settings-title">Tamsi Tema</p> -->
-    <!-- <VueToggles :width="50" @click="toggleDark()" value="false" /> -->
+    <button @click="chords.setIsEnabled()">Toggle Chords</button>
     <section id="change-log">
       <h3>Pakeitimų Žurnalas</h3>
       <ul class="update-card">
