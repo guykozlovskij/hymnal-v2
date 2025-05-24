@@ -8,7 +8,7 @@ export default {
   data() {
     return {
       hymnData: json[this.$route.params.id - 1],
-      chordsOn: localStorage.getItem('chordsEnabled')
+      chordsOn: JSON.parse(localStorage.getItem('chordsEnabled'))
       
     }
   },
@@ -44,7 +44,7 @@ export default {
       <ol v-if="hymnData['verses'].length > 1" class="verse-one">
         <li class="hymn-verse">
           <span v-for="(line, index) in hymnData.verses[0]" :key="index">
-            <div v-if="chordsOn === 'true' ">
+            <div v-if="chordsOn">
               <span v-class="chords" v-if="hymnData.chords">
                 {{ hymnData.chords[index] }}
                 <br>
@@ -77,7 +77,6 @@ export default {
         </li>
       </ol>
     </div>
-    <!-- <button @click="toggleChords()">Toggle</button> -->
     <button class="hymn-back-button" @click="$router.go(-1)" role="link">« Grįžti</button>
   </section>
 </template>

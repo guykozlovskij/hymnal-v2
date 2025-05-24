@@ -5,7 +5,5 @@ export const chords = ref({
   setIsEnabled() {
     this.isEnabled = !this.isEnabled
     localStorage.setItem('chordsEnabled', JSON.stringify(this.isEnabled))
-    console.log(this.isEnabled)
-    console.log('local', localStorage.getItem('chordsEnabled'))
   } 
 }) 

@@ -1,7 +1,5 @@
 <script setup>
-
 import { chords } from "../stores/chords.js"
-
 </script>
 
 <script>
@@ -9,15 +7,9 @@ import { chords } from "../stores/chords.js"
 export default {
   data() {
     return {
-      displayChords: false
+      chordsOn: JSON.parse(localStorage.getItem('chordsEnabled'))
     }
   },
-  methods: {
-    toggleChords() {
-      this.displayChords = !this.displayChords
-      console.log(this.displayChords)
-    }
-  }
 }
 
 </script>
@@ -25,7 +17,10 @@ export default {
 <template>
   <div class="top">Nustatymai</div>
   <section id="settings-view">
-    <button @click="chords.setIsEnabled()">Toggle Chords</button>
+    <label class="switch">
+      <input type="checkbox" v-model="chordsOn" @click="chords.setIsEnabled()">
+      <span class="slider round"></span>
+    </label>
     <section id="change-log">
       <h3>Pakeitimų Žurnalas</h3>
       <ul class="update-card">

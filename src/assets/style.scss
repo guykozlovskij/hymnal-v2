@@ -18,8 +18,8 @@ $accent-light: #d0e0fd;
 $accent-darker: #acc9ff;
 $distance-from-top: 80px;
 
-// Removes link and button highlighting on mobile 
-button, a {
+// Removes link, toggle and button highlighting on mobile 
+button, input, span, label, a {
   -webkit-tap-highlight-color: transparent;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
