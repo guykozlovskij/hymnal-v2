@@ -1,24 +1,20 @@
 <script setup>
+import { ref, watch } from 'vue'
 import { chords } from "../stores/chords.js"
-</script>
 
-<script>
+const chordsOn = ref(JSON.parse(localStorage.getItem('chordsEnabled')) || false)
 
-export default {
-  data() {
-    return {
-      chordsOn: JSON.parse(localStorage.getItem('chordsEnabled'))
-    }
-  },
-}
-
+watch(chordsOn, (newVal) => {
+  localStorage.setItem('chordsEnabled', JSON.stringify(newVal))
+  chords.setIsEnabled(newVal)
+})
 </script>
 
 <template>
   <div class="top">Nustatymai</div>
   <section id="settings-view">
     <label class="switch">
-      <input type="checkbox" v-model="chordsOn" @click="chords.setIsEnabled()">
+      <input type="checkbox" @click.stop="chords.setIsEnabled()" v-model="chordsOn">
       <span class="slider round"></span>
     </label>
     <section id="change-log">
