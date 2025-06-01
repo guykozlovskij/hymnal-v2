@@ -29,12 +29,21 @@
       "Šlovinkime mūsų Dievą! ",
       "Nuostabius Jo darbus skelbkime!"
     ],
-    "chords": [
-      "‎‎A‎‎‎‎ ‎ ‎ ‎ B ‎ ‎ ‎ ‎ ‎ C ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ D",
-      "   test2   B   C    D ",
-      "   test3    B   C    D ",
-      "   test4   B   C    D "
-    ]
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        " D                           Em",
+        " A7                           D",
+        " D                           G",
+        " D                A A7  D"
+      ],
+      "chorus": [
+        "D ",
+        "                                  A    A7 ",
+        "D ",
+        "                                    A         D "             
+      ]
+    }
   },
   {
     "number": 2,

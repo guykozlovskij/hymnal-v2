@@ -13,10 +13,15 @@ watch(chordsOn, (newVal) => {
 <template>
   <div class="top">Nustatymai</div>
   <section id="settings-view">
-    <label class="switch">
-      <input type="checkbox" @click.stop="chords.setIsEnabled()" v-model="chordsOn">
-      <span class="slider round"></span>
-    </label>
+    <hr class="solid">
+    <div class="setting">
+      <p>Akordai</p>
+      <label class="switch">
+        <input type="checkbox" @click.stop="chords.setIsEnabled()" v-model="chordsOn">
+        <span class="slider round"></span>
+      </label>
+    </div>
+    <hr class="solid">
     <section id="change-log">
       <h3>Pakeitimų Žurnalas</h3>
       <ul class="update-card">

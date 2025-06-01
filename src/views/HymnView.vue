@@ -9,7 +9,7 @@ export default {
     return {
       hymnData: json[this.$route.params.id - 1],
       chordsOn: JSON.parse(localStorage.getItem('chordsEnabled'))
-      
+
     }
   },
   methods: {
@@ -41,12 +41,13 @@ export default {
       <source v-bind:src="hymnData['melody-url']" type="audio/mpeg">
     </audio>
     <div class="verses">
+      <span class="chords-capo" v-if="chordsOn && hymnData.chords?.capo ">{{ hymnData.chords.capo }}</span>
       <ol v-if="hymnData['verses'].length > 1" class="verse-one">
         <li class="hymn-verse">
           <span v-for="(line, index) in hymnData.verses[0]" :key="index">
-            <div v-if="chordsOn">
-              <span v-class="chords" v-if="hymnData.chords">
-                {{ hymnData.chords[index] }}
+            <div v-if="chordsOn && hymnData.chords?.verse">
+              <span class="chords" v-if="hymnData.chords.verse">
+                {{ hymnData.chords.verse[index] }}
                 <br>
               </span>
             </div>
@@ -64,6 +65,12 @@ export default {
       </div>
       <div v-if="hymnData.chorus" class="hymn-chorus">
         <span v-for="(line, index) in hymnData.chorus" :key="index">
+          <div v-if="chordsOn">
+            <span class="chords" v-if="hymnData.chords?.chorus">
+              {{ hymnData.chords.chorus[index] }}
+              <br>
+            </span>
+          </div>
           {{ line }}
           <br>
         </span>

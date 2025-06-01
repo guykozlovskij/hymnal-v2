@@ -58,7 +58,13 @@
 }
 
 .chords {
+  white-space: pre;
   color: blue;
-  font-size: 16px;
+  font-style: normal;
+}
 
+.chords-capo {
+  text-align: left;
+  font-size: 14px;
+  color: gray;
 }
