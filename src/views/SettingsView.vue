@@ -1,24 +1,27 @@
 <script setup>
-// import { useDark, useToggle  } from '@vueuse/core'
-// import { VueToggles } from "vue-toggles"
-</script>
+import { ref, watch } from 'vue'
+import { chords } from "../stores/chords.js"
 
-<script>
-// export const isDark = useDark({
-//   default: "light",
-//   selector: "body", //element to add attribute to
-//   attribute: "theme", // attribute name
-//   valueDark: "custom-dark", // attribute value for dark mode
-//   valueLight: "custom-light", // attribute value for light mode
-// });
-// const toggleDark = useToggle(isDark);
+const chordsOn = ref(JSON.parse(localStorage.getItem('chordsEnabled')) || false)
+
+watch(chordsOn, (newVal) => {
+  localStorage.setItem('chordsEnabled', JSON.stringify(newVal))
+  chords.setIsEnabled(newVal)
+})
 </script>
 
 <template>
   <div class="top">Nustatymai</div>
   <section id="settings-view">
-    <!-- <p class="settings-title">Tamsi Tema</p> -->
-    <!-- <VueToggles :width="50" @click="toggleDark()" value="false" /> -->
+    <hr class="solid">
+    <div class="setting">
+      <p>Akordai</p>
+      <label class="switch">
+        <input type="checkbox" @click.stop="chords.setIsEnabled()" v-model="chordsOn">
+        <span class="slider round"></span>
+      </label>
+    </div>
+    <hr class="solid">
     <section id="change-log">
       <h3>Pakeitimų Žurnalas</h3>
       <ul class="update-card">

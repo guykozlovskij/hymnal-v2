@@ -15,4 +15,3 @@ app.component("v-icon", OhVueIcon)
 app.use(router)
 
 app.mount('#app')
-console.log('here')

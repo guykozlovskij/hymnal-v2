@@ -28,7 +28,22 @@
       "Jam šlovė, trys Viename!",
       "Šlovinkime mūsų Dievą! ",
       "Nuostabius Jo darbus skelbkime!"
-    ]
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        " D                           Em",
+        " A7                           D",
+        " D                           G",
+        " D                A A7  D"
+      ],
+      "chorus": [
+        "D ",
+        "                                  A    A7 ",
+        "D ",
+        "                                    A         D "             
+      ]
+    }
   },
   {
     "number": 2,
@@ -431,12 +446,7 @@
         "Kad taptume mes sūnumis,",
         "Paveldėję turtus."
       ],
-      [
-        "Gyvybę turime Jame.",
-        "Tu Tėvu mūs tapai.",
-        "Esybę Savo ir Save",
-        "Tu mums atidavei."
-      ],
+      ["Gyvybę turime Jame.", "Tu Tėvu mūs tapai.", "Esybę Savo ir Save", "Tu mums atidavei."],
       [
         "Tava Dvasia mūs dvasioje.",
         "Tau „Abba“ šaukiame.",
@@ -509,30 +519,15 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/40",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0040_full.mp3",
     "verses": [
-      [
-        "Tau dėkojam visi,",
-        "Tėve, Sūnų davei.",
-        "Tik per Jį atpirkti,",
-        "Nes Tu mus pamilai."
-      ],
+      ["Tau dėkojam visi,", "Tėve, Sūnų davei.", "Tik per Jį atpirkti,", "Nes Tu mus pamilai."],
       [
         "Kristus Gelbėtojas —",
         "Tavo meilės Sūnus.",
         "Jau išaukštintas Jis,",
         "Nes Jis mirė už mus."
       ],
-      [
-        "Tu šlovingas esi,",
-        "Davei Dvasią šviesos.",
-        "Ji apreiškė mums Kristų —",
-        "Neliko tamsos."
-      ],
-      [
-        "Tėvą šloviname,",
-        "Kurs pamilo taip mus.",
-        "Jėzaus išpirkimu",
-        "Meilę rodo Jis mums."
-      ],
+      ["Tu šlovingas esi,", "Davei Dvasią šviesos.", "Ji apreiškė mums Kristų —", "Neliko tamsos."],
+      ["Tėvą šloviname,", "Kurs pamilo taip mus.", "Jėzaus išpirkimu", "Meilę rodo Jis mums."],
       [
         "Vėl mes giriam Tave,",
         "Nes mes meilės pilni.",
@@ -722,12 +717,7 @@
         "Numatęs buvo gelbėti",
         "Visus mus nuo mirties."
       ],
-      [
-        "Jis užvaldys visas žemes",
-        "Ir karalystes.",
-        "Jis bus vaidinamas visų",
-        "Galinguoju Dievu."
-      ]
+      ["Jis užvaldys visas žemes", "Ir karalystes.", "Jis bus vaidinamas visų", "Galinguoju Dievu."]
     ],
     "chorus": [
       "Šlovink vardą šį, šlovink vardą šį.",
@@ -1065,12 +1055,7 @@
         "Nors ir būsi Tu Dievu."
       ]
     ],
-    "chorus": [
-      "Tavo puikume mes",
-      "Matom Dievo šlovę,",
-      "Ir visa pilnatvė Dievo",
-      "Buvo Žmoguje."
-    ]
+    "chorus": ["Tavo puikume mes", "Matom Dievo šlovę,", "Ir visa pilnatvė Dievo", "Buvo Žmoguje."]
   },
   {
     "number": 23,
@@ -2076,12 +2061,7 @@
         "Jo gyvybė ištekės."
       ]
     ],
-    "chorus": [
-      "Jei nemirsime —",
-      "Negyvensime.",
-      "Iš mirties gyvybė kyla.",
-      "Gimsta šviesoje."
-    ]
+    "chorus": ["Jei nemirsime —", "Negyvensime.", "Iš mirties gyvybė kyla.", "Gimsta šviesoje."]
   },
   {
     "number": 45,
@@ -2268,18 +2248,8 @@
         "Tavas naudosiu atsargas",
         "Su noru ir džiaugsmu."
       ],
-      [
-        "Šis patepimas mumyse",
-        "Palaiko silpnume.",
-        "Savu energijos srautu",
-        "Pripildai Tu mane."
-      ],
-      [
-        "Įstatymas, kuris širdy,",
-        "Tavuoju ves keliu.",
-        "Esybę man pripildei",
-        "Tu Savu realumu."
-      ],
+      ["Šis patepimas mumyse", "Palaiko silpnume.", "Savu energijos srautu", "Pripildai Tu mane."],
+      ["Įstatymas, kuris širdy,", "Tavuoju ves keliu.", "Esybę man pripildei", "Tu Savu realumu."],
       [
         "Su Tavim viena amžiams mes —",
         "Vienybei pašaukei.",
@@ -2366,43 +2336,13 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/594",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0594_i.mp3",
     "verses": [
-      [
-        "Tu mana ramybė",
-        "Ir gyvybė Tu,",
-        "Taip išlieku dvasioj",
-        "Aš su Viešpačiu."
-      ],
-      [
-        "Viešpaties esu jau,",
-        "Buvau pančiuose.",
-        "Tik per Jo gyvybę",
-        "Dabar laisvėje."
-      ],
-      [
-        "Aš mąstysiu dvasioj,",
-        "Kūniškumui — ne!",
-        "Dvasiai tik paklūsti",
-        "Noriu visada."
-      ],
-      [
-        "Padeda man Kristus",
-        "Dvasiniu išlikt,",
-        "Net kūnu gyvybę",
-        "Aš galiu patirt."
-      ],
-      [
-        "Ir mana ir Dievo",
-        "Dvasios viena jau:",
-        "Paveldėtojas aš,",
-        "Aš iš Jo gimiau."
-      ]
+      ["Tu mana ramybė", "Ir gyvybė Tu,", "Taip išlieku dvasioj", "Aš su Viešpačiu."],
+      ["Viešpaties esu jau,", "Buvau pančiuose.", "Tik per Jo gyvybę", "Dabar laisvėje."],
+      ["Aš mąstysiu dvasioj,", "Kūniškumui — ne!", "Dvasiai tik paklūsti", "Noriu visada."],
+      ["Padeda man Kristus", "Dvasiniu išlikt,", "Net kūnu gyvybę", "Aš galiu patirt."],
+      ["Ir mana ir Dievo", "Dvasios viena jau:", "Paveldėtojas aš,", "Aš iš Jo gimiau."]
     ],
-    "chorus": [
-      "Jo Dvasia seku aš,",
-      "Viešpaty esu.",
-      "Jis gyvybę teikia.",
-      "Džiaugsmą atrandu."
-    ]
+    "chorus": ["Jo Dvasia seku aš,", "Viešpaty esu.", "Jis gyvybę teikia.", "Džiaugsmą atrandu."]
   },
   {
     "number": 52,
@@ -3111,30 +3051,15 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/612",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0612_full.mp3",
     "verses": [
-      [
-        "Dievas nori mus maitinti",
-        "Esybe Sava,",
-        "Kad su Juo mes būtum viena",
-        "Savo dvasiose."
-      ],
-      [
-        "Dvasioje, palietę Dievą,",
-        "Mes supratome.",
-        "Prigimtį Jis Savo davė",
-        "Mums Sava Dvasia."
-      ],
+      ["Dievas nori mus maitinti", "Esybe Sava,", "Kad su Juo mes būtum viena", "Savo dvasiose."],
+      ["Dvasioje, palietę Dievą,", "Mes supratome.", "Prigimtį Jis Savo davė", "Mums Sava Dvasia."],
       [
         "Dievą liečiame mes dvasioj,",
         "Suvokiam protu.",
         "Bet jei dvasios nenaudosiu",
         "Liksiu aš vargšu"
       ],
-      [
-        "Mes malda priimsim Žodį",
-        "Tavo gyvąjį.",
-        "Taip visus mus Jis pripildys",
-        "Savimi."
-      ],
+      ["Mes malda priimsim Žodį", "Tavo gyvąjį.", "Taip visus mus Jis pripildys", "Savimi."],
       [
         "Likdami mes Dievo Žody",
         "Liečiam Viešpatį.",
@@ -3599,12 +3524,7 @@
         "Tavo širdis atrado čia",
         "Džiaugsmą, ramybę."
       ],
-      [
-        "Save atidavei už Ją,",
-        "Kad Ją įgytumei.",
-        "Jai atiduodu kūną aš —",
-        "Mylinčiai širdžiai."
-      ],
+      ["Save atidavei už Ją,", "Kad Ją įgytumei.", "Jai atiduodu kūną aš —", "Mylinčiai širdžiai."],
       [
         "Gyvybe Tu dėl Jos tapai,",
         "Kad aš gyvenčiau ja.",
@@ -4470,24 +4390,9 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1051",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1051_i.mp3",
     "verses": [
-      [
-        "Girdžiu šaukimą aš,",
-        "Tu pas Save kvieti.",
-        "Savu šventu krauju mane",
-        "Tu nori apvalyt."
-      ],
-      [
-        "Nors silpnas aš esu",
-        "Ir nuodėmė many,",
-        "Nuplauni Tu mane krauju,",
-        "Šventumą suteiki."
-      ],
-      [
-        "O Jėzau, Tu užbaik",
-        "Šį darbą manyje.",
-        "Suteik malonę man, meldžiu,",
-        "Ją lieki į mane."
-      ],
+      ["Girdžiu šaukimą aš,", "Tu pas Save kvieti.", "Savu šventu krauju mane", "Tu nori apvalyt."],
+      ["Nors silpnas aš esu", "Ir nuodėmė many,", "Nuplauni Tu mane krauju,", "Šventumą suteiki."],
+      ["O Jėzau, Tu užbaik", "Šį darbą manyje.", "Suteik malonę man, meldžiu,", "Ją lieki į mane."],
       [
         "Kas ištikimas Jam —",
         "Suteikia viską Jis.",
@@ -4519,49 +4424,19 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1052",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1052_i.mp3",
     "verses": [
-      [
-        "Toks Dievui tolimas buvau,",
-        "Bet einu namo.",
-        "Aš nuodėmėje gyvenau,",
-        "Bet einu namo."
-      ],
-      [
-        "Prabėgo metų daug tuščiai,",
-        "Aš einu namo.",
-        "Su ašarom atgailavau,",
-        "Aš einu namo."
-      ],
-      [
-        "Pavargęs būti nuodėmėj,",
-        "Aš einu namo.",
-        "Pasitikiu tik Tavimi,",
-        "Aš einu namo."
-      ],
+      ["Toks Dievui tolimas buvau,", "Bet einu namo.", "Aš nuodėmėje gyvenau,", "Bet einu namo."],
+      ["Prabėgo metų daug tuščiai,", "Aš einu namo.", "Su ašarom atgailavau,", "Aš einu namo."],
+      ["Pavargęs būti nuodėmėj,", "Aš einu namo.", "Pasitikiu tik Tavimi,", "Aš einu namo."],
       [
         "Ir skausmas širdį varsto man,",
         "Aš einu namo.",
         "Jėgų man duoki ir vilties,",
         "Aš einu namo."
       ],
-      [
-        "Visa viltis tik Tavyje,",
-        "Aš einu namo.",
-        "Pats Viešpats mirė už mane,",
-        "Aš einu namo."
-      ],
-      [
-        "Apsivalysiu Jo krauju,",
-        "Aš einu namo.",
-        "Nuplauk už sniegą dar balčiau,",
-        "Aš einu namo."
-      ]
+      ["Visa viltis tik Tavyje,", "Aš einu namo.", "Pats Viešpats mirė už mane,", "Aš einu namo."],
+      ["Apsivalysiu Jo krauju,", "Aš einu namo.", "Nuplauk už sniegą dar balčiau,", "Aš einu namo."]
     ],
-    "chorus": [
-      "Viešpatie, aš einu,",
-      "Aš einu namo!",
-      "Viešpatie, sutik mane!",
-      "Aš einu namo."
-    ]
+    "chorus": ["Viešpatie, aš einu,", "Aš einu namo!", "Viešpatie, sutik mane!", "Aš einu namo."]
   },
   {
     "number": 95,
