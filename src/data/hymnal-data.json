@@ -41,7 +41,7 @@
         "D ",
         "                                  A    A7 ",
         "D ",
-        "                                    A         D "             
+        "                                    A         D "
       ]
     }
   },
@@ -97,7 +97,16 @@
         "Mes dvasioje ir tiesoje",
         "Tau lenkiamės mes čia."
       ]
-    ]
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        " G                   Am      D",
+        "        Am        C    D",
+        "        G                  Am    C",
+        "   G         D       G"
+      ]
+    }
   },
   {
     "number": 3,
@@ -169,7 +178,22 @@
       "Štai ir meilė, ir šviesa.",
       "Tave girsim mes be galo,",
       "Ir visai pažinsime."
-    ]
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        " D               A      D",
+        "                            A",
+        "        D           G",
+        "        D   A7       D"
+      ],
+      "chorus": [
+        "           A             D",
+        "                           A",
+        "        D           G",
+        "        D   A7       D"
+      ]
+    }
   },
   {
     "number": 4,
@@ -211,7 +235,16 @@
         "Didingas Tu, Dieve, Tavy dienos mūs.",
         "Mes garbinsim Tave, o Tėve brangus."
       ]
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "G-C        D             G      D     G",
+        "      C          D            C         D     G",
+        "    G                                             D",
+        "        C              D          C      D7   G"
+      ]
+    }
   },
   {
     "number": 5,
@@ -259,7 +292,16 @@
         "Iki žemės pakraščių net",
         "„Šventas Tu“ giedosime."
       ]
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "C                    F        C",
+        "        Am     D      G",
+        "C                     F        C",
+        "              G        G7   C"
+      ]
+    }
   },
   {
     "number": 6,
@@ -319,7 +361,17 @@
       "Tu jaunas amžinai.",
       "Per amžius atskleidi Save",
       "Naujovėj nuostabioj."
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": ["C", "      G        G7   C", "     C", "     D      D7      G-G7"],
+      "chorus": [
+        "     C                   F  C",
+        "     F         C     G",
+        "       C        G        C      F",
+        "       C     G7       C"
+      ]
+    }
   },
   {
     "number": 7,
@@ -361,14 +413,29 @@
       "Koks Didis Tu, koks nuostabus!",
       "Ir amžinai giedosim giesmę šią:",
       "Koks Didis Tu, koks nuostabus."
-    ]
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D7         G       G7        C",
+        "             G        D7            G-D7",
+        "             G           G7              C",
+        "                G      D7            G"
+      ],
+      "chorus": [
+        "               G          C                 G",
+        "                  Am7-D7           G ",
+        "          G         C                    G",
+        "        G7      Am7      D7      G-C-G "
+      ]
+    }
   },
   {
     "number": 8,
     "title": "KRISTAUS KAIP GYVYBĖS PATYRIMAS",
     "languages": {
-      "russian": 505,
-      "english": 355
+      "russian": 355,
+      "english": 505
     },
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/505",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0505_full.mp3",
@@ -381,6 +448,8 @@
         "Jis laisvas ir mylintis,",
         "Koks Jis švelnus!",
         "Turėti gyvybę",
+        "Šlovėj Jo galiu;",
+        "Turėti gyvybę",
         "Šlovėj Jo galiu."
       ],
       [
@@ -391,7 +460,9 @@
         "Gyvybėje valdo,",
         "Koksai Jis puikus!",
         "Turėti gyvybę",
-        "Šlovej Jo galiu."
+        "Šlovėj Jo galiu;",
+        "Turėti gyvybę",
+        "Šlovėj Jo galiu."
       ],
       [
         "Štai Žmogus šlovėje,",
@@ -400,6 +471,8 @@
         "Ligų nėr Jame.",
         "Stiprus ir toks tvirtas",
         "Džiaugsmingas Jisai!",
+        "Turėsiu gyvybę",
+        "Aš Jo šlovėj;",
         "Turėsiu gyvybę",
         "Aš Jo šlovėj."
       ],
@@ -411,12 +484,26 @@
         "Spindėdamas laukia",
         "Išvyst manyje",
         "Kaip Jo gyvybe",
-        "Many bus atskleista.",
-        "",
-        "(Paskutines dvi eilutės",
-        "kartojamos du kartus)"
+        "Many bus atskleista;",
+        "Kaip Jo gyvybe",
+        "Many bus atskleista."
       ]
-    ]
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "G                           D",
+        "     G C       G-D",
+        "    Em-A      D-A-D",
+        "        A    A7     D  D7",
+        "     G            C      G",
+        "          A7       D    D7",
+        "    G",
+        "                    D",
+        "    C      D7-G",
+        "     D   D7    D"
+      ]
+    }
   },
   {
     "number": 9,
@@ -471,7 +558,16 @@
         "Per amžius šlovinsim Tave",
         "Savose širdyse."
       ]
-    ]
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "G                     Am",
+        "    C                  D",
+        "        G                C",
+        "     G       D7    G"
+      ]
+    }
   },
   {
     "number": 10,
@@ -507,7 +603,22 @@
       "Tau šlovė! Tau šlovė! Džiaugias žemė visa!",
       "Ateikit per Sūnų, šlovė Tėvui Jo!",
       "Nuostabūs darbai, ką atliko Jisai!"
-    ]
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D                             A               D",
+        "       G        D         E           A",
+        "        D                        A           D",
+        "     G         D          A         D"
+      ],
+      "chorus": [
+        "        D                                           A",
+        "           A7                                              D",
+        "                                A             D",
+        "       G              D            A      D"
+      ]
+    }
   },
   {
     "number": 11,
@@ -540,7 +651,22 @@
       "Aleliuja! Amen!",
       "Aleliuja! Šlovė Dievui!",
       "Tave aukštinam!"
-    ]
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D",
+        "",
+        "",
+        "            A"
+      ],
+      "chorus": [
+        "     D",
+        "     G        A",
+        "     D",
+        "    A        A7D"
+      ]
+    }
   },
   {
     "number": 12,
@@ -582,7 +708,22 @@
       "Iš šlovės į šlovę Jis taip parves mus sūnumis.",
       "Ir visi mes su džiaugsmu, skubam pas Karalių:",
       "Tėvui šlovė, Aleliuja!"
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "         D                                      G    D ",
+        "D                      A",
+        "          D                                    G          D ",
+        "D                      A D"
+      ],
+      "chorus": [
+        "           D                                   G                     D",
+        "        Bm             F#m            Em                A",
+        "      D                                              G           D",
+        "D                      A7 D"
+      ]
+    }
   },
   {
     "number": 13,
@@ -643,7 +784,22 @@
         "Dėkojam, šlovinam Tave",
         "Ir aukštinsim visad."
       ]
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ],
+      "chorus": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ]
+    }
   },
   {
     "number": 14,
@@ -686,7 +842,22 @@
       "Jėzus — toks pats visados.",
       "Jėzau, te šventieji Tau",
       "Giedos per amžių amžius."
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ],
+      "chorus": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ]
+    }
   },
   {
     "number": 15,
@@ -724,7 +895,22 @@
       "Vardą Viešpaties šlovinki.",
       "Šlovink vardą šį, šlovink vardą šį.",
       "Vardą Viešpaties šlovinki."
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ],
+      "chorus": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ]
+    }
   },
   {
     "number": 16,
@@ -753,7 +939,22 @@
         "Tai pasimėgavimas mums.",
         "O, mes mylim, Jėzau, šaukiamės Tavęs!"
       ]
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ],
+      "chorus": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ]
+    }
   },
   {
     "number": 17,
@@ -805,7 +1006,22 @@
         "Tuomet Jo malonė",
         "Tau bus suteikta."
       ]
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ],
+      "chorus": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ]
+    }
   },
   {
     "number": 18,
@@ -842,7 +1058,22 @@
       "Mano alsavimas mano šviesa.",
       "Didis Kūrėjas mane laimėjo,",
       "Dievo pilnatvė gyva jame."
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ],
+      "chorus": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ]
+    }
   },
   {
     "number": 19,
@@ -903,7 +1134,22 @@
         "Jėzau, Tu tapai Dvasia,",
         "Dalini Save per Ją."
       ]
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ],
+      "chorus": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ]
+    }
   },
   {
     "number": 20,
@@ -946,7 +1192,22 @@
         "Mes giriam Tėvą ir Tave,",
         "Mes gyriaus kupini."
       ]
-    ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ],
+      "chorus": [
+        "        G                 C",
+        "        G                 C",
+        "        G                 C",
+        "        G                 C"
+      ]
+    }
   },
   {
     "number": 21,
