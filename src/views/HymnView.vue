@@ -41,7 +41,7 @@ export default {
       <source v-bind:src="hymnData['melody-url']" type="audio/mpeg">
     </audio>
     <div class="verses">
-      <span class="chords-capo" v-if="chordsOn && hymnData.chords?.capo ">{{ hymnData.chords.capo }}</span>
+      <span class="chords-capo" v-if="chordsOn && hymnData.chords?.capo">{{ hymnData.chords.capo }}</span>
       <ol v-if="hymnData['verses'].length > 1" class="verse-one">
         <li class="hymn-verse">
           <span v-for="(line, index) in hymnData.verses[0]" :key="index">
@@ -58,6 +58,12 @@ export default {
       </ol>
       <div v-if="hymnData['verses'].length === 1">
         <span v-for="(line, index) in hymnData.verses[0]" :key="index">
+          <div v-if="chordsOn && hymnData.chords?.verse">
+            <span class="chords" v-if="hymnData.chords.verse">
+              {{ hymnData.chords.verse[index] }}
+              <br>
+            </span>
+          </div>
           {{ line }}
           <br>
         </span>
