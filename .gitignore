@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Vite build output
+dist/
+
+# Local environment variables
+.env.local
+.env.*.local
+
+# Vite cache (optional)
+.vite/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS / Windows / Linux system files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Linting cache
+.eslintcache
+
+# TypeScript incremental build info (if using TS)
+*.tsbuildinfo

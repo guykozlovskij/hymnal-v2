@@ -159,12 +159,6 @@
         "„Abba Tėve“ — šaukiame.",
         "Ir šviesa išvis mūs tamsą,",
         "Kaip Sūnus regėsime."
-      ],
-      [
-        "Per malonę turim šviesą,",
-        "Tavo meilę turime.",
-        "Ir per tai Tave pažįstam,",
-        "Iš širdies dėkojame."
       ]
     ],
     "chorus": [
@@ -173,11 +167,11 @@
       "Sūnuje esi gyvybė,",
       "Dalini Save per ją."
     ],
-    "chorus-2": [
-      "O, malonė. O, tiesa",
+    "chorus2": [
+      "O, malonė, O, tiesa!",
       "Štai ir meilė, ir šviesa.",
-      "Tave girsim mes be galo,",
-      "Ir visai pažinsime."
+      "Mes per tai tave pažinsim,",
+      "Nepaliaujant girsime."
     ],
     "chords": {
       "capo": "Capo 3",

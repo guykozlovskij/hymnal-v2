@@ -89,6 +89,12 @@ export default {
           </span>
         </li>
       </ol>
+      <div v-if="hymnData.chorus2" class="hymn-chorus">
+        <span v-for="(line, index) in hymnData.chorus2" :key="index">
+          {{ line }}
+          <br>
+        </span>
+      </div>
     </div>
     <button class="hymn-back-button" @click="$router.go(-1)" role="link">« Grįžti</button>
   </section>
