@@ -1867,12 +1867,12 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        " D               A      D  G          D        A7",
-        "D          G           D  A7                    D",
-        "D                                   A",
-        "F#          Bm          E          A",
-        "D       A  D7    G     ",
-        " D               A7  D"
+        "D                  A     D   G                      D       A7",
+        "D             G                   D             A7   D",
+        "D                            A",
+        "F#        Bm   E    A",
+        "D      A       D7     G",
+        "D               A7      D"
       ]
     }
   },
@@ -1929,13 +1929,13 @@
       "verse": [
         "G                        G7                    C",
         "                   G             D7          G-D7",
-        "                  G       G7            C",
+        "                 G       G7             C",
         "                  G      D7            G"
       ],
       "chorus": [
-        "                 G       C              G",
-        "              Am D7         G     D",
-        "                  G      C                     G   Em",
+        "                 G        C             G",
+        "              Am  D7         G     D",
+        "                 G       C                       G   Em",
         "               Am      D     G "
       ]
     }
@@ -1994,7 +1994,7 @@
         "C                             G        C",
         "                                 F     G",
         "     G             D7   G7",
-        "     C        F        G-G7-C"
+        "     C        F      G G7 C"
       ]
     }
   },
@@ -2030,14 +2030,14 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "D               G           D",
-        "      A7                    D",
-        "D               G           D",
-        "        A     A7  D  D7"
+        "D              G           D",
+        "      A7                   D",
+        "D              G           D",
+        "    A        A7   D    D7"
       ],
       "chorus": [
-        "G          D      A    A7      D      D7",
-        "G          D               E       E7    A",
+        "G          D        A  A7          D  D7",
+        "G          D               E       E7   A",
         "      A7"
       ]
     }
@@ -2133,16 +2133,16 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "D           A          D",
-        "               E             A   A7 ",
-        "D                       G             D",
-        "               A7                D"
+        "D               A                D",
+        "              E             A    A7 ",
+        "D                       G              D",
+        "              A7                D"
       ],
       "chorus": [
         "D                             A",
-        "                A7          D",
+        "               A7           D",
         "D                            E",
-        "A               A7            D"
+        "A              A7             D"
       ]
     }
   },
@@ -2209,16 +2209,16 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "G                  C      G",
+        "G                 C       G",
         "             D           D7   G",
         "       G                 C",
-        "        G       D7  G"
+        "      G         D7 G"
       ],
       "chorus": [
-        "           D                 G",
-        "C                D",
-        "        G              C",
-        "D        D7    G"
+        "           D                G",
+        "C               D",
+        "    G               C",
+        "D       D7    G"
       ]
     }
   },
@@ -2275,14 +2275,14 @@
       "verse": [
         "D                               A",
         "                      A7            D",
-        "                Bm          F#           Bm",
-        "                  A          E7        A"
+        "              Bm     F#                   Bm",
+        "                 A          E7         A"
       ],
       "chorus": [
         "      A7      D                           A",
         "                       A7         D",
         "                            B7                  Em",
-        "            A              A7          D-G-D"
+        "            A             A7          D-G-D"
       ]
     }
   },
@@ -2330,15 +2330,15 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "D                 Em",
-        "       G                       A7  D",
-        "     D              Em",
-        "    G            A7      D"
+        "D                          Em",
+        "                   G           A7  D",
+        "D                           Em",
+        "            G     A7    D"
       ],
       "chorus": [
         "                                G",
-        "        D               Bm      A",
-        "        D               A7      D"
+        "       D                Bm     A",
+        "       D                A7      D"
       ]
     }
   },
