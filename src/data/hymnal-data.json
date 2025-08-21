@@ -4125,9 +4125,9 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "D                   A        D",
-        "            G       D      A",
-        "D           Bm      Em    A",
+        "D                  A        D",
+        "            G       D     A",
+        "D           Bm      Em  A",
         "D     A     D   G  D A7 D"
       ]
     }
@@ -4189,10 +4189,10 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "D            Bm  D G       A7      D",
-        "D                    A    D A      E7    A",
+        "D           Bm  D G        A7    D",
+        "D                    A    D A      E7   A",
         "D              G    D     B       B7  Em",
-        "A  A7    D         G       D  A7 D"
+        "A  A7    D         G      D  A7 D"
       ]
     }
   },
@@ -4265,16 +4265,16 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "G                           D               G",
+        "G                          D               G",
         "                             A           D",
         "G                C                G",
         "D              G         D    D7    G"
       ],
       "chorus": [
-        "G        D          Em                    B7",
-        "C         G            D",
-        "G                                     C",
-        "G                        D   D7      G"
+        "G                  D         Em               B7",
+        "C         G                    D",
+        "G                                        C",
+        "G                   D     D7        G"
       ]
     }
   },
@@ -4323,10 +4323,10 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "D                  G     D",
-        "               E7         A7",
-        "D                 G",
-        "      D       A7  D-G-D"
+        "D                 G      D",
+        "              E7         A7",
+        "D                G",
+        "      D      A7  D-G-D"
       ]
     }
   },
@@ -4381,10 +4381,10 @@
     "chords": {
       "capo": "",
       "verse": [
-        "G                Em     Am           D",
-        "D      D7     G       A    A7   D",
-        "D                     G               C       G",
-        "G                            C    D7  G-C-G"
+        "G                Em    Am           D",
+        "D     D7     G       A    A7    D",
+        "D                     G      C           G",
+        "G                   C       D7       G-C-G"
       ]
     }
   },
