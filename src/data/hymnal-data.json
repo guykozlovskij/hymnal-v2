@@ -4740,7 +4740,7 @@
         "Buveinė Tėvo Ji.",
         "Joj Tėvas susiliejo",
         "Su pašauktais žmonėm.",
-        "Prieš sukurdamas pasaulį",
+        "Prieš sukuriant pasaulį",
         "Išrinko Jis juos Sau,",
         "Sava mirtim atpirko",
         "Nužengęs iš dangaus."
@@ -4811,12 +4811,12 @@
       "verse": [
         "D                                A",
         "     G      A7     D",
-        "                       G",
+        "                      G",
         "                 D            A",
-        "         D                  G       D",
-        "            B7        Em",
-        "     D               G",
-        "      A         A7      D-G-D"
+        "         D                 G   D",
+        "   B7                 Em",
+        "    D                G",
+        "     A          A7     D-G-D"
       ]
     }
   },
@@ -4871,16 +4871,16 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "G         D            G",
-        "D           D7       G  G7",
-        "C                        G",
-        "A                       A7         D7"
+        "G         D           G",
+        "D           D7      G  G7",
+        "C                       G",
+        "A                      A7         D7"
       ],
       "chorus": [
-        "G",
-        "                     A              D  D7",
+        "     G",
+        "                    A              D  D7",
         "G             C            G",
-        "D              D7        G"
+        "D              D7       G"
       ]
     }
   },
@@ -4938,14 +4938,14 @@
       "verse": [
         "G                                                    C",
         "           D                 D7                 G",
-        "                                                         C",
-        "                D                D7                     G-C-G"
+        "                                                        C",
+        "                D                D7                      G-C-G"
       ],
       "chorus": [
-        "             G7        C",
-        "D                  D7             G",
-        "           G7 ",
-        "           C        ",
+        "             G7       C",
+        "D                 D7              G",
+        "                                G7 ",
+        "         C        ",
         "          D                 D7               G-C-G"
       ]
     }
@@ -5019,16 +5019,16 @@
     "chords": {
       "capo": "",
       "verse": [
-        " D                          A     D",
-        "        A                 A7     D",
-        "    G                   D",
-        "     A         A7     D"
+        "D                           A    D",
+        "      A       A7                 D",
+        "    G                  D",
+        "   A          A7     D"
       ],
       "chorus": [
-        "               A         D",
-        "    A7                  D",
-        "      G               D",
-        "    A         A7      D"
+        "               A        D",
+        "   A7                  D",
+        "    G                D",
+        "   A         A7      D"
       ]
     }
   },
@@ -5078,13 +5078,13 @@
       "capo": "",
       "verse": [
         "D",
-        "A              A7                          D",
+        "A             A7                          D",
         "D",
-        "A       A7       D  D7",
-        "           G                   D",
+        "A       A7      D  D7",
+        "          G                   D",
         "         A     A7     D  D7",
         "          G              D",
-        "                   A7    D-G-D"
+        "                   A7   D"
       ]
     }
   },
@@ -5145,22 +5145,22 @@
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "G                    ",
-        "       D                    A7                 D",
+        "G",
+        "       D                   A7                  D",
         "       G                    C",
-        "      G                      D7                G"
+        "      G                       D7               G"
       ],
       "chorus": [
         "",
-        "",
-        "                                  Am",
+        "G",
+        "                                   Am",
         "                D                     D7",
-        "                                 G   D",
+        "                                  G   D",
         "",
         "              G                       ",
         "           G7            C",
         "                                             G",
-        "                     C      D          G-C-G"
+        "                     C      D          G"
       ]
     }
   },
@@ -5204,15 +5204,15 @@
       "capo": "Capo 1",
       "verse": [
         "G                G7     C",
-        "D                         D7           G  C",
+        "D                        D7            G",
         "G                 G7      C",
-        "D              D7              G-C-G"
+        "D             D7              G-C-G"
       ],
       "chorus": [
-        "G          D7                   Em   B7",
+        "G          D                    Em   B7",
         "C       A7             D-A7-D7",
-        "G                  G7      C                  Am",
-        "D                  D7             G-C-G"
+        "G                  G7      C                 Am",
+        "D                 D7             G-C-G"
       ]
     }
   },
@@ -5262,15 +5262,15 @@
       "capo": "Capo 1",
       "verse": [
         "G",
-        "     B7            Em           A7               D",
+        "    B7            Em           A7                D",
         "G",
         "        A                                  A7    D  D7"
       ],
       "chorus": [
-        "G         G7       C                    G",
+        "G         G7        C                   G",
         "    D                G               A7              D",
-        "   G      G7       C                B7",
-        "      E7                A7           G        D7   G-C-G"
+        "   G      G7      C                B7",
+        "      E7               A7           G        D7    G"
       ]
     }
   },
@@ -5326,7 +5326,7 @@
         "D                            G      A7",
         "D          B7   Em",
         "             A7      D",
-        "           G       A     A7 D"
+        "           G       A    A7-D"
       ]
     }
   },
@@ -5371,13 +5371,13 @@
         "C                  G              Am                 Em",
         "F                C                  Dm7            G",
         "C                       G             Am           Em ",
-        "F                  C             Dm      F       G G7 C-F-C"
+        "F                  C             Dm      F       G G7 C"
       ],
       "chorus": [
-        "C                               Em         F                             C",
-        "                           Em             F             C",
-        "                                  Em            F                        C",
-        "            Em            F      Dm7    C      G7  C"
+        "C                              Em         F                             C",
+        "                       Em    F                         C",
+        "                            Em                 F                        C",
+        "            Em           F-Dm7     G              C"
       ]
     }
   },
