@@ -26,7 +26,8 @@ export default {
         return this.hymnalData.filter((hymn, index) => {
           return hymn.title.toLowerCase().includes(this.searchValue.toLowerCase())
             || this.hymnsSearchable[index].toLowerCase().includes(this.searchValue.toLowerCase())
-            || String(hymn.number).includes(this.searchValue.toLowerCase())
+            || String(hymn?.languages?.russian ?? "") === this.searchValue
+            || String(hymn?.languages?.english ?? "") === this.searchValue
         })
       }
       return this.hymnalData
@@ -59,7 +60,7 @@ export default {
     <div class="top">Paieška</div>
     <section id="search-view">
       <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue"
-        placeholder="Pavizdys: negalim išsakyti" type="search">
+        placeholder="Žodžiai arba kitų kalbų numeriai" type="search">
       <section id="search-list">
         <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index"
           @click="$router.push(`/hymns/${hymn.number}`)" role="link">
