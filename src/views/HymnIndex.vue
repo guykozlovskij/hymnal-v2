@@ -19,7 +19,6 @@ export default {
   <main>
     <div class="top">Himnynas</div>
     <section id="index-view">
-      <a id="new-hymns-link" role="link" @click="$router.push(`/new-hymns`)">« Jaunimo Himnai »</a>
       <section v-if="!searchValue" id="hymn-list">
         <div v-for="(hymn, index) in hymnalData" :key="index">
           <button class="hymn-select-button" @click="$router.push(`/hymns/${hymn.number}`)" role="link">
@@ -27,6 +26,7 @@ export default {
           </button>
         </div>
       </section>
+      <a id="new-hymns-link" role="link" @click="$router.push(`/new-hymns`)">« Jaunimo Himnai »</a>
     </section>
   </main>
 </template>
