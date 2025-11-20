@@ -12,6 +12,7 @@ export default defineConfig({
     vueJsx(),
     VitePWA({
       manifest: {
+        lang: "lt",
         name: "Himnynas",
         short_name: "Himnynas",
         icons: [
