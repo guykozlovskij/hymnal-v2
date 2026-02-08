@@ -1744,8 +1744,10 @@
       ]
     ],
     "chorus": [
-      "Aleliuja, aleliuja! Mes su Juo puotaujame.",
-      "Aleliuja, aleliuja! Štai šlovinga Viešpaties puota."
+      "Aleliuja, aleliuja!",
+      "Mes su Juo puotaujame.",
+      "Aleliuja, aleliuja!",
+      "Štai šlovinga Viešpaties puota."
     ],
     "chords": {
       "capo": "",
@@ -1756,8 +1758,10 @@
         "             F                 G     G7 C"
       ],
       "chorus": [
-        "         C7     F                  C                  G-G7",
-        "     C-C7     F                 C                 G7        C F C"
+        "         C7     F",
+        "             C                  G-G7",
+        "     C-C7     F",
+        "            C                 G7        C F C"
       ]
     }
   },
@@ -2041,40 +2045,6 @@
         "      A7"
       ]
     }
-  },
-  {
-    "number": 35,
-    "title": "VIEŠPATĮ AŠ GARBINU",
-    "sub-title": "",
-    "hymnal.net-url": "",
-    "melody-url": "",
-    "verses": [
-      [
-        "Viešpatį aš garbinu,",
-        "Man patinka Jam giedoti.",
-        "Dėl Jo džiaugiuos gyvenimu,",
-        "Jis mus atėjo išvaduoti.",
-        "\n",
-        "Tu atėjai iš dangaus parodyt kelią",
-        "Ir ant kryžiaus sumokėjai Tu mano skolą,",
-        "Ėjai nuo kryžiaus į kapą, o iš jo į dangų.",
-        "Viešpatį aš garbinu."
-      ]
-    ]
-  },
-  {
-    "number": 36,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO GROŽIS",
-    "verses": [
-      [
-        "Jėzau, Tu nuostabus,",
-        "Jėzau, Tu nuostabus.",
-        "Tu Tas, kurį aš myliu,",
-        "Tu Tas, kuriam aš noriu atsiduot —",
-        "Jėzau, Tu nuostabus."
-      ]
-    ]
   },
   {
     "number": 37,
@@ -2706,22 +2676,6 @@
     }
   },
   {
-    "number": 47,
-    "title": "VIEŠPATIES KŪNAS",
-    "verses": [
-      [
-        "Viešpaties Kūnas, Jėzaus Kristaus kraujas",
-        "Atneša išganymą ir perkeičia tave",
-        "Viešpaties Kūnas, Jėzaus Kristaus kraujas",
-        "Atneša išganymą ir perkeičia tave",
-        "Džiaukis, dėkoki, ši malonė tau duota",
-        "Vienytis su Viešpačiu ir pasilikt Jame",
-        "Džiaukis, dėkoki, ši malonė tau duota",
-        "Vienytis su Viešpačiu ir pasilikt Jame"
-      ]
-    ]
-  },
-  {
     "number": 48,
     "title": "KRISTAUS, KAIP GYVYBĖS, PATYRIMAS",
     "languages": {
@@ -3302,34 +3256,6 @@
         "              C    D7               G-C-G"
       ]
     }
-  },
-  {
-    "number": 58,
-    "title": "ŠIRDYJE GIEDU GIESMĘ",
-    "verses": [
-      [
-        "Širdyje giedu giesmę",
-        "Tam, kuris mirė už mane.",
-        "Viešpatie, trokštu būt šalia,",
-        "Nes ištikima meilė Tava.",
-        "Džiaugsmo versmė!",
-        "Gyvybės srovė! Tu visa man esi!",
-        "Širdis priklauso Tau vienam.",
-        "Gyvenimą atiduodu Tau,",
-        "Argi kitaip atsidėkot galiu? (2k.)"
-      ],
-      [
-        "Kai tądien sutikau Tave",
-        "Aš paskendau meilės jūroje.",
-        "Manyje buvo vien tamsa.",
-        "Kol ją išsklaidė Viešpaties šviesa.",
-        "Kai atsigręžiau,",
-        "Atvėriau širdį Tau.",
-        "Tu įėjai vidun, pripildei visas gelmes!",
-        "Dabar žinau — esame kartu",
-        "Ir mūsų nebeišskirs niekas per amžius! (2k.)"
-      ]
-    ]
   },
   {
     "number": 59,

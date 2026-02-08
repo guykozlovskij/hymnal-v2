@@ -6,10 +6,11 @@ import { chords } from '../stores/chords';
 <script>
 export default {
   data() {
-    return {
-      hymnData: json[this.$route.params.id - 1],
-      chordsOn: JSON.parse(localStorage.getItem('chordsEnabled'))
+    const hymnNumber = Number(this.$route.params.id)
 
+    return {
+      hymnData: json.find(h => h.number === hymnNumber),
+      chordsOn: JSON.parse(localStorage.getItem('chordsEnabled'))
     }
   },
   methods: {
@@ -25,7 +26,7 @@ export default {
 </script>
 
 <template>
-  <div class="top">{{ hymnData.number }}</div>
+  <div class="top">{{ hymnData?.number }}</div>
   <section class="hymn-view">
     <div class="hymn-intro">
       <h4>{{ hymnData.title }}</h4>
