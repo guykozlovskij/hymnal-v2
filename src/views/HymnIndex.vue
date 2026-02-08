@@ -21,8 +21,8 @@ export default {
     <section id="index-view">
       <section v-if="!searchValue" id="hymn-list">
         <div v-for="(hymn, index) in hymnalData" :key="index">
-          <button class="hymn-select-button" @click="$router.push(`/hymns/${hymn.number}`)" role="link">
-            {{ hymn.number }}
+          <button class="hymn-select-button" @click="$router.push(`/hymns/${hymn.languages.english}`)" role="link">
+            {{ hymn.languages.english }}
           </button>
         </div>
       </section>
