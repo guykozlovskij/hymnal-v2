@@ -29,8 +29,8 @@ export default {
   <div class="top">{{ hymnData?.number }}</div>
   <section class="hymn-view">
     <div class="hymn-intro">
-      <h4>{{ hymnData.title }}</h4>
-      <h4 v-if="hymnData['sub-title']">{{ hymnData['sub-title'] }}</h4>
+      <h4 class="uppercase">{{ hymnData.category }} - </h4>
+      <h4 class="uppercase" v-if="hymnData['subcategory']">{{ hymnData['subcategory'] }}</h4>
       <h4 v-if="hymnData['languages']">
         (
         <span v-if="hymnData['languages']['russian']">R{{ hymnData.languages.russian }}, </span>

@@ -55,6 +55,7 @@
   border-radius: 0.25rem;
   padding: 6px 12px;
   line-height: 1.5;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
 
 .chords {
@@ -67,4 +68,8 @@
   text-align: left;
   font-size: 14px;
   color: gray;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
