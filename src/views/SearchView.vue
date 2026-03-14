@@ -1,6 +1,5 @@
 <script setup>
 import hymnalJSON from '../data/hymnal-data.json'
-import newHymnsJSON from '../data/new-hymns.json'
 </script>
 
 <script>
@@ -9,7 +8,6 @@ export default {
     return {
       searchValue: '',
       hymnalData: hymnalJSON,
-      newHymnsData: newHymnsJSON,
       colors: ["#d0e0fd", "#acc9ff"]
     }
   },
@@ -24,7 +22,7 @@ export default {
     hymnsFiltered() {
       if (this.searchValue.trim().length > 0) {
         return this.hymnalData.filter((hymn, index) => {
-          return hymn.title.toLowerCase().includes(this.searchValue.toLowerCase())
+          return hymn.category.toLowerCase().includes(this.searchValue.toLowerCase())
             || this.hymnsSearchable[index].toLowerCase().includes(this.searchValue.toLowerCase())
             || String(hymn?.languages?.russian ?? "") === this.searchValue
             || String(hymn?.languages?.english ?? "") === this.searchValue
@@ -66,7 +64,7 @@ export default {
       </div>
       <section id="search-list">
         <template v-for="(hymn, index) in hymnsFiltered" :key="index">
-          <div v-if="index === 0 || hymn.category !== hymnsFiltered[index - 1].category" class="category">
+          <div v-if="index === 0 || hymn.category !== hymnsFiltered[index - 1].category" id="category">
             {{ hymn.category }}
           </div>
           <div class="search-wrapper" @click="$router.push(`/hymns/${hymn.number}`)" role="link">
