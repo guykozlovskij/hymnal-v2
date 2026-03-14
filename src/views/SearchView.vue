@@ -59,11 +59,12 @@ export default {
   <main>
     <div class="top">Paieška</div>
     <section id="search-view">
-      <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue"
-        placeholder="Žodžiai arba kitų kalbų numeriai" type="search">
+      <div id="search-and-settings">
+        <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška..." type="search">
+        <a @click="$router.push(`/settings`)" role="link"><v-icon class="vue-icon" name="bi-gear-wide" scale="2"/></a>
+      </div>
       <section id="search-list">
-        <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index"
-          @click="$router.push(`/hymns/${hymn.number}`)" role="link">
+        <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index" @click="$router.push(`/hymns/${hymn.number}`)" role="link">
           <div class="search-result-line" v-bind:style="{ backgroundColor: colors[index % 2]}">
             <a>{{ hymn.number }}. {{ hymn.verses[0][0].replace(/\.$|\,$|\:$|\!$|\—$/, "") }}</a>
           </div>

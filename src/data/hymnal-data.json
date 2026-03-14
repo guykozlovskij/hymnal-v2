@@ -1,6 +1,6 @@
 [
   {
-    "number": 1,
+    "number": 7,
     "title": "TRIVIENIO DIEVO PALAIMINIMAS",
     "sub-title": "GYRIUS JAM",
     "languages": {
@@ -46,7 +46,7 @@
     }
   },
   {
-    "number": 2,
+    "number": 11,
     "title": "TĖVO, KAIP DVASIOS, GARBINIMAS",
     "languages": {
       "russian": 7,
@@ -109,7 +109,7 @@
     }
   },
   {
-    "number": 3,
+    "number": 13,
     "title": "TĖVO, KAIP MEILĖS ŠVIESOS, GARBINIMAS",
     "languages": {
       "russian": 9,
@@ -190,7 +190,7 @@
     }
   },
   {
-    "number": 4,
+    "number": 14,
     "title": "TĖVO GARBINIMAS UŽ JO NEMIRTINGUMĄ",
     "languages": {
       "russian": 10,
@@ -241,64 +241,7 @@
     }
   },
   {
-    "number": 5,
-    "title": "TĖVO GARBINIMAS UŽ JO ŠVENTUMĄ",
-    "languages": {
-      "russian": 18,
-      "english": 22
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/22",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0022_full.mp3",
-    "verses": [
-      [
-        "Šventas Tėve Dangiškasis,",
-        "Tavo vardą aukštinam,",
-        "Mes Šventu Tave vadinam,",
-        "Džiaugiamės ir garbinam."
-      ],
-      [
-        "Tu teisus per amžius, Tėve.",
-        "Myli Tavo širdis mus.",
-        "Tavo prigimtį — šventumą",
-        "Kristus perduoda į mus."
-      ],
-      [
-        "Jėzaus Viešpaties krauju Tu",
-        "Amžiams mus pašventinai.",
-        "Ta tiesa, kur Tavo Žody,",
-        "Mus vergus išlaisvinai."
-      ],
-      [
-        "Taip šventaisiais padarei mus",
-        "Tu sava Šventa Dvasia.",
-        "Tiktai Ja tegu šventėja",
-        "Kūnas, siela ir dvasia."
-      ],
-      [
-        "Jėzaus šventąją gyvybę",
-        "Per malonę gavome.",
-        "Ir visi šventumą Tavo",
-        "Mes dalinti galime."
-      ],
-      [
-        "Ir kada Šventam mieste mes",
-        "Būsim viena šventume.",
-        "Iki žemės pakraščių net",
-        "„Šventas Tu“ giedosime."
-      ]
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "C                    F        C",
-        "        Am     D      G",
-        "C                     F       C",
-        "              G        G7   C"
-      ]
-    }
-  },
-  {
-    "number": 6,
+    "number": 16,
     "title": "TĖVO GARBINIMAS UŽ JO NAUJUMĄ",
     "languages": {
       "russian": 12,
@@ -358,7 +301,12 @@
     ],
     "chords": {
       "capo": "",
-      "verse": ["     C", "      G        G7  C", "     C", "     D      D7      G-G7"],
+      "verse": [
+        "     C",
+        "      G        G7  C",
+        "     C",
+        "     D      D7      G-G7"
+      ],
       "chorus": [
         "     C                   F  C",
         "     F         C    G",
@@ -368,7 +316,7 @@
     }
   },
   {
-    "number": 7,
+    "number": 17,
     "title": "TĖVO GARBINIMAS JO DIDYBĖ",
     "languages": {
       "russian": 13,
@@ -425,82 +373,64 @@
     }
   },
   {
-    "number": 8,
-    "title": "KRISTAUS KAIP GYVYBĖS PATYRIMAS",
+    "number": 22,
+    "title": "TĖVO GARBINIMAS UŽ JO ŠVENTUMĄ",
     "languages": {
-      "russian": 355,
-      "english": 505
+      "russian": 18,
+      "english": 22
     },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/505",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0505_full.mp3",
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/22",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0022_full.mp3",
     "verses": [
       [
-        "Štai Žmogus šlovėje,",
-        "Gyvybė Jo man.",
-        "Jis tyras ir šventas,",
-        "Triumfuojantis Jis.",
-        "Jis laisvas ir mylintis,",
-        "Koks Jis švelnus!",
-        "Turėti gyvybę",
-        "Šlovėj Jo galiu;",
-        "Turėti gyvybę",
-        "Šlovėj Jo galiu."
+        "Šventas Tėve Dangiškasis,",
+        "Tavo vardą aukštinam,",
+        "Mes Šventu Tave vadinam,",
+        "Džiaugiamės ir garbinam."
       ],
       [
-        "Štai Žmogus šlovėje,",
-        "Gyvybė Jo man.",
-        "Šėtoną įveikęs",
-        "Be pančių Jisai",
-        "Gyvybėje valdo,",
-        "Koksai Jis puikus!",
-        "Turėti gyvybę",
-        "Šlovėj Jo galiu;",
-        "Turėti gyvybę",
-        "Šlovėj Jo galiu."
+        "Tu teisus per amžius, Tėve.",
+        "Myli Tavo širdis mus.",
+        "Tavo prigimtį — šventumą",
+        "Kristus perduoda į mus."
       ],
       [
-        "Štai Žmogus šlovėje,",
-        "Gyvybė Jo man.",
-        "Jame nėr silpnybių,",
-        "Ligų nėr Jame.",
-        "Stiprus ir toks tvirtas",
-        "Džiaugsmingas Jisai!",
-        "Turėsiu gyvybę",
-        "Aš Jo šlovėj;",
-        "Turėsiu gyvybę",
-        "Aš Jo šlovėj."
+        "Jėzaus Viešpaties krauju Tu",
+        "Amžiams mus pašventinai.",
+        "Ta tiesa, kur Tavo Žody,",
+        "Mus vergus išlaisvinai."
       ],
       [
-        "Štai Žmogus šlovėje,",
-        "Gyvybė Jo man.",
-        "Ramybė tvirta Jo,",
-        "Koksai Jis kantrus!",
-        "Spindėdamas laukia",
-        "Išvyst manyje",
-        "Kaip Jo gyvybe",
-        "Many bus atskleista;",
-        "Kaip Jo gyvybe",
-        "Many bus atskleista."
+        "Taip šventaisiais padarei mus",
+        "Tu sava Šventa Dvasia.",
+        "Tiktai Ja tegu šventėja",
+        "Kūnas, siela ir dvasia."
+      ],
+      [
+        "Jėzaus šventąją gyvybę",
+        "Per malonę gavome.",
+        "Ir visi šventumą Tavo",
+        "Mes dalinti galime."
+      ],
+      [
+        "Ir kada Šventam mieste mes",
+        "Būsim viena šventume.",
+        "Iki žemės pakraščių net",
+        "„Šventas Tu“ giedosime."
       ]
     ],
     "chords": {
-      "capo": "Capo 1",
+      "capo": "",
       "verse": [
-        "G                           D",
-        "     G C       G-D",
-        "    Em-A      D-A-D",
-        "        A    A7     D  D7",
-        "     G            C      G",
-        "          A7       D-D7",
-        "    G",
-        "                    D",
-        "    C       D7-G",
-        "     D   D7    G"
+        "C                    F        C",
+        "        Am     D      G",
+        "C                     F       C",
+        "              G        G7   C"
       ]
     }
   },
   {
-    "number": 9,
+    "number": 30,
     "title": "TĖVO GARBINIMAS JO MEILĖ",
     "languages": {
       "russian": 26,
@@ -527,7 +457,12 @@
         "Kad taptume mes sūnumis,",
         "Paveldėję turtus."
       ],
-      ["Gyvybę turime Jame.", "Tu Tėvu mūs tapai.", "Esybę Savo ir Save", "Tu mums atidavei."],
+      [
+        "Gyvybę turime Jame.",
+        "Tu Tėvu mūs tapai.",
+        "Esybę Savo ir Save",
+        "Tu mums atidavei."
+      ],
       [
         "Tava Dvasia mūs dvasioje.",
         "Tau „Abba“ šaukiame.",
@@ -564,7 +499,7 @@
     }
   },
   {
-    "number": 10,
+    "number": 39,
     "title": "TĖVO GARBINIMAS UŽ JO ATPIRKIMĄ",
     "languages": {
       "russian": 31,
@@ -615,7 +550,7 @@
     }
   },
   {
-    "number": 11,
+    "number": 40,
     "title": "TĖVO GARBINIMAS JO ATPIRKIMAS",
     "languages": {
       "russian": 32,
@@ -624,15 +559,30 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/40",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0040_full.mp3",
     "verses": [
-      ["Tau dėkojam visi,", "Tėve, Sūnų davei.", "Tik per Jį atpirkti,", "Nes Tu mus pamilai."],
+      [
+        "Tau dėkojam visi,",
+        "Tėve, Sūnų davei.",
+        "Tik per Jį atpirkti,",
+        "Nes Tu mus pamilai."
+      ],
       [
         "Kristus Gelbėtojas —",
         "Tavo meilės Sūnus.",
         "Jau išaukštintas Jis,",
         "Nes Jis mirė už mus."
       ],
-      ["Tu šlovingas esi,", "Davei Dvasią šviesos.", "Ji apreiškė mums Kristų —", "Neliko tamsos."],
-      ["Tėvą šloviname,", "Kurs pamilo taip mus.", "Jėzaus išpirkimu", "Meilę rodo Jis mums."],
+      [
+        "Tu šlovingas esi,",
+        "Davei Dvasią šviesos.",
+        "Ji apreiškė mums Kristų —",
+        "Neliko tamsos."
+      ],
+      [
+        "Tėvą šloviname,",
+        "Kurs pamilo taip mus.",
+        "Jėzaus išpirkimu",
+        "Meilę rodo Jis mums."
+      ],
       [
         "Vėl mes giriam Tave,",
         "Nes mes meilės pilni.",
@@ -648,12 +598,22 @@
     ],
     "chords": {
       "capo": "Capo 3",
-      "verse": ["D", "", "", "            A"],
-      "chorus": ["     D", "     G        A", "     D", "    A        A7-D"]
+      "verse": [
+        "D",
+        "",
+        "",
+        "            A"
+      ],
+      "chorus": [
+        "     D",
+        "     G        A",
+        "     D",
+        "    A        A7-D"
+      ]
     }
   },
   {
-    "number": 12,
+    "number": 41,
     "title": "TĖVO GARBINIMAS JO IŠPIRKIMAS",
     "languages": {
       "russian": 33,
@@ -710,81 +670,137 @@
     }
   },
   {
-    "number": 13,
-    "title": "VIEŠPATIES ŠLOVINIMAS UŽ JO IŠGELBĖJIMĄ",
+    "number": 57,
+    "title": "GYRIUS VIEŠPAČIUI",
+    "sub-title": "UŽ JO DIEVIŠKUMĄ",
     "languages": {
-      "russian": 84,
-      "english": 116
+      "russian": 46,
+      "english": 57
     },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/116",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0116_full.mp3",
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/57",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0057_full.mp3",
     "verses": [
       [
-        "Koks atpirkimas nuostabus",
-        "O, Viešpatie, Tavy,",
-        "Per amžius neregėta tai,",
-        "Ką Tu man padarei.",
-        "Tu paslaptingas Dieviškas",
-        "Nėr žodžių apsakyt.",
-        "Šis atpirkimas nuostabus",
-        "Aukščiau už gįrius mūs."
+        "Tu Dievo atvaizdas esi,",
+        "O Viešpatie brangus.",
+        "Pilnatvę Dievo atnešei,",
+        "Davei pažint Jį mums."
       ],
       [
-        "Už mus ant kryžiaus perdurtas, -",
-        "Ten kraujas ir vanduo, -",
-        "Tekėjo mums suteikti jie givybę Dievišką.",
-        "Nuplovė ir atpirko mus",
-        "Mums būt priimtinais.",
-        "Atnaujinti givybėje",
-        "Mes esam Tavyje."
+        "Tu Dievo Žodis, Viešpatie.",
+        "Gyvybė mūsų Tu.",
+        "Tikrovė Tu esi čia mums,",
+        "Malonė mūs visų."
       ],
       [
-        "Esi Tu grūdas Dieviškas,",
-        "Mirei, kad daug grūdų",
-        "Į kūną sumaišyti juos,",
-        "Dalinti prigimtį.",
-        "Mes Tavo padidėjimas,",
-        "Tu mūsų sudėtis.",
-        "Per mus judi ir gyveni",
-        "Išreikštas Tu esi."
+        "Tu — Dievo amžino Sūnus,",
+        "Tu — Dievo spindesys.",
+        "Esybe Dievo Tu esi,",
+        "Pats Dievas Tu esi."
       ],
       [
-        "Mes Tavo Kūnas",
-        "Įsikurt gali Tu mumyse.",
-        "Įgytį Sau namus,",
-        "Atrast pasitikėjimą.",
-        "Mes esam Tavo kopija -",
-        "Patenkintas Esi",
-        "Viskuom kas Tu esi Kūne",
-        "Mėgaujames visi."
+        "Pats Dievas įsikūnijo,",
+        "Tu viena su Dievu.",
+        "Ir nieks negali taip išreikšt,",
+        "Kaip Jį išreiškei Tu."
       ],
       [
-        "Žiūrėdami į ženklus čia",
-        "Prisimenam Tave.",
-        "Už dydį atpirkimą",
-        "Šlovę atiduodame.",
-        "Mes - tavo padidėjimas,",
-        "Namai ir nuotaka.",
-        "Dėkojam, šlovinam Tave",
-        "Ir aukštinsim visad."
+        "Mes mėgaujamės Tavyje,",
+        "Gyvybe mūs esi.",
+        "Mes giriam Tėvą ir Tave,",
+        "Mes gyriaus kupini."
       ]
     ],
     "chords": {
       "capo": "Capo 1",
       "verse": [
-        "D                         A",
-        "     A7               D",
-        "       D                 A",
-        "      A7                D",
-        "     A                   D",
-        "       E         E7    A-A7 ",
-        "      D               G",
-        "       D            A7     D"
+        "G                      C",
+        "    G                    D-D7",
+        "     G      G7      C",
+        "     G       D7     G"
       ]
     }
   },
   {
-    "number": 14,
+    "number": 62,
+    "title": "GYRIUS VIŠPAČIUI",
+    "sub-title": "UŽ JO ŽMOGIŠKUMĄ",
+    "languages": {
+      "russian": 49,
+      "english": 62
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/62",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0062_full.mp3",
+    "verses": [
+      [
+        "Šlovinam Tave mes, Jėzau,",
+        "„Moters Sėkla“ Tu tapai.",
+        "Ir gimei Tu iš mergelės,",
+        "Tu dėl mūs Žmogum tapai.",
+        "Žmogiškąja prigimtim Tu",
+        "Tą Gyvatę pagavai.",
+        "Kryžium galvą jai sutraiškei,",
+        "Dievo planą įvykdei."
+      ],
+      [
+        "Įsikūnijai į žmogų,",
+        "Kūnu ir krauju tapai.",
+        "Tu už mus visus kentėjai,",
+        "Priešą Tu sutriuškinai.",
+        "Jėzumi Tave vadino,",
+        "Šaukė Emanueliu.",
+        "Gelbėtojas mūs brangiausias,",
+        "Laisvę dovanojai Tu."
+      ],
+      [
+        "„Paskutinis Tu Adomas“",
+        "„Žmogumi antru“ tapai.",
+        "Naująją Tu Kūriniją",
+        "Amžina valdžia valdai.",
+        "Ir Žmogaus Sūnum tapai",
+        "Tu žemėje gyvendamas,",
+        "Pasilieki Žmogumi Tu,",
+        "Nors esi ir danguje."
+      ],
+      [
+        "Dievo paskirtu laiku Tu",
+        "Grįši, Viešpatie, pas mus.",
+        "Šlovėje Tave išvysim:",
+        "Dievo išraiška — Žmogus.",
+        "Kaip Žmogaus Sūnus ateisi,",
+        "Teismo sostan sėsi Tu.",
+        "Žmogumi per amžius liksi,",
+        "Nors ir būsi Tu Dievu."
+      ]
+    ],
+    "chorus": [
+      "Tavo puikume mes",
+      "Matom Dievo šlovę,",
+      "Ir visa pilnatvė Dievo",
+      "Buvo Žmoguje."
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "D                               A",
+        "D            A        A7    D",
+        "D                         A",
+        "D         A7                     D",
+        "A          A7   D",
+        "A     A7     D",
+        "D                     G      D",
+        "G       D        A7  D"
+      ],
+      "chorus": [
+        "D               A",
+        "             A7     D",
+        "D            G",
+        "D        A7    D"
+      ]
+    }
+  },
+  {
+    "number": 67,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": "JO VARDAS",
     "languages": {
@@ -842,7 +858,7 @@
     }
   },
   {
-    "number": 15,
+    "number": 79,
     "title": "VIEŠPATIES GARBINIMAS",
     "sub-title": "JO VARDAS",
     "languages": {
@@ -870,7 +886,12 @@
         "Numatęs buvo gelbėti",
         "Visus mus nuo mirties."
       ],
-      ["Jis užvaldys visas žemes", "Ir karalystes.", "Jis bus vaidinamas visų", "Galinguoju Dievu."]
+      [
+        "Jis užvaldys visas žemes",
+        "Ir karalystes.",
+        "Jis bus vaidinamas visų",
+        "Galinguoju Dievu."
+      ]
     ],
     "chorus": [
       "Šlovink vardą šį, šlovink vardą šį.",
@@ -895,112 +916,7 @@
     }
   },
   {
-    "number": 16,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO VARDAS",
-    "languages": {
-      "russian": 64,
-      "english": 1086
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1086",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1086_i.mp3",
-    "verses": [
-      [
-        "Koks tas vardas — Jėzus!",
-        "Toks didis yra jis mums.",
-        "Danguje ir žemėje nėra aukščiau jo.",
-        "Vardą šį įkvėpsim mes —",
-        "Tamsa pranyks, mirtis išnyks,",
-        "Nes sugrįžta Viešpats Jėzus vėl pas mus."
-      ],
-      [
-        "Džiaugiamės visa širdim",
-        "Šlovė mūs Tėvui — Amen!",
-        "Išpažįstam Tavo vardą, Viešpatie.",
-        "Atiduoti gyrių Tau —",
-        "Tai pasimėgavimas mums.",
-        "O, mes mylim, Jėzau, šaukiamės Tavęs!"
-      ]
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "D                                 D7",
-        "                  G       D",
-        "                                                     A",
-        "          D                 D7",
-        "                G",
-        "             D                     A        A7        D G D"
-      ]
-    }
-  },
-  {
-    "number": 17,
-    "title": "RAGINIMAS BENDRAUTI SU VIEŠPAČIU",
-    "languages": {
-      "russian": 463,
-      "english": 643
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/nt/643",
-    "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e0643_new.mp3",
-    "verses": [
-      [
-        "Skirk laiko regėt Jį,",
-        "Kalbėki su Juo,",
-        "Žodžiu Jo maitinkis,",
-        "Jame pasilik.",
-        "Lauk Jo buvime,",
-        "Romus, nuolankus,",
-        "Ir tik Jo palaiminimo",
-        "Tu ieškok."
-      ],
-      [
-        "Skirk laiko regėt Jį,",
-        "Pasaulis skubus.",
-        "Daug laiko su Jėzum",
-        "Praleiski slaptoj.",
-        "Žvelgdamas į Jėzų,",
-        "Tu būsi kaip Jis.",
-        "Tavam elgesy",
-        "Jo panašumą matys."
-      ],
-      [
-        "Skirk laiko regėt Jį,",
-        "Leisk būt Jam vedliu",
-        "Ir kas benutiktų,",
-        "Nebėk prieky Jo.",
-        "Džiaugsme,liūdesy",
-        "Vis dar seki Jį,",
-        "Žiūrėki į Jėzų,",
-        "Tikėk Jo žodžiu."
-      ],
-      [
-        "Skirk laiko regėt Jį,",
-        "Būk sieloj ramus.",
-        "Mintis ir jausmus Jam",
-        "Paveski savus.",
-        "Prie meilės šaltinių",
-        "Dvasia Jo nuves,",
-        "Tuomet Jo malonė",
-        "Tau bus suteikta."
-      ]
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "D",
-        "     G          D",
-        "                      D",
-        "    G         A",
-        "         D",
-        "     D7.              G",
-        "   D                     G",
-        "    A7 D"
-      ]
-    }
-  },
-  {
-    "number": 18,
+    "number": 82,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": "UŽ JO ĮSIKŪNIJIMĄ",
     "languages": {
@@ -1052,7 +968,7 @@
     }
   },
   {
-    "number": 19,
+    "number": 84,
     "title": "GYRIUS VIEŠPAČIUI",
     "sub-title": "UŽ JO ĮSIKŪNIJIMĄ",
     "languages": {
@@ -1128,59 +1044,81 @@
     }
   },
   {
-    "number": 20,
-    "title": "GYRIUS VIEŠPAČIUI",
-    "sub-title": "UŽ JO DIEVIŠKUMĄ",
+    "number": 116,
+    "title": "VIEŠPATIES ŠLOVINIMAS UŽ JO IŠGELBĖJIMĄ",
     "languages": {
-      "russian": 46,
-      "english": 57
+      "russian": 84,
+      "english": 116
     },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/57",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0057_full.mp3",
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/116",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0116_full.mp3",
     "verses": [
       [
-        "Tu Dievo atvaizdas esi,",
-        "O Viešpatie brangus.",
-        "Pilnatvę Dievo atnešei,",
-        "Davei pažint Jį mums."
+        "Koks atpirkimas nuostabus",
+        "O, Viešpatie, Tavy,",
+        "Per amžius neregėta tai,",
+        "Ką Tu man padarei.",
+        "Tu paslaptingas Dieviškas",
+        "Nėr žodžių apsakyt.",
+        "Šis atpirkimas nuostabus",
+        "Aukščiau už gįrius mūs."
       ],
       [
-        "Tu Dievo Žodis, Viešpatie.",
-        "Gyvybė mūsų Tu.",
-        "Tikrovė Tu esi čia mums,",
-        "Malonė mūs visų."
+        "Už mus ant kryžiaus perdurtas, -",
+        "Ten kraujas ir vanduo, -",
+        "Tekėjo mums suteikti jie givybę Dievišką.",
+        "Nuplovė ir atpirko mus",
+        "Mums būt priimtinais.",
+        "Atnaujinti givybėje",
+        "Mes esam Tavyje."
       ],
       [
-        "Tu — Dievo amžino Sūnus,",
-        "Tu — Dievo spindesys.",
-        "Esybe Dievo Tu esi,",
-        "Pats Dievas Tu esi."
+        "Esi Tu grūdas Dieviškas,",
+        "Mirei, kad daug grūdų",
+        "Į kūną sumaišyti juos,",
+        "Dalinti prigimtį.",
+        "Mes Tavo padidėjimas,",
+        "Tu mūsų sudėtis.",
+        "Per mus judi ir gyveni",
+        "Išreikštas Tu esi."
       ],
       [
-        "Pats Dievas įsikūnijo,",
-        "Tu viena su Dievu.",
-        "Ir nieks negali taip išreikšt,",
-        "Kaip Jį išreiškei Tu."
+        "Mes Tavo Kūnas",
+        "Įsikurt gali Tu mumyse.",
+        "Įgytį Sau namus,",
+        "Atrast pasitikėjimą.",
+        "Mes esam Tavo kopija -",
+        "Patenkintas Esi",
+        "Viskuom kas Tu esi Kūne",
+        "Mėgaujames visi."
       ],
       [
-        "Mes mėgaujamės Tavyje,",
-        "Gyvybe mūs esi.",
-        "Mes giriam Tėvą ir Tave,",
-        "Mes gyriaus kupini."
+        "Žiūrėdami į ženklus čia",
+        "Prisimenam Tave.",
+        "Už dydį atpirkimą",
+        "Šlovę atiduodame.",
+        "Mes - tavo padidėjimas,",
+        "Namai ir nuotaka.",
+        "Dėkojam, šlovinam Tave",
+        "Ir aukštinsim visad."
       ]
     ],
     "chords": {
       "capo": "Capo 1",
       "verse": [
-        "G                      C",
-        "    G                    D-D7",
-        "     G      G7      C",
-        "     G       D7     G"
+        "D                         A",
+        "     A7               D",
+        "       D                 A",
+        "      A7                D",
+        "     A                   D",
+        "       E         E7    A-A7 ",
+        "      D               G",
+        "       D            A7     D"
       ]
     }
   },
   {
-    "number": 21,
+    "number": 132,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": "JO IŠAUKŠTINIMAS",
     "languages": {
@@ -1244,75 +1182,7 @@
     }
   },
   {
-    "number": 22,
-    "title": "GYRIUS VIŠPAČIUI",
-    "sub-title": "UŽ JO ŽMOGIŠKUMĄ",
-    "languages": {
-      "russian": 49,
-      "english": 62
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/62",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0062_full.mp3",
-    "verses": [
-      [
-        "Šlovinam Tave mes, Jėzau,",
-        "„Moters Sėkla“ Tu tapai.",
-        "Ir gimei Tu iš mergelės,",
-        "Tu dėl mūs Žmogum tapai.",
-        "Žmogiškąja prigimtim Tu",
-        "Tą Gyvatę pagavai.",
-        "Kryžium galvą jai sutraiškei,",
-        "Dievo planą įvykdei."
-      ],
-      [
-        "Įsikūnijai į žmogų,",
-        "Kūnu ir krauju tapai.",
-        "Tu už mus visus kentėjai,",
-        "Priešą Tu sutriuškinai.",
-        "Jėzumi Tave vadino,",
-        "Šaukė Emanueliu.",
-        "Gelbėtojas mūs brangiausias,",
-        "Laisvę dovanojai Tu."
-      ],
-      [
-        "„Paskutinis Tu Adomas“",
-        "„Žmogumi antru“ tapai.",
-        "Naująją Tu Kūriniją",
-        "Amžina valdžia valdai.",
-        "Ir Žmogaus Sūnum tapai",
-        "Tu žemėje gyvendamas,",
-        "Pasilieki Žmogumi Tu,",
-        "Nors esi ir danguje."
-      ],
-      [
-        "Dievo paskirtu laiku Tu",
-        "Grįši, Viešpatie, pas mus.",
-        "Šlovėje Tave išvysim:",
-        "Dievo išraiška — Žmogus.",
-        "Kaip Žmogaus Sūnus ateisi,",
-        "Teismo sostan sėsi Tu.",
-        "Žmogumi per amžius liksi,",
-        "Nors ir būsi Tu Dievu."
-      ]
-    ],
-    "chorus": ["Tavo puikume mes", "Matom Dievo šlovę,", "Ir visa pilnatvė Dievo", "Buvo Žmoguje."],
-    "chords": {
-      "capo": "Capo 1",
-      "verse": [
-        "D                               A",
-        "D            A        A7    D",
-        "D                         A",
-        "D         A7                     D",
-        "A          A7   D",
-        "A     A7     D",
-        "D                     G      D",
-        "G       D        A7  D"
-      ],
-      "chorus": ["D               A", "             A7     D", "D            G", "D        A7    D"]
-    }
-  },
-  {
-    "number": 23,
+    "number": 152,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": "JO MEILĖ",
     "languages": {
@@ -1368,7 +1238,7 @@
     }
   },
   {
-    "number": 24,
+    "number": 154,
     "title": "GYRIUS VIEŠPAČIUI",
     "sub-title": "UŽ JO MEILĘ",
     "languages": {
@@ -1432,7 +1302,7 @@
     }
   },
   {
-    "number": 25,
+    "number": 170,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": " UŽ JO GROŽĮ",
     "languages": {
@@ -1496,7 +1366,7 @@
     }
   },
   {
-    "number": 26,
+    "number": 172,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": "UŽ JO GROŽĮ",
     "languages": {
@@ -1560,7 +1430,73 @@
     }
   },
   {
-    "number": 27,
+    "number": 181,
+    "title": "GYRIUS VIEŠPAČIUI",
+    "sub-title": "",
+    "languages": {
+      "russian": 131,
+      "english": 181
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/181",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1096_i.mp3",
+    "verses": [
+      [
+        "Avinėliui Jo bažnyčioj:",
+        "Gyrius! Garbė!",
+        "Danguje Jam skamba himnai:",
+        "Gyrius! Garbė!",
+        "Griuvo žemiškieji sostai,",
+        "Šlovę Jam tik atiduosim,",
+        "Nepailstamai giedosim:",
+        "Gyrius! Garbė!"
+      ],
+      [
+        "Kas tik galit girkit Jėzų:",
+        "Gyrius! Garbe!",
+        "Giedam mūsų Atpirkėjui:",
+        "Gyrius! Garbė!",
+        "Lyg griaustinis aidi gyrius,",
+        "Tiktai Jam šlovė tekyla,",
+        "Ir per amžius nenutyla:",
+        "Gyrius! Garbė!"
+      ],
+      [
+        "Skamba kanklės Jėzaus šlovei:",
+        "Gyrius! Garbė!",
+        "Liejas Jo gausi malonė:",
+        "Gyrius! Garbė!",
+        "Sumokėjo mūsų skolą,",
+        "Nuodėmes krauju nuplovė,",
+        "Veda mus į Dievo šlovę:",
+        "Gyrius! Garbė!"
+      ],
+      [
+        "Sielvarte, skausme giedokit:",
+        "Gyrius! Garbė!",
+        "Juo tikėti nenustokit:",
+        "Gyrius! Garbė!",
+        "Šia nauja giesme visi mes",
+        "Gelbėtoją šlovinsime",
+        "Avinėlį girsime mes:",
+        "Gyrius! Garbė!"
+      ]
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D   G           A",
+        "G  A7         D  G  D",
+        "D        G          A",
+        "G  A7         D  G  D",
+        "G                      ",
+        "                       A-A7",
+        "D     G                A",
+        "G  A7         D G D "
+      ]
+    }
+  },
+  {
+    "number": 190,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": "JIS VISA APIMANTIS",
     "languages": {
@@ -1630,143 +1566,73 @@
     }
   },
   {
-    "number": 28,
-    "title": "GYRIUS VIEŠPAČIUI",
-    "sub-title": "",
+    "number": 203,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO PADIDĖJIMAS",
     "languages": {
-      "russian": 131,
-      "english": 181
+      "russian": 152,
+      "english": 203
     },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/181",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1096_i.mp3",
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/203",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0203_full.mp3",
     "verses": [
       [
-        "Avinėliui Jo bažnyčioj:",
-        "Gyrius! Garbė!",
-        "Danguje Jam skamba himnai:",
-        "Gyrius! Garbė!",
-        "Griuvo žemiškieji sostai,",
-        "Šlovę Jam tik atiduosim,",
-        "Nepailstamai giedosim:",
-        "Gyrius! Garbė!"
+        "Amžinybėj Tėvo glėby,",
+        "Prieš visas pradžių pradžias.",
+        "Viengimiu Sūnum buvai Tu",
+        "Savo Tėvo šlovėje.",
+        "Kai atidavė Tave Jis,",
+        "Tu tas pats asmuo buvai,",
+        "Dvasioje pilnatvę Tavo",
+        "Mums tada Tu paskelbei."
       ],
       [
-        "Kas tik galit girkit Jėzų:",
-        "Gyrius! Garbe!",
-        "Giedam mūsų Atpirkėjui:",
-        "Gyrius! Garbė!",
-        "Lyg griaustinis aidi gyrius,",
-        "Tiktai Jam šlovė tekyla,",
-        "Ir per amžius nenutyla:",
-        "Gyrius! Garbė!"
+        "Tu mirei ir prisikėlei,",
+        "Pirmgimiu Sūnum tapai.",
+        "Atkartojimas mes Tavo,",
+        "Jo gyvybę suteikei.",
+        "Tavyje atgimę esam —",
+        "Dievo daugelis sūnų,",
+        "Iš tiesų mes Tavo broliai,",
+        "Tokie patys, kaip ir Tu."
       ],
       [
-        "Skamba kanklės Jėzaus šlovei:",
-        "Gyrius! Garbė!",
-        "Liejas Jo gausi malonė:",
-        "Gyrius! Garbė!",
-        "Sumokėjo mūsų skolą,",
-        "Nuodėmes krauju nuplovė,",
-        "Veda mus į Dievo šlovę:",
-        "Gyrius! Garbė!"
+        "Viešpatie, kaip kviečio grūdas",
+        "Žemėn Tu kritai numirt,",
+        "O numiręs prisikėlei,",
+        "Gyvybe išplėtei.",
+        "Tavo prigimty atgimę",
+        "Mes kaip daugelis grūdų,",
+        "Susilieję vienoj duonoj,",
+        "Pilnumoj išreikštas Tu."
       ],
       [
-        "Sielvarte, skausme giedokit:",
-        "Gyrius! Garbė!",
-        "Juo tikėti nenustokit:",
-        "Gyrius! Garbė!",
-        "Šia nauja giesme visi mes",
-        "Gelbėtoją šlovinsime",
-        "Avinėlį girsime mes:",
-        "Gyrius! Garbė!"
+        "Atkūrimas, Tavo Kūnas,",
+        "Išraiška pilnatvėje,",
+        "Esam Tavo pratęsimas",
+        "Ir Tavoji nuotaka.",
+        "Padaugėjimas gyvybės,",
+        "Visas ūgis, perteklius,",
+        "Mes — išsiplėtimas Tavo,",
+        "Mūsų Tu esi Galva."
       ]
     ],
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "D   G           A",
-        "G  A7         D  G  D",
-        "D        G          A",
-        "G  A7         D  G  D",
-        "G                      ",
-        "                       A-A7",
-        "D     G                A",
-        "G  A7         D G D "
+        "D      D7    G",
+        "D                                   A7",
+        "D       D7       G",
+        "D               A-A7-D",
+        "D            A     A7",
+        "D                    G        A7",
+        "D        D7   G",
+        "D                         A-A7-D"
       ]
     }
   },
   {
-    "number": 29,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO PRISIMINIMAS",
-    "languages": {
-      "russian": 177,
-      "english": 1112
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1112",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0861_i.mp3",
-    "verses": [
-      [
-        "Štai šlovinga Viešpaties puota.",
-        "Viešpatie, Tu mūs Valdovas,",
-        "Gyveni Savuos namuos.",
-        "Štai Šlovinga Viešpaties puota."
-      ],
-      [
-        "Mums saldi ši Viešpaties puota.",
-        "Mes, šventieji, čia bendraujam.",
-        "Aleliuja! Paragaujam,",
-        "Koks saldumas Viešpaties puotos."
-      ],
-      [
-        "Puotą Viešpaties branginame.",
-        "Mes čia skelbiam Tavo mirtį.",
-        "Sielą norime palikti,",
-        "Duoną su vynu mes priimam."
-      ],
-      [
-        "Viešpaties puotos prasmė gili —",
-        "Mus, kaip Kūną, reiškia duona,",
-        "Ir mes skelbiame visatai:",
-        "Kūnas — Tavo meilės išraiška."
-      ],
-      [
-        "Viešpaties puota tokia gaivi,",
-        "Pasisotinam visi čia.",
-        "Po jos poreikių nelieka —",
-        "Atgaivina Viešpaties puota."
-      ],
-      [
-        "Žodžiai tie „Kol Jis pas mus sugrįš“ —",
-        "Pažadas, kuris mums duotas,",
-        "Per dienas jis teikia viltį —",
-        "Taip stiprybę semiam šioj puotoj."
-      ]
-    ],
-    "chorus": [
-      "Aleliuja, aleliuja!",
-      "Mes su Juo puotaujame.",
-      "Aleliuja, aleliuja!",
-      "Štai šlovinga Viešpaties puota."
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "C                              G         C",
-        "F                                C",
-        "G      G7               C",
-        "             F                 G     G7 C"
-      ],
-      "chorus": [
-        "         C7     F",
-        "             C                  G-G7",
-        "     C-C7     F",
-        "            C                 G7        C F C"
-      ]
-    }
-  },
-  {
-    "number": 30,
+    "number": 221,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": "JO PRISIMINIMAS",
     "languages": {
@@ -1825,7 +1691,7 @@
     }
   },
   {
-    "number": 31,
+    "number": 223,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": "JO PRISIMINIMAS",
     "languages": {
@@ -1881,71 +1747,7 @@
     }
   },
   {
-    "number": 32,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO PRISIMINIMAS",
-    "languages": {
-      "russian": 173,
-      "english": 1107
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1107",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0017_i.mp3",
-    "verses": [
-      [
-        "Tu surinkai mus, Viešpatie, kaip Kūną,",
-        "Nors mūsų daug, bet viena esame.",
-        "Mes Jo nariai, gyvybę Jo dalinam,",
-        "Mes esam viena Jo gyvybėje."
-      ],
-      [
-        "Mes Tavo Kūną matom šitoj duonoj,",
-        "Sulaužytoj, kad valgytume ją.",
-        "Ir imdami kiekvienas savo dalį",
-        "Vienybę savo taip paskelbiame."
-      ],
-      [
-        "Duoną ir taurę prieš save mes regim,",
-        "Per Kristaus mirtį tapom viena mes.",
-        "Dėl Kūno Jis įvykdė atpirkimą.",
-        "Mes viena, Viešpatie, Tavy — Amen!"
-      ],
-      [
-        "Visi kaip vienas, neišskiriami mes.",
-        "Vienybė mūsų tiktai Kristuje.",
-        "Mes valgom duoną, geriame iš taurės,",
-        "Vienybę mūsų mato visi čia."
-      ],
-      [
-        "Koks džiaugsmas mes palaimintoj vienybėj,",
-        "Ir žinom, Tu patenkintas esi.",
-        "Kaip Nuotaka susitikimo laukiam,",
-        "Saldžia palaima mes pagirdyti."
-      ]
-    ],
-    "chorus": [
-      "Tik vienas Kūnas šioj Visatoje",
-      "Ir jis per mus išreiškiamas.",
-      "Mes esam viena kiekvienam mieste,",
-      "Kad visa tai būt matoma."
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "G                        G7                    C",
-        "                   G             D7          G-D7",
-        "                 G       G7             C",
-        "                  G      D7            G"
-      ],
-      "chorus": [
-        "                 G        C             G",
-        "              Am  D7         G     D",
-        "                 G       C                       G   Em",
-        "               Am      D     G "
-      ]
-    }
-  },
-  {
-    "number": 33,
+    "number": 233,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": "JO PRISIMINIMAS",
     "languages": {
@@ -2003,7 +1805,7 @@
     }
   },
   {
-    "number": 34,
+    "number": 241,
     "title": "ŠLOVĖ VIEŠPAČIUI",
     "sub-title": "BENDRAS HIMNAS",
     "languages": {
@@ -2047,7 +1849,7 @@
     }
   },
   {
-    "number": 37,
+    "number": 251,
     "title": "DVASIOS PILNATVĖ",
     "sub-title ": "KAIP GYVASIS VANDUO",
     "languages": {
@@ -2117,7 +1919,7 @@
     }
   },
   {
-    "number": 38,
+    "number": 255,
     "title": "DVASIOS PILNATVĖ",
     "sub-title": "KVĖPAVIMAS DVASIA",
     "languages": {
@@ -2193,71 +1995,7 @@
     }
   },
   {
-    "number": 39,
-    "title": "DVASIOS PILNATVĖ",
-    "sub-title": "KAIP DVASIA MŪSŲ VIDUJE",
-    "languages": {
-      "russian": 183,
-      "english": 1113
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1113",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1113_full.mp3",
-    "verses": [
-      [
-        "Štai Trivienis Dievas mūsų viduje,",
-        "Jis atėjo, kad būt mumyse.",
-        "Susilieję esam mes su Jo Dvasia,",
-        "Mums Jis teikia gyvybę Joje."
-      ],
-      [
-        "„Abba Tėve“ — šaukiame mes iš gelmių,",
-        "Tai iš dvasios, kuri mumyse.",
-        "Tai Sūnaus Dvasia, Ji šaukia mumyse,",
-        "Mums Ji teikia gyvybę Jame."
-      ],
-      [
-        "Jėzus Kristus Viešpats mūsų dvasioje —",
-        "Kaip Dvasia nuostabi mumyse.",
-        "Jis pasikeitė, kad būtų viduje,",
-        "Tam kad teiktų gyvybę Dvasia."
-      ],
-      [
-        "Reali Dvasia — Ji mūsų viduje,",
-        "Kaip Dvasia nuostabi mumyse.",
-        "Kristaus realumą perduoda Ji mums,",
-        "Nes gyvybę mes gaunam per Ją."
-      ],
-      [
-        "Mes sužadinsim šią dovaną dabar —",
-        "Kaip Dvasia Ji yra mumyse.",
-        "Šauksim: „Viešpatie“ ir mūs atgis dvasia",
-        "Su Dvasia Jo, kuri mumyse."
-      ]
-    ],
-    "chorus": [
-      "O, Jis Dvasia nuostabi mumyse,",
-      "Dvasia nuostabi mumyse.",
-      "Tėvas Sūnuje, Sūnus dabar Dvasia —",
-      "Jis Dvasia nuostabi mumyse."
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "D                               A",
-        "                      A7            D",
-        "              Bm     F#                   Bm",
-        "                 A          E7         A"
-      ],
-      "chorus": [
-        "      A7      D                           A",
-        "                       A7         D",
-        "                            B7                  Em",
-        "            A             A7          D-G-D"
-      ]
-    }
-  },
-  {
-    "number": 40,
+    "number": 298,
     "title": "IŠGELBĖJIMO UŽTIKRINTUMAS IR DŽIAUGSMAS",
     "sub-title": "TEISUMAS KRISTUJE",
     "languages": {
@@ -2313,7 +2051,7 @@
     }
   },
   {
-    "number": 41,
+    "number": 313,
     "title": "IŠGELBĖJIMO UŽTIKRINTUMAS IR DŽIAUGSMAS",
     "sub-title": "IŠGELBĖTI JO MALONE",
     "languages": {
@@ -2359,7 +2097,7 @@
     }
   },
   {
-    "number": 42,
+    "number": 322,
     "title": "IŠGELBĖJIMO UŽTIKRINTUMAS IR DŽIAUGSMAS",
     "sub-title": "PASITENKINIMAS KRISTUMI",
     "languages": {
@@ -2419,130 +2157,7 @@
     }
   },
   {
-    "number": 43,
-    "title": "IŠGELBĖJIMO UŽTIKRINTUMAS IR DŽIAUGSMAS",
-    "sub-title": "GELBĖJIMASIS NUO PASAULIO",
-    "languages": {
-      "russian": 252,
-      "english": 1127
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1127",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1127_i.mp3",
-    "verses": [
-      [
-        "Jis mane išgelbėjo —",
-        "Negrįšiu atgal niekada.",
-        "Jis mane išgelbėjo —",
-        "Negrįšiu atgal niekada."
-      ],
-      [
-        "Babelę aš palikau —",
-        "Negrįšiu atgal niekada",
-        "Babelę aš palikau —",
-        "Negrįšiu atgal niekada"
-      ],
-      [
-        "Vietinėj Bažnyčioj aš —",
-        "Negrįšiu atgal niekada.",
-        "Vietinėj Bažnyčioj aš —",
-        "Negrįšiu atgal niekada."
-      ],
-      [
-        "Viešpatį aš paliečiau —",
-        "Negrįšiu atgal niekada",
-        "Viešpatį aš paliečiau —",
-        "Negrįšiu atgal niekada."
-      ],
-      [
-        "Viskuo Kristus tapo man —",
-        "Negrįšiu atgal niekada,",
-        "Viskuo Krislus tapo man —",
-        "Negrįšiu atgal niekada."
-      ],
-      [
-        "Pagaliau turiu namus —",
-        "Negrįšiu atgal niekada.",
-        "Pagaliau turiu namus —",
-        "Negrįšiu atgal niekada."
-      ],
-      [
-        "Už atstatymą esu —",
-        "Negrįšiu atgal niekada.",
-        "Už atstatymą esu —",
-        "Negrįšiu atgal niekada."
-      ]
-    ],
-    "chorus": [
-      "Ne, ne, ne, ne, ne.",
-      "Negrįšiu atgal niekada!",
-      "Ne, ne, ne, ne, ne.",
-      "Negrįšiu atgal niekada!"
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "D        D7   G",
-        "      A         A7          D  A7",
-        "D        D7   G",
-        "      A         A7          D-G-D"
-      ],
-      "chorus": [
-        "D    D7 G",
-        "      A          A7         D-A7",
-        "D    D7 G",
-        "      A          A7         D-G-D"
-      ]
-    }
-  },
-  {
-    "number": 44,
-    "title": "KRYŽIAUS KELIAS",
-    "sub-title": "GYVYBĖS KELIAS",
-    "languages": {
-      "russian": 456,
-      "english": 631
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/631",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0441_i.mp3",
-    "verses": [
-      [
-        "Kad patirt prisikėlimą.",
-        "Kryžių aš turiu priimt.",
-        "Iš mirties gyvybė kyla.",
-        "Kad gyvent — turi numirt."
-      ],
-      [
-        "Manyje, kad augtų Kristus.",
-        "Mano dvasios gilumoj.",
-        "Reikia sielą man palikti —",
-        "Kryžių nešti nuolatos."
-      ],
-      [
-        "Jei aš būsiu nukryžiuotas",
-        "Dvasioje su Viešpačiu.",
-        "Tik tada paveikus mirčiai,",
-        "Jo gyvybė ištekės."
-      ]
-    ],
-    "chorus": ["Jei nemirsime —", "Negyvensime.", "Iš mirties gyvybė kyla.", "Gimsta šviesoje."],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "D                   A",
-        "D        G      A7    D",
-        "                   A7      ",
-        "D         G            A7    D"
-      ],
-      "chorus": [
-        "                  A7",
-        "A              D",
-        "                    G",
-        "D          A7      D"
-      ]
-    }
-  },
-  {
-    "number": 45,
+    "number": 395,
     "title": "ILGESIAI",
     "sub-title": "AUGIMUI KRISTUJE",
     "languages": {
@@ -2606,725 +2221,7 @@
     }
   },
   {
-    "number": 46,
-    "title": "SĄJUNGA SU KRISTUMI",
-    "sub-title": "VIENYBĖ SU JUO",
-    "languages": {
-      "russian": 327,
-      "english": 474
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/474",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0013_i.mp3",
-    "verses": [
-      [
-        "Viena, Viešpatie, mes esam",
-        "Dvasioje su Tavimi.",
-        "Ką turi, turiu ir aš, nes",
-        "Tu man viską suteiki."
-      ],
-      [
-        "Tavo žmogišką gyvybę,",
-        "Viską Tavo priimu.",
-        "Paklusnumas Tavo, Jėzau,",
-        "Tapo man prieinamu."
-      ],
-      [
-        "Mirtyje su Tavim viena.",
-        "Aš ant kryžiaus su Tavim.",
-        "Šiam pasauliui aš numiręs,",
-        "Ir pasaulis miręs man."
-      ],
-      [
-        "Prisikėlime mes viena.",
-        "Prisikėliau Tavyje.",
-        "Manyje Tava gyvybė,",
-        "Pasikėliau aš per ją."
-      ],
-      [
-        "Su Tavim išaukštintas aš,",
-        "Danguje aš su Tavim.",
-        "Žemėje esu praeivis,",
-        "Gyvenu tik Tavyje."
-      ],
-      [
-        "Su Tavim aš karaliauju,",
-        "Ir valdau aš su Tavim.",
-        "Vienas kitame gyvenam:",
-        "Aš Tavy, o Tu many."
-      ]
-    ],
-    "chorus": [
-      "Viena mes, viena mes.",
-      "Viena mes, viena mes.",
-      "Per dienas esu Tavyje,",
-      "Skęstu Tavo turtuose."
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "D                   A           D",
-        "                          A",
-        "        D             G",
-        "             D       A7   D"
-      ],
-      "chorus": [
-        "           A               D",
-        "                            A",
-        "           D               G",
-        "            D      A7    D"
-      ]
-    }
-  },
-  {
-    "number": 48,
-    "title": "KRISTAUS, KAIP GYVYBĖS, PATYRIMAS",
-    "languages": {
-      "russian": 356,
-      "english": 507
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/507",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0507_i.mp3",
-    "verses": [
-      [
-        "Buvau be Dievo tamsoje,",
-        "Pavergtas nuodėmės;",
-        "Bet Žodis apšvietė mane,",
-        "Kad Kristus manyje."
-      ],
-      [
-        "Šviesa pažadina gėles",
-        "Iš sėklos žemėje,",
-        "Taip trykšta meilė ir šviesa",
-        "Iš Kristaus manyje."
-      ],
-      [
-        "Gėlės gyvybė sėkloje;",
-        "Iš sėklos veržias ji.",
-        "Taip Viešpačiui šlovė už tai,",
-        "Kad Jo Dvasia many."
-      ],
-      [
-        "Pripildytas siekimo aš,",
-        "Kad tapčiau toks kaip Jis;",
-        "Šia mintimi aš gyvenu:",
-        "„Kristus gyvena many“."
-      ]
-    ],
-    "chorus": [
-      "Kristus, gyvena many,",
-      "Kristus gyvena many.",
-      "Nuostabus Jo išgelbėjimas —",
-      "Kristus gyvena many."
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "D                       G        D",
-        "    G                    D",
-        "       D7               G",
-        "        D         A7    D"
-      ],
-      "chorus": [
-        "D                           A",
-        "Bm                        F#",
-        "G                       D",
-        "                A           D  G-D"
-      ]
-    }
-  },
-  {
-    "number": 49,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "JO PRIEINAMUMAS",
-    "languages": {
-      "russian": 427,
-      "english": 539
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/539",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0539_full.mp3",
-    "verses": [
-      [
-        "Esi gyvybė, Viešpatie,",
-        "Tu viskas man esi.",
-        "Subjektyvus, prieinamas —",
-        "Galiu Tave pažint."
-      ],
-      [
-        "Tu poreikius patenkini",
-        "Savuoju perteklium.",
-        "Tavas naudosiu atsargas",
-        "Su noru ir džiaugsmu."
-      ],
-      ["Šis patepimas mumyse", "Palaiko silpnume.", "Savu energijos srautu", "Pripildai Tu mane."],
-      ["Įstatymas, kuris širdy,", "Tavuoju ves keliu.", "Esybę man pripildei", "Tu Savu realumu."],
-      [
-        "Su Tavim viena amžiams mes —",
-        "Vienybei pašaukei.",
-        "Ir vieną dvasią turim mes",
-        "Dabar ir amžinai."
-      ]
-    ],
-    "chorus": [
-      "Esi šiandien Dvasia Tu!",
-      "Man artimas esi!",
-      "Taip paprastai prieinamas —",
-      "Žaviuosi aš Tavim."
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "C",
-        "     G        G7     C",
-        "      C",
-        "     G     D7     G-G7"],
-      "chorus": [
-        "  C                      F   C",
-        "         F   C     G",
-        "       C        G       C    F",
-        "    C        G7   C"
-      ]
-    }
-  },
-  {
-    "number": 50,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "JO TURTAI",
-    "languages": {
-      "russian": 397,
-      "english": 542
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/542",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0542_i.mp3",
-    "verses": [
-      [
-        "Mūsų Gelbėtojo turtai",
-        "Nieks negali jų ištirt.",
-        "Bet šiandien pilnatvę Dievo",
-        "Aš apsčiai galiu patirt."
-      ],
-      [
-        "Kristaus Gelbėtojo turtų",
-        "Neįmanoma aprėpt.",
-        "Jie pripildyti gyvybe —",
-        "Niekad nenustoja šviest."
-      ],
-      [
-        "Išmintis, valdžia, ramybė",
-        "Ir išgydymas juose.",
-        "Pasimėgavimas mūsų —",
-        "Tiktai Kristaus turtuose."
-      ],
-      [
-        "Šie turtai — Pats Viešpats Dievas,",
-        "Viskas slypi tik Jame.",
-        "Jo valdžia ir asmenybė",
-        "Šiandien mano dvasioje."
-      ],
-      [
-        "Mūsų Gelbėtojo turtai —",
-        "Nieks negali jų suvokt.",
-        "Ilgį, plotį, gylį, aukštį",
-        "Nieks negali išmatuot."
-      ],
-      [
-        "Mūsų Gelbėtojo turtai",
-        "Neapsakomi yra,",
-        "Bet tik jie man tikras džiaugsmas",
-        "Mano amžina jėga."
-      ],
-      [
-        "Aš veržiuos suvokti turtų —",
-        "Kristaus jie pilnatvėje,",
-        "Kad galėčiau jais dalintis",
-        "Su šventaisiais meilėje."
-      ]
-    ],
-    "chorus": [
-      "Kristaus turtai, Kristaus turtai",
-      "Skiriami jie man yra,",
-      "Nors ir sunku juos ištirti —",
-      "Bet realūs visada."
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "G                        D",
-        "              D7        G",
-        "                                   D",
-        "           A                 D"
-      ],
-      "chorus": [
-        "                        D7         G",
-        "                            D7",
-        "           G                   C",
-        "          D    D7  G"
-      ]
-    }
-  },
-  {
-    "number": 51,
-    "title": "KRISTAUS PATYRIMAS ",
-    "sub-title": "SEKIMU DVASIA",
-    "languages": {
-      "russian": 428,
-      "english": 594
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/594",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0594_i.mp3",
-    "verses": [
-      ["Tu mana ramybė", "Ir gyvybė Tu,", "Taip išlieku dvasioj", "Aš su Viešpačiu."],
-      ["Viešpaties esu jau,", "Buvau pančiuose.", "Tik per Jo gyvybę", "Dabar laisvėje."],
-      ["Aš mąstysiu dvasioj,", "Kūniškumui — ne!", "Dvasiai tik paklūsti", "Noriu visada."],
-      ["Padeda man Kristus", "Dvasiniu išlikt,", "Net kūnu gyvybę", "Aš galiu patirt."],
-      ["Ir mana ir Dievo", "Dvasios viena jau:", "Paveldėtojas aš,", "Aš iš Jo gimiau."]
-    ],
-    "chorus": ["Jo Dvasia seku aš,", "Viešpaty esu.", "Jis gyvybę teikia.", "Džiaugsmą atrandu."],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "D       A      D",
-        "       G      A",
-        "G", 
-        "A        A7      D"],
-      "chorus": [
-        "D                 B7",
-        "Em           A",
-        "A        A7   D",
-        "A                A7    D-G-D"
-      ]
-    }
-  },
-  {
-    "number": 52,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "DVASIOJE",
-    "languages": {
-      "russian": 342,
-      "english": 1141
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1141",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1141_i.mp3",
-    "verses": [
-      [
-        "Mes giedosime Viešpačiui dvasioj.",
-        "Mes giedosime Jam iš gelmių.",
-        "Aleliuja! Sušuksime Jėzui.",
-        "Susilieję vienybėj su Juo."
-      ],
-      [
-        "Daug mes metų religijoj buvom.",
-        "Proto valdomi buvome mes,",
-        "Jausmuose pasiklydę klajojom.",
-        "Nežinojome kur mūs dvasia."
-      ],
-      [
-        "Mokomės kreipti žvilgsnį į dvasią.",
-        "Kaip gyvybę mes priimam Jį.",
-        "Mokomės Jėzumi pasisotint.",
-        "Ir beprasmišką kovą palikt."
-      ],
-      [
-        "Jam šlovė už gyvybę Jo Dvasioj.",
-        "Jam šlovė už Jo atgaivą mums.",
-        "Kreipdamiesi nuo proto į dvasią",
-        "Ten atrasime mes Jo turtus."
-      ]
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "D                       A7             D",
-        "                                          A-A7",
-        "     D          D7          G",
-        "       D         A7           D-G-D"
-      ]
-    }
-  },
-  {
-    "number": 53,
-    "title": "KRISTAUS, KAIP MAISTO IR GĖRIMO, PATYRIMAS",
-    "languages": {
-      "russian": 362,
-      "english": 1145
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1145",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0791_i.mp3",
-    "verses": [
-      [
-        "Mums Dievas davė Sūnų čia —",
-        "Gyvybės medį dovanai,",
-        "Kad paragautume mes Jo,",
-        "Jog Dievas maistas mums.",
-        "Tai Dievas maistas mums, tai Dievas maistas mums!",
-        "Ragavę Jo mes sakome, jog Dievas maistas mums."
-      ],
-      [
-        "Puotaujam prisipildę Juo,",
-        "Tik valgant galim Juo gyvent,",
-        "Kad Dievas persunktų Savim",
-        "Esybę mus visų.",
-        "Tai Jėzus mūs puota, tai Jėzus mūs puota!",
-        "Tik valgant galim Juo gyvent, nes Jėzus mūs puota."
-      ],
-      [
-        "Mūs Jėzus Kristus maistas mums,",
-        "Kaip duona kasdieninė.",
-        "Mes žinom: atsargos Jame",
-        "Kasdienai mums visiems.",
-        "Kasdien Jis duona mums, kasdien Jis duona mums!",
-        "Mes žinom atsargos Jame, kasdienai mums visiems."
-      ],
-      [
-        "Jis toks prieinamas dabar.",
-        "Puota ši teikia džiaugsmą man.",
-        "„Kas trokšta — Dievas sako tam:",
-        "Eik gerti dovanai.“",
-        "Eik gerti dovanai, eik gerti dovanai!",
-        "„Kas trokšta — Dievas sako tam: eik gerti dovanai!“"
-      ]
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "D",
-        "     A                 A7   D",
-        "       G              D",
-        "       A          A7         D",
-        "     D          A           D              A          A7         D",
-        "    G                   D                  A          A7         D"
-      ]
-    }
-  },
-  {
-    "number": 54,
-    "title": "KRISTAUS, KAIP VALGIO IR GĖRIMO, PATYRIMAS",
-    "languages": {
-      "russian": 366,
-      "english": 1150
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1150",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1069_i.mp3",
-    "verses": [
-      [
-        "Gyvybės duoną valgome,",
-        "O iš šaltinio geriame.",
-        "Ir Jėzus sako: gerk iš Jo,",
-        "Tada netrokši niekada!",
-        "Kaip, netrokšiu niekada?",
-        "Taip, netrokši niekada.",
-        "Kaip, netrokšiu niekada?",
-        "Taip, netrokši niekada!",
-        "Ir Jėzus sako: gerk iš Jo,",
-        "Tada netrokši niekada!"
-      ],
-      [
-        "Gyvybės duoną valgome,",
-        "Su Viešpačiu puotaujame.",
-        "Gyvybės duoną valgyk tu,",
-        "Tada nealksi niekada.",
-        "Kaip, nealksiu niekada?",
-        "Taip, nealksi niekada!",
-        "Kaip, nealksiu niekada?",
-        "Taip, nealksi niekada!",
-        "Gyvybės duoną valgyk tu,",
-        "Tada nealksi niekada."
-      ],
-      [
-        "Kvėpuojame gyvybe mes,",
-        "Taip prisipildom Viešpaties.",
-        "Ir kas kvėpuos gyvybe šia,",
-        "Gyvybė Dievo bus jame.",
-        "Kaip, gyvybė bus jame?",
-        "Taip, gyvybė bus jame!",
-        "Kaip, gyvybė bus jame?",
-        "Taip, gyvybė bus jame!",
-        "Ir kas kvėpuos gyvybe šia,",
-        "Gyvybė Dievo bus jame."
-      ],
-      [
-        "Gyvybės vyną geriame,",
-        "Kuris yra mūs dvasioje.",
-        "Ir kas tik geria Jį visad,",
-        "Per amžius džiaugsis jis Dieve.",
-        "Kaip, džiaugsis jis Dieve?",
-        "Taip, džiaugsis jis Dieve!",
-        "Kaip, džiaugsis jis Dieve?",
-        "Taip, džiaugsis jis Dieve!",
-        "Ir kas tik geria Jį visad,",
-        "Per amžius džiaugsis jis Dieve."
-      ],
-      [
-        "Mūs Jėzus, prisikėlęs Jis,",
-        "Kad gyvybę į mus dalint.",
-        "Ir jeigu tu Jį priėmei.",
-        "Gyvensi tu jau amžinai.",
-        "Kaip, gyvensiu amžinai?",
-        "Taip, gyvensi amžinai!",
-        "Kaip, gyvensiu amžinai?",
-        "Taip. gyvensi amžinai!",
-        "Ir jeigu tu Jį priėmei —",
-        "Gyvensi amžinai Jame."
-      ]
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "C                        F",
-        "   D      D7   G     G7",
-        "    C       G7     C         G",
-        "    C               G7    C",
-        "             C",
-        "             F",
-        "             D                  D7",
-        "             G               G7",
-        "    C       G7     C         G",
-        "    C                G7    C-F-C"
-      ]
-    }
-  },
-  {
-    "number": 55,
-    "title": "KRISTAUS, KAIP VALGIO IR GĖRIMO, PATYRIMAS",
-    "languages": {
-      "russian": 367,
-      "english": 1151
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1151",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1151_i.mp3",
-    "verses": [
-      [
-        "Teka mums nuo sosto upė gyvojo vandens,",
-        "Valgyt nuo gyvybės medžio nėr mums maloniau.",
-        "Tu pažvelk! Nereiks jau saulės, nei mėnulio mums;",
-        "Nes nakties nebus!"
-      ],
-      [
-        "Iš gelmių kaip upė teka Kristus mums visiems.",
-        "Jis, kaip medis, duodantis saldžius vaisius kasdien.",
-        "Jis šviesa mums ir diena mūs, ir žvaigždė Jis mūs —",
-        "Viskas Kristus mums!"
-      ],
-      [
-        "Kad priimt gyvybę, balinsim mes drabužius.",
-        "„O, Amen ir Aleliuja“ — šauksim su džiaugsmu.",
-        "Kad pažinti Kristų, dvasią mes mankštiname;",
-        "Kristus — lobis mūs!"
-      ],
-      [
-        "Turime namus, kad saulę net atstoja mums.",
-        "Ir juose suvienijo kaip brolius Viešpats mus.",
-        "Čia visus mus Jis surinko, kad išreikšti Jį",
-        "Jo bažnyčioje!"
-      ]
-    ],
-    "chorus": [
-      "Ir Dvasia, ir Nuotaka Jam sako: Tu ateik.",
-      "Ir visi, kurie tai girdi, lai kartoja tai.",
-      "Ir kas trokšta, te ateina gerti dovanai",
-      "Gyvojo vandens!"
-    ],
-    "chords": {
-      "capo": "Capo 1",
-      "verse": [
-        "G                                                          G7",
-        "C                                                                   G",
-        "                                                  B7               Em",
-        "G          D7      G-C-G"
-      ],
-      "chorus": [
-        "                                                         G7",
-        "C                                              G",
-        "                                     B7           Em",
-        "G     D7      G-C-G"
-      ]
-    }
-  },
-  {
-    "number": 56,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "MĖGAVIMASIS JUO",
-    "languages": {
-      "russian": 425,
-      "english": 1152
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1152",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1152_i.mp3",
-    "verses": [
-      [
-        "Vilioja Kristus mus visus kasdieną vis stipriau —",
-        "Tyresnio ir skaistesnio mes nerasime daugiau.",
-        "Nėra mums žodžių išsakyt — nėra aukščiau už Jį;",
-        "Kiekvieną dieną vis brangesnis darosi mums Jis."
-      ],
-      [
-        "Atėjus į bažnyčią Kristų mes išvydome,",
-        "Ir Jo gausi malonė išsiliejo šlovėje.",
-        "Atradome pilnatvę mes, atradom Jo turtus;",
-        "Kiekvieną dieną vis brangesnis darosi Jis mums."
-      ],
-      [
-        "Gyvybę teikianti Dvasia — Ji mūsų dvasioje.",
-        "Ji taip visus augina mus Savoj gyvybėje.",
-        "Susirinkimuos su Šventaisiais kyla mūs dvasia,",
-        "Ir Kristus tapo mums visiems brangesnis dieną šią."
-      ],
-      [
-        "Atstatymui sujungė Jis visus mus Savimi,",
-        "Kad Kristų ir Bažnyčią mes regėtume visi.",
-        "Ką turime, kas esame dalijamės šiandien;",
-        "Dėl Dievo tikslo mes, kuris brangesnis vis kasdien."
-      ]
-    ],
-    "chorus": [
-      "Negalim išsakyti, kas slypi mūsų Kristuje —",
-      "Jis lobis mūs brangiausias ir brangėja Jis kasdien."
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "G                                          C                  G",
-        "                                                A7             D",
-        "    G                                             C                     G",
-        "       C       D       G          Am      D    D7           G"
-      ],
-      "chorus": [
-        "                    C            A-A7          D      D7",
-        "     G-G7               C                      G     D7      G-C-G"
-      ]
-    }
-  },
-  {
-    "number": 57,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "MŪSŲ PASIMĖGAVIMAS",
-    "languages": {
-      "russian": 426,
-      "english": 1153
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1153",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1153_i.mp3",
-    "verses": [
-      [
-        "Mes suradom Kristų, Jis dabar",
-        "Tapo viskas visame.",
-        "Vardo Jo kasdien mes šaukiamės —",
-        "Taip palaimoj esame."
-      ],
-      [
-        "Radom Kristų — Jis dabar Dvasia,",
-        "Jis gyvena mumyse.",
-        "Toks prieinamas yra Jis mums —",
-        "Nuolat mūsų širdyse."
-      ],
-      [
-        "Mes suradom kelią Juo gyvent:",
-        "Jo žodžiu mūs maldoje.",
-        "Jo tik šaukiamės mes nuolatos,",
-        "Valgom, geriam mes Jame."
-      ],
-      [
-        "Vietinę bažnyčią radome —",
-        "Jau namus mes turime.",
-        "Mums atsakymai bažnyčioje",
-        "Kaip palikti Babelę."
-      ],
-      [
-        "Džiaugsmui šiam nėra jokių ribų",
-        "Mūs susirinkimuose.",
-        "Viešpats duoda mums šiandien jėgų,",
-        "Jo turtuose skęstame."
-      ]
-    ],
-    "chorus": [
-      "Šiuo džiaugsmu mes džiaugiamės kiekvieną dieną.",
-      "Dievo džiaugsmas! Dievo džiaugsmas!",
-      "Šiuo džiaugsmu mes džiaugiamės kiekvieną dieną —",
-      "Nieks negali mums jo apribot."
-    ],
-    "chords": {
-      "capo": "Capo 1",
-      "verse": [
-        "G                                C      G",
-        "         D              D7",
-        "          G                       C        G",
-        "           A         A7  D   D7"
-      ],
-      "chorus": [
-        "                 G",
-        "D        D7                G",
-        "",
-        "              C    D7               G-C-G"
-      ]
-    }
-  },
-  {
-    "number": 59,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "MEILĖ JAM",
-    "languages": {
-      "russian": 403,
-      "english": 1159
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1159",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0713_i.mp3",
-    "verses": [
-      [
-        "Jėzau, sužavėtas Tavo grožiu.",
-        "Atveriu aš savo širdį Tau.",
-        "Pasilikt religijoj nenoriu,",
-        "Noriu priklausyti aš tik Tau.",
-        "Kai visad žvelgiu į Tavo šlovę,",
-        "Pradedu tada ir aš spindėt.",
-        "Aš maldauju: Jėzau, mane persunk,",
-        "Savo Dvasią su mana suliek."
-      ],
-      [
-        "Sušvytėjęs! Regiu aukštumose",
-        "Tavo sostą, o Žmogaus Sūnau!",
-        "Dievo ugnimi esu apgaubtas,",
-        "Kad su Tavimi spindėčiau.",
-        "Ir pažindamas puikumą Tavo,",
-        "Gėdoje prarandu meilę sau.",
-        "Tiktai Tau mes atiduodam šlovę,",
-        "Už Tave mums nieko nėr saldžiau."
-      ],
-      [
-        "Indą alebastrinį, o Jėzau!",
-        "Sudaužysiu aš iš meilės Tau.",
-        "Ir patepsiu galvą Tau, Valdove,",
-        "Pamiltasis, dovana ši Tau.",
-        "Dėl Tavęs aukojuos šiandien, Jėzau!",
-        "Tave myliu — tuo laimingas aš.",
-        "Savo širdyje aš meilės pilnas,",
-        "Brangų tepalą atnešiu aš."
-      ],
-      [
-        "O, pakilk ant smilkinimo kalno,",
-        "Aš ilgiuosi, Viešpatie, Tavęs.",
-        "Iš širdies šaltinio gerki, Jėzau!",
-        "Atrandu ramybę Tavyje.",
-        "Ir ne vienas dievinu Tave aš:",
-        "Su šventaisiais — Tavo Nuotaka.",
-        "O, ateik! Tavęs mes, Jėzau, laukiam;",
-        "Norim būti Tavo meilėje."
-      ]
-    ],
-    "chords": {
-      "capo": "Capo 1",
-      "verse": [
-        "D                                  Em",
-        "       A        A7            D",
-        "                            Em",
-        "           A       A7            D",
-        "                                      G",
-        "          A      A7               D",
-        "                                           Em",
-        "         A          A7              D"
-      ]
-    }
-  },
-  {
-    "number": 60,
+    "number": 437,
     "title": "PASIŠVENTIMAS",
     "sub-title": "PATRAUKTI VIEŠPATIES GROŽIU",
     "languages": {
@@ -3400,7 +2297,349 @@
     }
   },
   {
-    "number": 61,
+    "number": 474,
+    "title": "SĄJUNGA SU KRISTUMI",
+    "sub-title": "VIENYBĖ SU JUO",
+    "languages": {
+      "russian": 327,
+      "english": 474
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/474",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0013_i.mp3",
+    "verses": [
+      [
+        "Viena, Viešpatie, mes esam",
+        "Dvasioje su Tavimi.",
+        "Ką turi, turiu ir aš, nes",
+        "Tu man viską suteiki."
+      ],
+      [
+        "Tavo žmogišką gyvybę,",
+        "Viską Tavo priimu.",
+        "Paklusnumas Tavo, Jėzau,",
+        "Tapo man prieinamu."
+      ],
+      [
+        "Mirtyje su Tavim viena.",
+        "Aš ant kryžiaus su Tavim.",
+        "Šiam pasauliui aš numiręs,",
+        "Ir pasaulis miręs man."
+      ],
+      [
+        "Prisikėlime mes viena.",
+        "Prisikėliau Tavyje.",
+        "Manyje Tava gyvybė,",
+        "Pasikėliau aš per ją."
+      ],
+      [
+        "Su Tavim išaukštintas aš,",
+        "Danguje aš su Tavim.",
+        "Žemėje esu praeivis,",
+        "Gyvenu tik Tavyje."
+      ],
+      [
+        "Su Tavim aš karaliauju,",
+        "Ir valdau aš su Tavim.",
+        "Vienas kitame gyvenam:",
+        "Aš Tavy, o Tu many."
+      ]
+    ],
+    "chorus": [
+      "Viena mes, viena mes.",
+      "Viena mes, viena mes.",
+      "Per dienas esu Tavyje,",
+      "Skęstu Tavo turtuose."
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D                   A           D",
+        "                          A",
+        "        D             G",
+        "             D       A7   D"
+      ],
+      "chorus": [
+        "           A               D",
+        "                            A",
+        "           D               G",
+        "            D      A7    D"
+      ]
+    }
+  },
+  {
+    "number": 505,
+    "title": "KRISTAUS KAIP GYVYBĖS PATYRIMAS",
+    "languages": {
+      "russian": 355,
+      "english": 505
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/505",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0505_full.mp3",
+    "verses": [
+      [
+        "Štai Žmogus šlovėje,",
+        "Gyvybė Jo man.",
+        "Jis tyras ir šventas,",
+        "Triumfuojantis Jis.",
+        "Jis laisvas ir mylintis,",
+        "Koks Jis švelnus!",
+        "Turėti gyvybę",
+        "Šlovėj Jo galiu;",
+        "Turėti gyvybę",
+        "Šlovėj Jo galiu."
+      ],
+      [
+        "Štai Žmogus šlovėje,",
+        "Gyvybė Jo man.",
+        "Šėtoną įveikęs",
+        "Be pančių Jisai",
+        "Gyvybėje valdo,",
+        "Koksai Jis puikus!",
+        "Turėti gyvybę",
+        "Šlovėj Jo galiu;",
+        "Turėti gyvybę",
+        "Šlovėj Jo galiu."
+      ],
+      [
+        "Štai Žmogus šlovėje,",
+        "Gyvybė Jo man.",
+        "Jame nėr silpnybių,",
+        "Ligų nėr Jame.",
+        "Stiprus ir toks tvirtas",
+        "Džiaugsmingas Jisai!",
+        "Turėsiu gyvybę",
+        "Aš Jo šlovėj;",
+        "Turėsiu gyvybę",
+        "Aš Jo šlovėj."
+      ],
+      [
+        "Štai Žmogus šlovėje,",
+        "Gyvybė Jo man.",
+        "Ramybė tvirta Jo,",
+        "Koksai Jis kantrus!",
+        "Spindėdamas laukia",
+        "Išvyst manyje",
+        "Kaip Jo gyvybe",
+        "Many bus atskleista;",
+        "Kaip Jo gyvybe",
+        "Many bus atskleista."
+      ]
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "G                           D",
+        "     G C       G-D",
+        "    Em-A      D-A-D",
+        "        A    A7     D  D7",
+        "     G            C      G",
+        "          A7       D-D7",
+        "    G",
+        "                    D",
+        "    C       D7-G",
+        "     D   D7    G"
+      ]
+    }
+  },
+  {
+    "number": 507,
+    "title": "KRISTAUS, KAIP GYVYBĖS, PATYRIMAS",
+    "languages": {
+      "russian": 356,
+      "english": 507
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/507",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0507_i.mp3",
+    "verses": [
+      [
+        "Buvau be Dievo tamsoje,",
+        "Pavergtas nuodėmės;",
+        "Bet Žodis apšvietė mane,",
+        "Kad Kristus manyje."
+      ],
+      [
+        "Šviesa pažadina gėles",
+        "Iš sėklos žemėje,",
+        "Taip trykšta meilė ir šviesa",
+        "Iš Kristaus manyje."
+      ],
+      [
+        "Gėlės gyvybė sėkloje;",
+        "Iš sėklos veržias ji.",
+        "Taip Viešpačiui šlovė už tai,",
+        "Kad Jo Dvasia many."
+      ],
+      [
+        "Pripildytas siekimo aš,",
+        "Kad tapčiau toks kaip Jis;",
+        "Šia mintimi aš gyvenu:",
+        "„Kristus gyvena many“."
+      ]
+    ],
+    "chorus": [
+      "Kristus, gyvena many,",
+      "Kristus gyvena many.",
+      "Nuostabus Jo išgelbėjimas —",
+      "Kristus gyvena many."
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D                       G        D",
+        "    G                    D",
+        "       D7               G",
+        "        D         A7    D"
+      ],
+      "chorus": [
+        "D                           A",
+        "Bm                        F#",
+        "G                       D",
+        "                A           D  G-D"
+      ]
+    }
+  },
+  {
+    "number": 539,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "JO PRIEINAMUMAS",
+    "languages": {
+      "russian": 427,
+      "english": 539
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/539",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0539_full.mp3",
+    "verses": [
+      [
+        "Esi gyvybė, Viešpatie,",
+        "Tu viskas man esi.",
+        "Subjektyvus, prieinamas —",
+        "Galiu Tave pažint."
+      ],
+      [
+        "Tu poreikius patenkini",
+        "Savuoju perteklium.",
+        "Tavas naudosiu atsargas",
+        "Su noru ir džiaugsmu."
+      ],
+      [
+        "Šis patepimas mumyse",
+        "Palaiko silpnume.",
+        "Savu energijos srautu",
+        "Pripildai Tu mane."
+      ],
+      [
+        "Įstatymas, kuris širdy,",
+        "Tavuoju ves keliu.",
+        "Esybę man pripildei",
+        "Tu Savu realumu."
+      ],
+      [
+        "Su Tavim viena amžiams mes —",
+        "Vienybei pašaukei.",
+        "Ir vieną dvasią turim mes",
+        "Dabar ir amžinai."
+      ]
+    ],
+    "chorus": [
+      "Esi šiandien Dvasia Tu!",
+      "Man artimas esi!",
+      "Taip paprastai prieinamas —",
+      "Žaviuosi aš Tavim."
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "C",
+        "     G        G7     C",
+        "      C",
+        "     G     D7     G-G7"
+      ],
+      "chorus": [
+        "  C                      F   C",
+        "         F   C     G",
+        "       C        G       C    F",
+        "    C        G7   C"
+      ]
+    }
+  },
+  {
+    "number": 542,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "JO TURTAI",
+    "languages": {
+      "russian": 397,
+      "english": 542
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/542",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0542_i.mp3",
+    "verses": [
+      [
+        "Mūsų Gelbėtojo turtai",
+        "Nieks negali jų ištirt.",
+        "Bet šiandien pilnatvę Dievo",
+        "Aš apsčiai galiu patirt."
+      ],
+      [
+        "Kristaus Gelbėtojo turtų",
+        "Neįmanoma aprėpt.",
+        "Jie pripildyti gyvybe —",
+        "Niekad nenustoja šviest."
+      ],
+      [
+        "Išmintis, valdžia, ramybė",
+        "Ir išgydymas juose.",
+        "Pasimėgavimas mūsų —",
+        "Tiktai Kristaus turtuose."
+      ],
+      [
+        "Šie turtai — Pats Viešpats Dievas,",
+        "Viskas slypi tik Jame.",
+        "Jo valdžia ir asmenybė",
+        "Šiandien mano dvasioje."
+      ],
+      [
+        "Mūsų Gelbėtojo turtai —",
+        "Nieks negali jų suvokt.",
+        "Ilgį, plotį, gylį, aukštį",
+        "Nieks negali išmatuot."
+      ],
+      [
+        "Mūsų Gelbėtojo turtai",
+        "Neapsakomi yra,",
+        "Bet tik jie man tikras džiaugsmas",
+        "Mano amžina jėga."
+      ],
+      [
+        "Aš veržiuos suvokti turtų —",
+        "Kristaus jie pilnatvėje,",
+        "Kad galėčiau jais dalintis",
+        "Su šventaisiais meilėje."
+      ]
+    ],
+    "chorus": [
+      "Kristaus turtai, Kristaus turtai",
+      "Skiriami jie man yra,",
+      "Nors ir sunku juos ištirti —",
+      "Bet realūs visada."
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "G                        D",
+        "              D7        G",
+        "                                   D",
+        "           A                 D"
+      ],
+      "chorus": [
+        "                        D7         G",
+        "                            D7",
+        "           G                   C",
+        "          D    D7  G"
+      ]
+    }
+  },
+  {
+    "number": 549,
     "title": "KRISTAUS PATYRIMAS",
     "sub-title": " BENDRAVIMAS SU JUO",
     "languages": {
@@ -3464,7 +2703,7 @@
     }
   },
   {
-    "number": 62,
+    "number": 591,
     "title": "KRISTAUS PATYRIMAS",
     "sub-title": "JO IŠRAIŠKA",
     "languages": {
@@ -3528,7 +2767,71 @@
     }
   },
   {
-    "number": 63,
+    "number": 594,
+    "title": "KRISTAUS PATYRIMAS ",
+    "sub-title": "SEKIMU DVASIA",
+    "languages": {
+      "russian": 428,
+      "english": 594
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/594",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0594_i.mp3",
+    "verses": [
+      [
+        "Tu mana ramybė",
+        "Ir gyvybė Tu,",
+        "Taip išlieku dvasioj",
+        "Aš su Viešpačiu."
+      ],
+      [
+        "Viešpaties esu jau,",
+        "Buvau pančiuose.",
+        "Tik per Jo gyvybę",
+        "Dabar laisvėje."
+      ],
+      [
+        "Aš mąstysiu dvasioj,",
+        "Kūniškumui — ne!",
+        "Dvasiai tik paklūsti",
+        "Noriu visada."
+      ],
+      [
+        "Padeda man Kristus",
+        "Dvasiniu išlikt,",
+        "Net kūnu gyvybę",
+        "Aš galiu patirt."
+      ],
+      [
+        "Ir mana ir Dievo",
+        "Dvasios viena jau:",
+        "Paveldėtojas aš,",
+        "Aš iš Jo gimiau."
+      ]
+    ],
+    "chorus": [
+      "Jo Dvasia seku aš,",
+      "Viešpaty esu.",
+      "Jis gyvybę teikia.",
+      "Džiaugsmą atrandu."
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D       A      D",
+        "       G      A",
+        "G",
+        "A        A7      D"
+      ],
+      "chorus": [
+        "D                 B7",
+        "Em           A",
+        "A        A7   D",
+        "A                A7    D-G-D"
+      ]
+    }
+  },
+  {
+    "number": 600,
     "title": "DIEVO, KAIP MŪSŲ AMŽINOJO LIKIMO, PATYRIMAS",
     "languages": {
       "russian": 436,
@@ -3585,101 +2888,7 @@
     }
   },
   {
-    "number": 64,
-    "title": "DIEVO, KAIP GYVYBĖS, PATYRIMAS",
-    "languages": {
-      "russian": 438,
-      "english": 1191
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1191",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1191_full.mp3",
-    "verses": [
-      [
-        "Iš gelmių dvasioje teka mums atgaiva",
-        "Tai Viešpats mūs Dievas brangus.",
-        "Tėvas — mūsų versmė, Kristus tapo vaga,",
-        "Ir gyvybę man teikia Dvasia."
-      ],
-      [
-        "Žaliose lankose Viešpats gano mane,",
-        "Prie tylių vandenų veda Jis.",
-        "Nei kovų, nei aistrų — tušti mano keliai,",
-        "Tik tas srautas gyvybę man teiks."
-      ],
-      [
-        "Šventų Švenčiausioj gyvybę dalint,",
-        "Mane Tu, o Jėzau, šauki.",
-        "Aleliuja! Girdžiu balsą raginantį:",
-        "„Šaka vynmedžio lik tu Many“"
-      ]
-    ],
-    "chorus": [
-      "Branginu srautą aš gyvąjį,",
-      "Neklausysiu aš sielos audrų.",
-      "Viešpatie, gilink srautą many,",
-      "Te gyvybė man taps vainiku."
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "    G                  G7        C                Am",
-        "     D                    D7               G   D",
-        "               G              G7              C          Am",
-        "       D              D7           G"
-      ],
-      "chorus": [
-        "          D              D7      G   G7",
-        "           C                          G   D",
-        "           G            G7           C  Am",
-        "         G             D            G"
-      ]
-    }
-  },
-  {
-    "number": 65,
-    "title": "DIEVO KAIP GYVYBĖS, PATYRIMAS",
-    "languages": {
-      "russian": 441,
-      "english": 1196
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1196",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1196_i.mp3",
-    "verses": [
-      [
-        "Mūs Dievas gyvas! O, Aleliuja!",
-        "Ir mumyse Jis! O, aleliuja!",
-        "Jį paragavom,",
-        "Dalia Jis mūsų.",
-        "Ir šaukiamės Jo nuolatos."
-      ],
-      [
-        "Visi kartu mes! Kaip nuostabu tai!",
-        "Nes viena dvasioj šeima mes tapom.",
-        "Jo Kūnas esam",
-        "Ir Jį išreiškiam,",
-        "Mums Jėzus tapo realus."
-      ],
-      [
-        "Bažnyčios visos Juo prisipildė,",
-        "Nes nori, kad Jį pažintų žmonės.",
-        "Su Juo į miestus",
-        "Mes norim eiti,",
-        "Ir taip apreikšti Jį visiems."
-      ]
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "G                 C                  G",
-        "             D                  G      G7",
-        "           C",
-        "              G",
-        "   D        D7                 G-C-G"
-      ]
-    }
-  },
-  {
-    "number": 66,
+    "number": 608,
     "title": "DIEVO PATYRIMAS",
     "sub-title": "PER TREJYBĘ",
     "languages": {
@@ -3743,7 +2952,7 @@
     }
   },
   {
-    "number": 67,
+    "number": 612,
     "title": "DIEVO PATYRIMAS",
     "sub-title": "PER DVASIOS NAUDOJIMĄ",
     "languages": {
@@ -3753,15 +2962,30 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/612",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0612_full.mp3",
     "verses": [
-      ["Dievas nori mus maitinti", "Esybe Sava,", "Kad su Juo mes būtum viena", "Savo dvasiose."],
-      ["Dvasioje, palietę Dievą,", "Mes supratome.", "Prigimtį Jis Savo davė", "Mums Sava Dvasia."],
+      [
+        "Dievas nori mus maitinti",
+        "Esybe Sava,",
+        "Kad su Juo mes būtum viena",
+        "Savo dvasiose."
+      ],
+      [
+        "Dvasioje, palietę Dievą,",
+        "Mes supratome.",
+        "Prigimtį Jis Savo davė",
+        "Mums Sava Dvasia."
+      ],
       [
         "Dievą liečiame mes dvasioj,",
         "Suvokiam protu.",
         "Bet jei dvasios nenaudosiu",
         "Liksiu aš vargšu"
       ],
-      ["Mes malda priimsim Žodį", "Tavo gyvąjį.", "Taip visus mus Jis pripildys", "Savimi."],
+      [
+        "Mes malda priimsim Žodį",
+        "Tavo gyvąjį.",
+        "Taip visus mus Jis pripildys",
+        "Savimi."
+      ],
       [
         "Likdami mes Dievo Žody",
         "Liečiam Viešpatį.",
@@ -3798,70 +3022,124 @@
     }
   },
   {
-    "number": 68,
-    "title": "PARAGINIMAS BĖGTI LENKTYNĖSE",
+    "number": 631,
+    "title": "KRYŽIAUS KELIAS",
+    "sub-title": "GYVYBĖS KELIAS",
     "languages": {
-      "russian": 471,
-      "english": 1206
+      "russian": 456,
+      "english": 631
     },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1206",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1206_i.mp3",
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/631",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0441_i.mp3",
     "verses": [
       [
-        "Štai lenktynės skirtos mums — Aleliuja!",
-        "Turim bėgti šiuo keliu pirmyn.",
-        "Paskui tuos, kas bėga jau — Aleliuja!",
-        "Dievas sakė mums: „Žiūrėk į Jį“."
+        "Kad patirt prisikėlimą.",
+        "Kryžių aš turiu priimt.",
+        "Iš mirties gyvybė kyla.",
+        "Kad gyvent — turi numirt."
       ],
       [
-        "Viską nuo savęs atmesk — Aleliuja!",
-        "Nusisuk nuo triukšmo ir kovų.",
-        "Būsi tik Jame ramus — Aleliuja!",
-        "Tik pažvelk, pažvelk tu į Jį."
+        "Manyje, kad augtų Kristus.",
+        "Mano dvasios gilumoj.",
+        "Reikia sielą man palikti —",
+        "Kryžių nešti nuolatos."
       ],
       [
-        "Nuo audringos sielos tu — Aleliuja!",
-        "Nusisuk nuo savo nesėkmių.",
-        "Tu į tikslą pažiūrėk — Aleliuja!",
-        "Ir pažvelk, pažvelk tu į Jį."
-      ],
-      [
-        "Visą praeitį atmesk — Aleliuja!",
-        "Gėrį su blogiu paliki tu.",
-        "Ir laikykis tu tik Jo — Aleliuja!",
-        "Ir pažvelk, pažvelk tu į Jį."
-      ],
-      [
-        "Pažiūrėk į veidą Jo — Aleliuja!",
-        "Tavo kelią tik Jisai užbaigs.",
-        "Gausime malonę mes — Aleliuja!",
-        "Jeigu žvelgsime tiktai į Jį."
+        "Jei aš būsiu nukryžiuotas",
+        "Dvasioje su Viešpačiu.",
+        "Tik tada paveikus mirčiai,",
+        "Jo gyvybė ištekės."
       ]
     ],
     "chorus": [
-      "O, pažvelk, o pažvelk,",
-      "Tu į Jėzų pažiūrėk.",
-      "Ir nuo visko atsisuk tu į Jėzų",
-      "Ir pažvelk, pažvelk tu į Jį."
+      "Jei nemirsime —",
+      "Negyvensime.",
+      "Iš mirties gyvybė kyla.",
+      "Gimsta šviesoje."
     ],
     "chords": {
-      "capo": "Capo 3",
+      "capo": "",
       "verse": [
-        "D                                 A7               D G",
-        "          D                  A7     D",
-        "                                    A7           D G",
-        "            D                        A7    D"
+        "D                   A",
+        "D        G      A7    D",
+        "                   A7      ",
+        "D         G            A7    D"
       ],
       "chorus": [
-        "                            A",
-        "      D      E7     A   A7",
-        "          D             A7       D G",
-        "       D            A7          D-G-D"
+        "                  A7",
+        "A              D",
+        "                    G",
+        "D          A7      D"
       ]
     }
   },
   {
-    "number": 69,
+    "number": 643,
+    "title": "RAGINIMAS BENDRAUTI SU VIEŠPAČIU",
+    "languages": {
+      "russian": 463,
+      "english": 643
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/nt/643",
+    "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e0643_new.mp3",
+    "verses": [
+      [
+        "Skirk laiko regėt Jį,",
+        "Kalbėki su Juo,",
+        "Žodžiu Jo maitinkis,",
+        "Jame pasilik.",
+        "Lauk Jo buvime,",
+        "Romus, nuolankus,",
+        "Ir tik Jo palaiminimo",
+        "Tu ieškok."
+      ],
+      [
+        "Skirk laiko regėt Jį,",
+        "Pasaulis skubus.",
+        "Daug laiko su Jėzum",
+        "Praleiski slaptoj.",
+        "Žvelgdamas į Jėzų,",
+        "Tu būsi kaip Jis.",
+        "Tavam elgesy",
+        "Jo panašumą matys."
+      ],
+      [
+        "Skirk laiko regėt Jį,",
+        "Leisk būt Jam vedliu",
+        "Ir kas benutiktų,",
+        "Nebėk prieky Jo.",
+        "Džiaugsme,liūdesy",
+        "Vis dar seki Jį,",
+        "Žiūrėki į Jėzų,",
+        "Tikėk Jo žodžiu."
+      ],
+      [
+        "Skirk laiko regėt Jį,",
+        "Būk sieloj ramus.",
+        "Mintis ir jausmus Jam",
+        "Paveski savus.",
+        "Prie meilės šaltinių",
+        "Dvasia Jo nuves,",
+        "Tuomet Jo malonė",
+        "Tau bus suteikta."
+      ]
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D",
+        "     G          D",
+        "                      D",
+        "    G         A",
+        "         D",
+        "     D7.              G",
+        "   D                     G",
+        "    A7 D"
+      ]
+    }
+  },
+  {
+    "number": 745,
     "title": "VIDINĖS GYVYBĖS SKIRTINGOS PUSĖS",
     "sub-title": "DVI DVASIOS KAIP VIENA",
     "languages": {
@@ -3931,7 +3209,7 @@
     }
   },
   {
-    "number": 70,
+    "number": 750,
     "title": "SKIRTINGI VIDINĖS GYVYBĖS ASPEKTAI",
     "sub-title": "TRANSFORMACIJA",
     "languages": {
@@ -3981,9 +3259,9 @@
     "chords": {
       "capo": "",
       "verse": [
-        "D", 
+        "D",
         "A        A7             D",
-        "D", 
+        "D",
         "A         A7                  D       D7"
       ],
       "chorus": [
@@ -3995,7 +3273,7 @@
     }
   },
   {
-    "number": 71,
+    "number": 782,
     "title": "MALDA",
     "sub-title": "DVASIOS NAUDOJIMAS",
     "languages": {
@@ -4059,7 +3337,7 @@
     }
   },
   {
-    "number": 72,
+    "number": 793,
     "title": "MALDA",
     "sub-title": "LAUKIME PRIEŠ DIEVĄ",
     "languages": {
@@ -4123,7 +3401,7 @@
     }
   },
   {
-    "number": 73,
+    "number": 811,
     "title": "ŽODŽIO NAGRINĖJIMAS",
     "sub-title": "MAITINIMASIS ŽODŽIU",
     "languages": {
@@ -4205,7 +3483,7 @@
     }
   },
   {
-    "number": 74,
+    "number": 812,
     "title": "ŽODŽIO NAGRINĖJIMAS",
     "sub-title": "MAITINIMASIS ŽODŽIU",
     "languages": {
@@ -4257,401 +3535,7 @@
     }
   },
   {
-    "number": 75,
-    "title": "BAŽNYČIA",
-    "sub-title": "",
-    "languages": {
-      "russian": 570,
-      "english": 841
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/841",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0841_full.mp3",
-    "verses": [
-      [
-        "Tu mana gyvybė, gyveni many",
-        "Ir Dievo pilnatvę Savimi neši.",
-        "Prigimtim šventa Tu šventini mane,",
-        "Pergalę man duodi prisikėlime."
-      ],
-      [
-        "Ši gyvybė Tavo apšviečia mane,",
-        "Jėzau, Tavo kraujas te nuplaus mane.",
-        "Kad gyvybės srautas liktų tėkmėje,",
-        "Kad bendraut galėčiau savo dvasioje."
-      ],
-      [
-        "Visur prasiskverbsi, persunksi mane",
-        "Ir pakeisi mano Tu esybę.",
-        "Sutapatinsi Tu su Savim mane,",
-        "Vesi mus į brandą gyvybe sava."
-      ],
-      [
-        "Jo gyvybė liejas gausiai į mane,",
-        "Suteiki gaivumą, iš Tavęs jėga.",
-        "Mirtis nugalėta, silpnas — jau stiprus,",
-        "Grandines nutraukei, giesmę davei mums."
-      ],
-      [
-        "Aš Tau atiduosiu visiškai save,",
-        "Kad Savų troškimų siektum per mane.",
-        "Daugiau nesistengsiu pats pakeist save.",
-        "Netrukdysiu Tavo darbui manyje."
-      ],
-      [
-        "Pastangų beprasmių aš nenoriu — ne!",
-        "Lai Tava gyvybė pakeičia mane.",
-        "Išugdyk mus, Dieve, kad įgytum Tu",
-        "Atvaizdą šlovingą — reiškiantį Tave."
-      ]
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "G                Em    Am           D",
-        "D     D7     G       A    A7    D",
-        "D                     G      C           G",
-        "G                   C       D7       G-C-G"
-      ]
-    }
-  },
-  {
-    "number": 76,
-    "title": "BAŽNYČIA",
-    "sub-title": "JOS PATRAUKLUMAS",
-    "languages": {
-      "russian": 580,
-      "english": 852
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/852",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0852_full.mp3",
-    "verses": [
-      [
-        "Tavo buveinę myliu aš —",
-        "Bažnyčią, Viešpatie.",
-        "Tavo širdis atrado čia",
-        "Džiaugsmą, ramybę."
-      ],
-      ["Save atidavei už Ją,", "Kad Ją įgytumei.", "Jai atiduodu kūną aš —", "Mylinčiai širdžiai."],
-      [
-        "Gyvybe Tu dėl Jos tapai,",
-        "Kad aš gyvenčiau ja.",
-        "Savęs atsižadu, kad Ji",
-        "Būtų pilna Tavęs."
-      ],
-      [
-        "Bažnyčia Tavo Nuotaka,",
-        "Kūne regiu Tave.",
-        "Džiaugsmu, ramybe ir tiesa",
-        "Pripildo Ji mane."
-      ],
-      [
-        "Visus turtus, kurie Joje,",
-        "Tu dovanoji man.",
-        "Aš tik Joje Tau priklausau,",
-        "Kad džiuginčiau Tave."
-      ],
-      [
-        "Tavo buveinę myliu aš —",
-        "Bažnyčią Viešpaties.",
-        "Gyvensiu amžinai Joje",
-        "Su Tavim, Viešpatie."
-      ]
-    ],
-    "chords": {
-      "capo": "Capo 1",
-      "verse": [
-        "D                    A-A7 D",
-        "                G         A",
-        "A7        D      A7    D",
-        "G                    A  D-G-D"
-      ]
-    }
-  },
-  {
-    "number": 77,
-    "title": "BAŽNYČIA",
-    "sub-title": "KAIP KRISTAUS KŪNAS",
-    "languages": {
-      "russian": 597,
-      "english": 1226
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1226",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1226_i.mp3",
-    "verses": [
-      [
-        "Kristaus Bažnyčia šlovinga, mes dalis Jos esame.",
-        "Džiaugiamės, kad mus surinko Viešpats čia.",
-        "Vienas Kūnas šioj visatoj ir tik Jam priklausome.",
-        "Aleliuja! Mes dėl Jo čia esame!",
-        "",
-        "Aleliuja! Kristaus Kūnas!",
-        "Mes visi nariai šio Kūno!",
-        "Pasišventėme dėl Kūno!",
-        "Aleliuja, mes visi kaip vienas čia!"
-      ],
-      [
-        "Niekas čia neypatingas, mes visi vienybėje,",
-        "Tik vienybėje išreiškiam Dievą mes.",
-        "Ne tik vietinėj Bažnyčioj, bet ir Kūne mes vienam.",
-        "Aleliuja! Kristaus Kūne esam mes!",
-        "",
-        "Aleliuja! Kristaus Kūnas!",
-        "Tai Šėtonas bijo Kūno!",
-        "Nugalėtojai mes Kūne!",
-        "Aleliuja! Kristaus Kūne šiandien mes."
-      ],
-      [
-        "Dievo prigimtis žibintuose auksiniuos septyniuos,",
-        "Ji nepaprasta ir šviečia mums visiems.",
-        "Tiktai Kūne turim dieviškąją prigimtį visi.",
-        "Aleliuja! Galim šviest ir mes šiandien!",
-        "",
-        "Aleliuja! Kristaus Kūnas!",
-        "Mes žibintai šiame Kūne!",
-        "Auksu spindi Kristaus Kūnas!",
-        "Aleliuja! Galim šviesti mes visi."
-      ],
-      [
-        "Kaip išlikti mums vienybėj, būti dieviškiems ir šviest?",
-        "Aleliuja! Reikia Kristų valgyt mums!",
-        "Jis gyvybės medis, mana, puota mūsų amžina.",
-        "Aleliuja! Juo maitinkimės kasdien!",
-        "",
-        "Tiktai taip vieningi būsim!",
-        "Tik taip dieviški mes būsim!",
-        "Tada šviesti mes galėsim!",
-        "Aleliuja! Kristus maistas mūs yra."
-      ]
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "G                                                  C                  G",
-        "                                         A                     D  D7",
-        "           G                 G7             C                    G ",
-        "                            D7           G",
-        "                           ",
-        "G                          ",
-        "          D                 D7",
-        "       G-G7             C",
-        "G                    D7                   G-C-G"
-      ]
-    }
-  },
-  {
-    "number": 78,
-    "title": "BAŽNYČIA",
-    "sub-title": "KRISTAUS NUOTAKA",
-    "languages": {
-      "russian": 599,
-      "english": 1229
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1229",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0824_i.mp3",
-    "verses": [
-      [
-        "Tava širdis Bažnyčioj.",
-        "Tu trokšti, Kristau, Jos.",
-        "Ar veikime, ar žody —",
-        "Tu nepamiršti Jos.",
-        "Prieš sukuriant pasaulį",
-        "Jau apie Ją mąstei;",
-        "Ir niekas negalėjo",
-        "Minčių nuo Jos nukreipt."
-      ],
-      [
-        "Visatos dar nebuvo,",
-        "O Tu žinojai jau.",
-        "Buvai apmąstęs viską:",
-        "Kaip Nuotaką įgaut.",
-        "Nors kūriniją Savo",
-        "Širdies gelmėj matei,",
-        "Bet troškai Tu tik vieno —",
-        "Tik Nuotakos šlovėj."
-      ],
-      [
-        "Tava valią, o Kristau —",
-        "Stipresnės nėr už ją:",
-        "Tik Nuotaką įgyti",
-        "Kad būt Tau poroje.",
-        "Nors nuodėmė mus gundo,",
-        "Išjuokus silpnume —",
-        "Tu Nuotakos Savosios",
-        "Nebeatstumsi, ne."
-      ],
-      [
-        "Nesibaigiančia meile,",
-        "Su gailesčiu širdy",
-        "Ieškojai nepaliaujant,",
-        "Jos laukei ilgesy.",
-        "Gyvybę Tu kaip auką;",
-        "Atidavei už Ją.",
-        "Gyvybę dovanojai:",
-        "Taip gimė Nuotaka."
-      ],
-      [
-        "Savam prisikėlime",
-        "Jai artimu tapai.",
-        "Kaip būsi sužavėtas",
-        "Kai Ji jau bus šlovėj.",
-        "Vienintelis Jos tikslas,",
-        "Tik vieno trokšta Ji:",
-        "Kad amžiais būti pora,",
-        "Kurios taip trokšta Jis."
-      ]
-    ],
-    "chords": {
-      "capo": "Capo 1",
-      "verse": [
-        "D                     A",
-        "     G         A7         D",
-        "                       G",
-        "             D        A",
-        "         D                 G   D",
-        "       B7              Em",
-        "   D                G",
-        "      A           A7      D"
-      ]
-    }
-  },
-  {
-    "number": 79,
-    "title": "BAŽNYČIA",
-    "sub-title": "KAIP VIENAS NAUJAS ŽMOGUS",
-    "languages": {
-      "russian": 602,
-      "english": 1232
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1232",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1232_i.mp3",
-    "verses": [
-      [
-        "Buvom mirę nuodėmėse mes,",
-        "Bet Dievas malonės apstus.",
-        "Atgaivino ir prikėlė mus,",
-        "Pasodino mus su Kristumi danguj."
-      ],
-      [
-        "Su šventaisiais galim mes patirt",
-        "Plotį, gylį, aukštį Dieve.",
-        "Ir suvokti Kristaus meilę mums,",
-        "Kad galėtume būt Jo pilnatvėje."
-      ],
-      [
-        "Šiandien paslaptis mums atskleista —",
-        "Dievo planą žinome mes.",
-        "Kristų ir Bažnyčią regime,",
-        "Senas priešas tik per Juos jau gėdoje."
-      ],
-      [
-        "O, sustiprink, Tėve, mus Dvasia,",
-        "Žmoguje vidiniame.",
-        "Meile mus įtvirtink, įšaknyk,",
-        "Per tikėjimą visų mūs širdyse."
-      ],
-      [
-        "Gyvybingi ryšiai jungia mus,",
-        "Kristaus Kūnas esame mes.",
-        "Džiaugiamės kiekvienu mes nariu,",
-        "Kristaus Kūnas ugdomas tik meilėje."
-      ],
-      [
-        "Kad įvykdyt Jo sumanymą,",
-        "Viešpats suvienijo mus.",
-        "Mes Jame dabar Naujas Žmogus —",
-        "Kūne Jam šlovė ir Kristuje. Amen!"
-      ]
-    ],
-    "chorus": [
-      "Jėzus kartu visus mus renka.",
-      "Vieningi sieloj mes visad.",
-      "Jo meilė išaugina mus,",
-      "Kad pasiektume pilnatvę Kristaus mes."
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "G                  C                 G",
-        "                   A            D         D7",
-        "G     G7   C            G",
-        "                             D7               G"
-      ],
-      "chorus": [
-        "G-G7      C",
-        "G           A7               D",
-        "     G-G7 C ",
-        "           G                 D7                   G"
-      ]
-    }
-  },
-  {
-    "number": 80,
-    "title": "BAŽNYČIA",
-    "sub-title": "PASIŠVENTIMAS JAI",
-    "languages": {
-      "russian": 612,
-      "english": 1248
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1248",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1248_i.mp3",
-    "verses": [
-      [
-        "Prisiekė Dovydas:",
-        "„Statysiu aš namus Jam“.",
-        "Pašvęsiu Jam save",
-        "Ir tol aš neužmigsiu,",
-        "Kol nesurasiu Viešpačiui",
-        "Gyvenimui namų,",
-        "Kur nori Jis gyventi ten",
-        "Su Savo sūnumis."
-      ],
-      [
-        "Kai rūpesčių srautu",
-        "Apakinti mes buvom,",
-        "Jo trokštamus namus",
-        "Palikom apleistus mes.",
-        "O, širdis mūsų Tu atgręžk,",
-        "Į kalną eisim mes,",
-        "Nelauksime kitos dienos —",
-        "Atėjome statyt."
-      ],
-      [
-        "Atremt piktoms dienoms",
-        "Įkvėpk statyti mus Tu.",
-        "Kas išrinktas Tavęs",
-        "Kaip Dovydas te būna.",
-        "Malonėj Tavo stato jis,",
-        "Palaimintas Tavęs,",
-        "Kad įgyvendintų šiandien",
-        "Troškimą Viešpaties."
-      ],
-      [
-        "Į tuos, ką išrinkai,",
-        "Įdėk troškimą Savo",
-        "Tau viską atiduot,",
-        "Ugdyt Bažnyčią Tavo.",
-        "Jos nugalėti negalės",
-        "Net vartai pragaro,",
-        "Nors mūs mažai, bet Tu arti,",
-        "O Viešpatie, statyk."
-      ]
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "D                    F#m",
-        "      G                A              A7",
-        "    D                    F#m",
-        "   G               A         A7",
-        "      G              D",
-        "Em A   F#m   Bm",
-        "      G     D       G      D",
-        "     G       A7    D"
-      ]
-    }
-  },
-  {
-    "number": 81,
+    "number": 824,
     "title": "BAŽNYČIA",
     "sub-title": "JOS BENDRAS APIBŪDINIMAS",
     "languages": {
@@ -4747,137 +3631,123 @@
     }
   },
   {
-    "number": 82,
+    "number": 841,
     "title": "BAŽNYČIA",
-    "sub-title": "VIEŠPATIES KAIMENĖ",
+    "sub-title": "",
     "languages": {
-      "russian": 593,
-      "english": 1221
+      "russian": 570,
+      "english": 841
     },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1221",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0260_i.mp3",
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/841",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0841_full.mp3",
     "verses": [
       [
-        "Išvedė Jėzus iš gardo,",
-        "Tapo Ganytoju mums.",
-        "Žaliose lankose gano,",
-        "Dosniai mums teikia turtus."
+        "Tu mana gyvybė, gyveni many",
+        "Ir Dievo pilnatvę Savimi neši.",
+        "Prigimtim šventa Tu šventini mane,",
+        "Pergalę man duodi prisikėlime."
       ],
       [
-        "Mus susiskaldžiusius rado,",
-        "Alkanus rado Jis mus.",
-        "Į gerą žemę atvedęs,",
-        "Atvėrė dvasią Jis mums."
+        "Ši gyvybė Tavo apšviečia mane,",
+        "Jėzau, Tavo kraujas te nuplaus mane.",
+        "Kad gyvybės srautas liktų tėkmėje,",
+        "Kad bendraut galėčiau savo dvasioje."
       ],
       [
-        "Viešpats — Jis mūsų ganykla.",
-        "Viešpats — mūs maistas yra.",
-        "Susirinkimuose mūsų",
-        "Mus pamaitina visad."
+        "Visur prasiskverbsi, persunksi mane",
+        "Ir pakeisi mano Tu esybę.",
+        "Sutapatinsi Tu su Savim mane,",
+        "Vesi mus į brandą gyvybe sava."
       ],
       [
-        "Su Juo gyvenam ant kalno,",
-        "Mus atgaivina rasa.",
-        "Troškulio jau nebeliko —",
-        "Viešpats vanduo mūs yra."
+        "Jo gyvybė liejas gausiai į mane,",
+        "Suteiki gaivumą, iš Tavęs jėga.",
+        "Mirtis nugalėta, silpnas — jau stiprus,",
+        "Grandines nutraukei, giesmę davei mums."
       ],
       [
-        "Jis mūsų džiaugsmas, ramybė —",
-        "Nėra pavojaus čia mums.",
-        "Savo kaimenę Jis saugo",
-        "Ištikimu buvimu."
+        "Aš Tau atiduosiu visiškai save,",
+        "Kad Savų troškimų siektum per mane.",
+        "Daugiau nesistengsiu pats pakeist save.",
+        "Netrukdysiu Tavo darbui manyje."
+      ],
+      [
+        "Pastangų beprasmių aš nenoriu — ne!",
+        "Lai Tava gyvybė pakeičia mane.",
+        "Išugdyk mus, Dieve, kad įgytum Tu",
+        "Atvaizdą šlovingą — reiškiantį Tave."
       ]
-    ],
-    "chorus": [
-      "Šlovingoj bažnyčioj",
-      "Mes čia puotaujam su Juo.",
-      "Tie, kurie visad vienybėj,",
-      "Mėgausis gyvybe Jo."
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "G         D           G",
-        "D           D7      G  G7",
-        "C                       G",
-        "A                      A7         D7"
-      ],
-      "chorus": [
-        "     G",
-        "                    A              D  D7",
-        "G             C            G",
-        "D              D7       G"
-      ]
-    }
-  },
-  {
-    "number": 83,
-    "title": "BAŽNYČIA",
-    "sub-title": "KAIP MŪSŲ NAMAI IR RAMYBĖ",
-    "languages": {
-      "russian": 607,
-      "english": 1237
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1237",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1237_i.mp3",
-    "verses": [
-      [
-        "Sodas dieviškas Bažnyčioje, mes pasiliksim čia,",
-        "Kur augins Sava gyvybe Kristus mus.",
-        "Ir visiems Šventiesiems pilnas pasimėgavimo Jis,",
-        "Toks brangus, prieinamas, kad valgyt Jį."
-      ],
-      [
-        "Ne gamykla, ne mokykla, ne koplyčia danguje —",
-        "Sodas čia kur Viešpats gali sėt ir pjaut.",
-        "Jis visus mus čia surinko — sodas Jo mes esame,",
-        "Dirbdamas mumyse nori mus augint."
-      ],
-      [
-        "Čia gyvybės medis auga, duoda vaisius jisai mums,",
-        "Pilnas jis gyvybės, mums prieinamas.",
-        "Negudrauk ir nesipriešink, skink ir valgyk šiuos vaisius",
-        "Ir priimk saldumą Jėzaus visada."
-      ],
-      [
-        "Šalia šito medžio Dievas, Kristuje mums teka Jis,",
-        "Kad sausumą ir sunkumus nugalėt.",
-        "Aleliuja! Jėzus nori į šį sodą mums tekėt",
-        "Ir drėkint mus, kad gyvybėj augtume."
-      ],
-      [
-        "Gal sode tu nelaimingas, o gal nedėkingas tu",
-        "Už gausumą tekantį iš Dievo mums.",
-        "Dvasioje su Juo puotaujant prisipildyki džiaugsmu,",
-        "Kad galėtum gausiai vaisių nešti tu."
-      ]
-    ],
-    "chorus": [
-      "Koks laimingas aš šiame sode,",
-      "Augu Viešpaties malonėje.",
-      "Valgyt nuo gyvybės medžio",
-      "Nėra nieko maloniau,",
-      "Troškulį malšint gyvybės vandeniu."
     ],
     "chords": {
       "capo": "",
       "verse": [
-        "G                                                    C",
-        "           D                 D7                 G",
-        "                                                        C",
-        "                D                D7                      G-C-G"
-      ],
-      "chorus": [
-        "             G7       C",
-        "D                 D7              G",
-        "                                G7 ",
-        "         C        ",
-        "          D                 D7               G-C-G"
+        "G                Em    Am           D",
+        "D     D7     G       A    A7    D",
+        "D                     G      C           G",
+        "G                   C       D7       G-C-G"
       ]
     }
   },
   {
-    "number": 84,
+    "number": 852,
+    "title": "BAŽNYČIA",
+    "sub-title": "JOS PATRAUKLUMAS",
+    "languages": {
+      "russian": 580,
+      "english": 852
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/852",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0852_full.mp3",
+    "verses": [
+      [
+        "Tavo buveinę myliu aš —",
+        "Bažnyčią, Viešpatie.",
+        "Tavo širdis atrado čia",
+        "Džiaugsmą, ramybę."
+      ],
+      [
+        "Save atidavei už Ją,",
+        "Kad Ją įgytumei.",
+        "Jai atiduodu kūną aš —",
+        "Mylinčiai širdžiai."
+      ],
+      [
+        "Gyvybe Tu dėl Jos tapai,",
+        "Kad aš gyvenčiau ja.",
+        "Savęs atsižadu, kad Ji",
+        "Būtų pilna Tavęs."
+      ],
+      [
+        "Bažnyčia Tavo Nuotaka,",
+        "Kūne regiu Tave.",
+        "Džiaugsmu, ramybe ir tiesa",
+        "Pripildo Ji mane."
+      ],
+      [
+        "Visus turtus, kurie Joje,",
+        "Tu dovanoji man.",
+        "Aš tik Joje Tau priklausau,",
+        "Kad džiuginčiau Tave."
+      ],
+      [
+        "Tavo buveinę myliu aš —",
+        "Bažnyčią Viešpaties.",
+        "Gyvensiu amžinai Joje",
+        "Su Tavim, Viešpatie."
+      ]
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "D                    A-A7 D",
+        "                G         A",
+        "A7        D      A7    D",
+        "G                    A  D-G-D"
+      ]
+    }
+  },
+  {
+    "number": 864,
     "title": "SUSIRINKIMAS",
     "sub-title": "KRISTAUS IŠRAIŠKA",
     "languages": {
@@ -4959,7 +3829,7 @@
     }
   },
   {
-    "number": 85,
+    "number": 880,
     "title": "DVASINĖ KOVA",
     "sub-title": "PAKLUSNUMAS JAM",
     "languages": {
@@ -5015,83 +3885,7 @@
     }
   },
   {
-    "number": 86,
-    "title": "DVASINĖ KOVA",
-    "sub-title": "ŽEMĖS UŽVALDYMAS",
-    "languages": {
-      "russian": 648,
-      "english": 1287
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1287",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1118_i.mp3",
-    "verses": [
-      [
-        "Užimsime mes žemę Dievo duotą mums,",
-        "Nes Kristuje mes galim daug pasiekt.",
-        "Kad ją užimt, mes esame aprūpinti",
-        "Dvasia, Žodžiu, Bažnyčia ir Krauju."
-      ],
-      [
-        "Mes turim kraują! Jo dėka ryžtingi mes.",
-        "Mūs Kristus Dievui tinkama auka.",
-        "Ir kraujas šis apvalo mus visus kasdien,",
-        "Todėl apstus mums Dievas malone."
-      ],
-      [
-        "Mes turim Žodį — maistas mūs yra kasdien,",
-        "Skaitydami kartojame „Amen“.",
-        "Šis Žodis kalba mūsų viduje kasdien",
-        "Ir veda mus Jis Viešpaties šlovėn."
-      ],
-      [
-        "Mes turim Dvasią! Tiesą turime per Ją.",
-        "Ji nepriklausoma nuo mūs jausmų.",
-        "Dvasia gyvena mūsų viduje kartu",
-        "Ir veda mus siauru tiesos keliu."
-      ],
-      [
-        "Bažnyčią turim! Tik joje mes galime",
-        "Pilnatvę visą Viešpaties turėt.",
-        "Ir visaapimantis Kristus taps visų",
-        "Ir bus šventųjų viskas visame."
-      ]
-    ],
-    "chorus": [
-      "* Sesės *",
-      "Tai užvaldykim žemę, broliai!",
-      "Ją Dievas mums atidavė.",
-      "Greičiau užimkim ir užvaldykim",
-      "Kaip bus šlovinga ją įgyt.",
-      "* Broliai *",
-      "Tai užvaldykim žemę, sesės!",
-      "Tikėdami giliai širdy.",
-      "Ir neikim patys, kaip daugel metų,",
-      "Juk Viešpats veda mus pirmyn."
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "G",
-        "       D                   A7                  D",
-        "       G                    C",
-        "      G                       D7               G"
-      ],
-      "chorus": [
-        "",
-        "G",
-        "                                   Am",
-        "                D                     D7",
-        "                                  G   D",
-        "",
-        "              G                       ",
-        "           G7            C",
-        "                                             G",
-        "                     C      D          G"
-      ]
-    }
-  },
-  {
-    "number": 87,
+    "number": 948,
     "title": "KRISTUS MUMYSE",
     "sub-title": "ŠLOVĖS VILTIS",
     "languages": {
@@ -5143,7 +3937,7 @@
     }
   },
   {
-    "number": 88,
+    "number": 949,
     "title": "ŠLOVĖS VILTIS",
     "sub-title": "KRISTUS, KAIP MŪSŲ PAŠLOVINIMAS",
     "languages": {
@@ -5201,114 +3995,7 @@
     }
   },
   {
-    "number": 89,
-    "title": "ŠLOVĖS VILTIS",
-    "sub-title": "VESTUVIU DIENA",
-    "languages": {
-      "russian": 711,
-      "english": 1314
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1314",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0175_i.mp3",
-    "verses": [
-      [
-        "Greit Viešpats vėl sugrįš,",
-        "Laukiame Jo visi.",
-        "Palaimingiausia diena ši bus.",
-        "Galime tik Tavy",
-        "Mylėt ir būt gyvi,",
-        "Esi Jaunikis mūs visų."
-      ],
-      [
-        "Nepastebėsime,",
-        "Kaip Jį išgirsime",
-        "Ir danguje mes išvysim Jį.",
-        "Kokia palaiminta",
-        "Bus ši akimirka —",
-        "Jaunikis su Jaunąja bus."
-      ],
-      [
-        "Dienos trumpėja jau.",
-        "Greit jos prabėgs, tačiau",
-        "Jėzus, mūs Viešpats, pas mus ateis.",
-        "Trokštame su Tavim",
-        "Vienybėje gyvent —",
-        "Tu pakerėjai mūs širdis."
-      ],
-      [
-        "Susitikimas greit,",
-        "Viešpats suskubs ateit",
-        "Nuotakos Savo pasiimt.",
-        "O, aleliuja!",
-        "Džiaugiasi mūs dvasia,",
-        "Palaimintas Jaunikis bus."
-      ]
-    ],
-    "chords": {
-      "capo": "Capo 1",
-      "verse": [
-        "D                     A7     D",
-        "                 A7   D",
-        "D                            G      A7",
-        "D          B7   Em",
-        "             A7      D",
-        "           G       A    A7-D"
-      ]
-    }
-  },
-  {
-    "number": 90,
-    "title": "KARALYSTĖ",
-    "sub-title": "JOS SĖKLA",
-    "languages": {
-      "english": 1299
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1299",
-    "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e1299_new.mp3",
-    "verses": [
-      [
-        "Mūs Kūrėjas turi tikslą, dėl kurio mes žemėje,",
-        "Atspindėdami Jo šlovę, valdžią Jo išreiškiame.",
-        "Nors žmogus ir nusidėjo, nebematė jau prasmės —",
-        "Mūsų Dievo Karalyste per Jo Sūnų suklestės."
-      ],
-      [
-        "Jėzus, Gelbėtojas mūsų, Tėvo siųstas žemėje.",
-        "Jis dabar — Dvasia, Gyvybe gali augti žmoguje.",
-        "Tarsi sėkla mūsų dvasioj Kristus auga, plečiasi;",
-        "Kol mes tapsime galiausiai Jo gyvybės vaisiumi."
-      ],
-      [
-        "Broliai, sesės, laikas trumpas — Kristus laukia Nuotakos.",
-        "Jis — sugrįžti neuždelstų, jei gyvybė sulapos.",
-        "Nesistenkime kovoti, o tik savo vidumi",
-        "Atsigręžkime į Kristų, persikeiskime į Jį."
-      ]
-    ],
-    "chorus": [
-      "Jėzaus Kristaus Karalystė, nepaisant priešiškų planų,",
-      "Reali, tvirta, galinga auga širdyse žmonių.",
-      "Tik beverčiai išvedžiojimai mus moko: laukite mirties,",
-      "Kristus stato Karalystę žemėje dabar išties."
-    ],
-    "chords": {
-      "capo": "Capo 1",
-      "verse": [
-        "C                  G              Am                 Em",
-        "F                C                  Dm7            G",
-        "C                       G             Am           Em ",
-        "F                  C             Dm      F       G G7 C"
-      ],
-      "chorus": [
-        "C                              Em         F                             C",
-        "                       Em    F                         C",
-        "                            Em                 F                        C",
-        "            Em           F-Dm7     G              C"
-      ]
-    }
-  },
-  {
-    "number": 91,
+    "number": 1007,
     "title": "GEROJI ŽINIA",
     "sub-title": "KRAUJAS",
     "languages": {
@@ -5366,7 +4053,58 @@
     }
   },
   {
-    "number": 92,
+    "number": 1017,
+    "title": "GYVYBĖ",
+    "sub-title": "GEROJI ŽINIA MUMS",
+    "languages": {
+      "russian": 750,
+      "english": 1017
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1017",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1017_i.mp3",
+    "verses": [
+      [
+        "Dievas Kristuje atėjo,",
+        "Tapo Žmogumi kaip mes.",
+        "Nukryžiuotas buvo Jis,",
+        "Kad būtume mes laisvėje.",
+        "Prisikėlė ir atėjo",
+        "Kaip Dvasia Jisai pas mus,",
+        "Kad būt gyvybe mums."
+      ]
+    ],
+    "chorus": [
+      "Jam šlovė! O aleliuja!",
+      "Jam šlovė! O aleliuja!",
+      "Jam šlovė! O aleliuja!",
+      "Gyvybė Kristus mums!",
+      "",
+      "Pergalė! O aleliuja!",
+      "Pergalė! O aleliuja!",
+      "Pergalė! O aleliuja!",
+      "Jis tapo viskuo mums!"
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "G",
+        "         G7",
+        "         C",
+        "               G                   D",
+        "       G",
+        "              B7                 Em",
+        "       Am     D      G"
+      ],
+      "chorus": [
+        "G                       G7",
+        "C                       G",
+        "G                       B7-Em",
+        "     Am  D          G"
+      ]
+    }
+  },
+  {
+    "number": 1048,
     "title": "GEROJI ŽINIA",
     "sub-title": "ATĖJIMAS PAS VIEŠPATĮ",
     "languages": {
@@ -5424,7 +4162,7 @@
     }
   },
   {
-    "number": 93,
+    "number": 1051,
     "title": "GEROJI ŽINIA",
     "sub-title": "ATĖJIMAS PAS VIEŠPATĮ",
     "languages": {
@@ -5434,9 +4172,24 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1051",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1051_i.mp3",
     "verses": [
-      ["Girdžiu šaukimą aš,", "Tu pas Save kvieti.", "Savu šventu krauju mane", "Tu nori apvalyt."],
-      ["Nors silpnas aš esu", "Ir nuodėmė many,", "Nuplauni Tu mane krauju,", "Šventumą suteiki."],
-      ["O Jėzau, Tu užbaik", "Šį darbą manyje.", "Suteik malonę man, meldžiu,", "Ją lieki į mane."],
+      [
+        "Girdžiu šaukimą aš,",
+        "Tu pas Save kvieti.",
+        "Savu šventu krauju mane",
+        "Tu nori apvalyt."
+      ],
+      [
+        "Nors silpnas aš esu",
+        "Ir nuodėmė many,",
+        "Nuplauni Tu mane krauju,",
+        "Šventumą suteiki."
+      ],
+      [
+        "O Jėzau, Tu užbaik",
+        "Šį darbą manyje.",
+        "Suteik malonę man, meldžiu,",
+        "Ją lieki į mane."
+      ],
       [
         "Kas ištikimas Jam —",
         "Suteikia viską Jis.",
@@ -5460,7 +4213,7 @@
       "capo": "",
       "verse": [
         "D                        Bm",
-        "     Em      A7      D", 
+        "     Em      A7      D",
         "                           G      D",
         "     A     A7  D"
       ],
@@ -5473,7 +4226,7 @@
     }
   },
   {
-    "number": 94,
+    "number": 1052,
     "title": "GEROJI ŽINIA",
     "sub-title": "ATĖJIMAS PAS VIEŠPATĮ",
     "languages": {
@@ -5483,19 +4236,49 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1052",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1052_i.mp3",
     "verses": [
-      ["Toks Dievui tolimas buvau,", "Bet einu namo.", "Aš nuodėmėje gyvenau,", "Bet einu namo."],
-      ["Prabėgo metų daug tuščiai,", "Aš einu namo.", "Su ašarom atgailavau,", "Aš einu namo."],
-      ["Pavargęs būti nuodėmėj,", "Aš einu namo.", "Pasitikiu tik Tavimi,", "Aš einu namo."],
+      [
+        "Toks Dievui tolimas buvau,",
+        "Bet einu namo.",
+        "Aš nuodėmėje gyvenau,",
+        "Bet einu namo."
+      ],
+      [
+        "Prabėgo metų daug tuščiai,",
+        "Aš einu namo.",
+        "Su ašarom atgailavau,",
+        "Aš einu namo."
+      ],
+      [
+        "Pavargęs būti nuodėmėj,",
+        "Aš einu namo.",
+        "Pasitikiu tik Tavimi,",
+        "Aš einu namo."
+      ],
       [
         "Ir skausmas širdį varsto man,",
         "Aš einu namo.",
         "Jėgų man duoki ir vilties,",
         "Aš einu namo."
       ],
-      ["Visa viltis tik Tavyje,", "Aš einu namo.", "Pats Viešpats mirė už mane,", "Aš einu namo."],
-      ["Apsivalysiu Jo krauju,", "Aš einu namo.", "Nuplauk už sniegą dar balčiau,", "Aš einu namo."]
+      [
+        "Visa viltis tik Tavyje,",
+        "Aš einu namo.",
+        "Pats Viešpats mirė už mane,",
+        "Aš einu namo."
+      ],
+      [
+        "Apsivalysiu Jo krauju,",
+        "Aš einu namo.",
+        "Nuplauk už sniegą dar balčiau,",
+        "Aš einu namo."
+      ]
     ],
-    "chorus": ["Viešpatie, aš einu,", "Aš einu namo!", "Viešpatie, sutik mane!", "Aš einu namo."],
+    "chorus": [
+      "Viešpatie, aš einu,",
+      "Aš einu namo!",
+      "Viešpatie, sutik mane!",
+      "Aš einu namo."
+    ],
     "chords": {
       "capo": "Capo 1",
       "verse": [
@@ -5513,7 +4296,7 @@
     }
   },
   {
-    "number": 95,
+    "number": 1055,
     "title": "GEROJI ŽINIA",
     "sub-title": "JO ŠAUKIMASIS",
     "languages": {
@@ -5549,7 +4332,7 @@
     }
   },
   {
-    "number": 96,
+    "number": 1059,
     "title": "GEROJI ŽINIA",
     "sub-title": "ŠAUKIMASIS VIEŠPATIES",
     "languages": {
@@ -5607,167 +4390,7 @@
     }
   },
   {
-    "number": 97,
-    "title": "GYVYBĖ",
-    "sub-title": "GEROJI ŽINIA MUMS",
-    "languages": {
-      "russian": 750,
-      "english": 1017
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1017",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1017_i.mp3",
-    "verses": [
-      [
-        "Dievas Kristuje atėjo,",
-        "Tapo Žmogumi kaip mes.",
-        "Nukryžiuotas buvo Jis,",
-        "Kad būtume mes laisvėje.",
-        "Prisikėlė ir atėjo",
-        "Kaip Dvasia Jisai pas mus,",
-        "Kad būt gyvybe mums."
-      ]
-    ],
-    "chorus": [
-      "Jam šlovė! O aleliuja!",
-      "Jam šlovė! O aleliuja!",
-      "Jam šlovė! O aleliuja!",
-      "Gyvybė Kristus mums!",
-      "",
-      "Pergalė! O aleliuja!",
-      "Pergalė! O aleliuja!",
-      "Pergalė! O aleliuja!",
-      "Jis tapo viskuo mums!"
-    ],
-    "chords": {
-      "capo": "Capo 3",
-      "verse": [
-        "G",
-        "         G7",
-        "         C",
-        "               G                   D",
-        "       G",
-        "              B7                 Em",
-        "       Am     D      G"
-      ],
-      "chorus": [
-        "G                       G7",
-        "C                       G",
-        "G                       B7-Em",
-        "     Am  D          G"
-      ]
-    }
-  },
-  {
-    "number": 98,
-    "title": "GEROJI ŽINIA",
-    "languages": {
-      "russian": 789,
-      "english": 1331
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1331",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1331_i.mp3",
-    "verses": [
-      [
-        "Tu paragauk, koks geras Jis,",
-        "Ir regėsi tu, koks geras Jis.",
-        "Jis geras tau ir Jis geras man,",
-        "Ką beveiktum tu — visad ragauk."
-      ],
-      [
-        "Viešpatie Jėzau — šauki Jį!",
-        "Viešpatie Jėzau — šauki Jį!",
-        "Malonė po malonės,",
-        "Tau ji gyvenimą staiga pakeis."
-      ],
-      [
-        "Širdis pajus, kai meilė plūs,",
-        "Širdis pajus, kai meilė plūs.",
-        "Ir iš dangaus pripildys ją,",
-        "Pažinsi Dievą tu sava dvasia."
-      ],
-      [
-        "Už Jo gyvybę šlovink Jį,",
-        "Ji mumyse — tu šlovink Jį.",
-        "Išliejo Kristų į tave,",
-        "Jisai gyvybė — gyvenki ja."
-      ]
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "            D-G-D       G        D-G-D",
-        "             F#m-Bm          Em A7",
-        "               D-D7                G  Gm",
-        "                       D-A7             D-G-D"
-      ]
-    }
-  },
-  {
-    "number": 99,
-    "title": "RAŠTO VIETOS GIEDOJIMUI",
-    "sub-title": "PSALMĖ 116:12—13",
-    "languages": {
-      "russian": 793,
-      "english": 1336
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1336",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1336_i.mp3",
-    "verses": [
-      [
-        "Kuo Viešpačiui atlyginsiu",
-        "Už visa, už visa, už visa ką padarė Jis?",
-        "Priimsiu gelbėjimo taurę,",
-        "Ir šauksiuos, ir šauksiuos, ir šauksiuos",
-        "Vardo mano Viešpaties."
-      ]
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "D               G       D",
-        "            A          D            G               A  A7",
-        "D           G              D",
-        "D                A                   D",
-        "G        A                  D"
-      ]
-    }
-  },
-  {
-    "number": 100,
-    "title": "RAŠTO VIETOS GIEDOJIMUI",
-    "sub-title": "EVANGELIJA PAGAL JONĄ 13:34",
-    "languages": {
-      "russian": 799,
-      "english": 1343
-    },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1343",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1154_i.mp3",
-    "verses": [
-      [
-        "Naują įsakymą Aš duodu jums:",
-        "„Tad mylėkit viens kitą, kaip Aš myliu jus“",
-        "„Tad mylėkit viens kitą, kaip Aš myliu jus“",
-        "Pažins visi jus, kad mokiniai jūs Mano,",
-        "Jei meilę saugosit visad tarp savęs.",
-        "Pažins visi jus, kad mokiniai jūs Mano,",
-        "Jei meilę saugosit visad tarp savęs."
-      ]
-    ],
-    "chords": {
-      "capo": "",
-      "verse": [
-        "D         Bm       Em           A",
-        "             F#m          Bm         G             A",
-        "             F#m          Bm         G   A       D",
-        "    Bm    F#m           D                Bm",
-        "      G                F#m               A D",
-        "    Bm     F#m          D                 Bm",
-        "      G                F#m                  A-D"
-      ]
-    }
-  },
-  {
-    "number": 101,
+    "number": 1084,
     "title": "GYRIUS VIEŠPAČIUI",
     "sub-title": "JO VARDAS",
     "languages": {
@@ -5849,7 +4472,750 @@
     }
   },
   {
-    "number": 102,
+    "number": 1086,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO VARDAS",
+    "languages": {
+      "russian": 64,
+      "english": 1086
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1086",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1086_i.mp3",
+    "verses": [
+      [
+        "Koks tas vardas — Jėzus!",
+        "Toks didis yra jis mums.",
+        "Danguje ir žemėje nėra aukščiau jo.",
+        "Vardą šį įkvėpsim mes —",
+        "Tamsa pranyks, mirtis išnyks,",
+        "Nes sugrįžta Viešpats Jėzus vėl pas mus."
+      ],
+      [
+        "Džiaugiamės visa širdim",
+        "Šlovė mūs Tėvui — Amen!",
+        "Išpažįstam Tavo vardą, Viešpatie.",
+        "Atiduoti gyrių Tau —",
+        "Tai pasimėgavimas mums.",
+        "O, mes mylim, Jėzau, šaukiamės Tavęs!"
+      ]
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D                                 D7",
+        "                  G       D",
+        "                                                     A",
+        "          D                 D7",
+        "                G",
+        "             D                     A        A7        D G D"
+      ]
+    }
+  },
+  {
+    "number": 1107,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO PRISIMINIMAS",
+    "languages": {
+      "russian": 173,
+      "english": 1107
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1107",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0017_i.mp3",
+    "verses": [
+      [
+        "Tu surinkai mus, Viešpatie, kaip Kūną,",
+        "Nors mūsų daug, bet viena esame.",
+        "Mes Jo nariai, gyvybę Jo dalinam,",
+        "Mes esam viena Jo gyvybėje."
+      ],
+      [
+        "Mes Tavo Kūną matom šitoj duonoj,",
+        "Sulaužytoj, kad valgytume ją.",
+        "Ir imdami kiekvienas savo dalį",
+        "Vienybę savo taip paskelbiame."
+      ],
+      [
+        "Duoną ir taurę prieš save mes regim,",
+        "Per Kristaus mirtį tapom viena mes.",
+        "Dėl Kūno Jis įvykdė atpirkimą.",
+        "Mes viena, Viešpatie, Tavy — Amen!"
+      ],
+      [
+        "Visi kaip vienas, neišskiriami mes.",
+        "Vienybė mūsų tiktai Kristuje.",
+        "Mes valgom duoną, geriame iš taurės,",
+        "Vienybę mūsų mato visi čia."
+      ],
+      [
+        "Koks džiaugsmas mes palaimintoj vienybėj,",
+        "Ir žinom, Tu patenkintas esi.",
+        "Kaip Nuotaka susitikimo laukiam,",
+        "Saldžia palaima mes pagirdyti."
+      ]
+    ],
+    "chorus": [
+      "Tik vienas Kūnas šioj Visatoje",
+      "Ir jis per mus išreiškiamas.",
+      "Mes esam viena kiekvienam mieste,",
+      "Kad visa tai būt matoma."
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "G                        G7                    C",
+        "                   G             D7          G-D7",
+        "                 G       G7             C",
+        "                  G      D7            G"
+      ],
+      "chorus": [
+        "                 G        C             G",
+        "              Am  D7         G     D",
+        "                 G       C                       G   Em",
+        "               Am      D     G "
+      ]
+    }
+  },
+  {
+    "number": 1112,
+    "title": "ŠLOVĖ VIEŠPAČIUI",
+    "sub-title": "JO PRISIMINIMAS",
+    "languages": {
+      "russian": 177,
+      "english": 1112
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1112",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0861_i.mp3",
+    "verses": [
+      [
+        "Štai šlovinga Viešpaties puota.",
+        "Viešpatie, Tu mūs Valdovas,",
+        "Gyveni Savuos namuos.",
+        "Štai Šlovinga Viešpaties puota."
+      ],
+      [
+        "Mums saldi ši Viešpaties puota.",
+        "Mes, šventieji, čia bendraujam.",
+        "Aleliuja! Paragaujam,",
+        "Koks saldumas Viešpaties puotos."
+      ],
+      [
+        "Puotą Viešpaties branginame.",
+        "Mes čia skelbiam Tavo mirtį.",
+        "Sielą norime palikti,",
+        "Duoną su vynu mes priimam."
+      ],
+      [
+        "Viešpaties puotos prasmė gili —",
+        "Mus, kaip Kūną, reiškia duona,",
+        "Ir mes skelbiame visatai:",
+        "Kūnas — Tavo meilės išraiška."
+      ],
+      [
+        "Viešpaties puota tokia gaivi,",
+        "Pasisotinam visi čia.",
+        "Po jos poreikių nelieka —",
+        "Atgaivina Viešpaties puota."
+      ],
+      [
+        "Žodžiai tie „Kol Jis pas mus sugrįš“ —",
+        "Pažadas, kuris mums duotas,",
+        "Per dienas jis teikia viltį —",
+        "Taip stiprybę semiam šioj puotoj."
+      ]
+    ],
+    "chorus": [
+      "Aleliuja, aleliuja!",
+      "Mes su Juo puotaujame.",
+      "Aleliuja, aleliuja!",
+      "Štai šlovinga Viešpaties puota."
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "C                              G         C",
+        "F                                C",
+        "G      G7               C",
+        "             F                 G     G7 C"
+      ],
+      "chorus": [
+        "         C7     F",
+        "             C                  G-G7",
+        "     C-C7     F",
+        "            C                 G7        C F C"
+      ]
+    }
+  },
+  {
+    "number": 1113,
+    "title": "DVASIOS PILNATVĖ",
+    "sub-title": "KAIP DVASIA MŪSŲ VIDUJE",
+    "languages": {
+      "russian": 183,
+      "english": 1113
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1113",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1113_full.mp3",
+    "verses": [
+      [
+        "Štai Trivienis Dievas mūsų viduje,",
+        "Jis atėjo, kad būt mumyse.",
+        "Susilieję esam mes su Jo Dvasia,",
+        "Mums Jis teikia gyvybę Joje."
+      ],
+      [
+        "„Abba Tėve“ — šaukiame mes iš gelmių,",
+        "Tai iš dvasios, kuri mumyse.",
+        "Tai Sūnaus Dvasia, Ji šaukia mumyse,",
+        "Mums Ji teikia gyvybę Jame."
+      ],
+      [
+        "Jėzus Kristus Viešpats mūsų dvasioje —",
+        "Kaip Dvasia nuostabi mumyse.",
+        "Jis pasikeitė, kad būtų viduje,",
+        "Tam kad teiktų gyvybę Dvasia."
+      ],
+      [
+        "Reali Dvasia — Ji mūsų viduje,",
+        "Kaip Dvasia nuostabi mumyse.",
+        "Kristaus realumą perduoda Ji mums,",
+        "Nes gyvybę mes gaunam per Ją."
+      ],
+      [
+        "Mes sužadinsim šią dovaną dabar —",
+        "Kaip Dvasia Ji yra mumyse.",
+        "Šauksim: „Viešpatie“ ir mūs atgis dvasia",
+        "Su Dvasia Jo, kuri mumyse."
+      ]
+    ],
+    "chorus": [
+      "O, Jis Dvasia nuostabi mumyse,",
+      "Dvasia nuostabi mumyse.",
+      "Tėvas Sūnuje, Sūnus dabar Dvasia —",
+      "Jis Dvasia nuostabi mumyse."
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "D                               A",
+        "                      A7            D",
+        "              Bm     F#                   Bm",
+        "                 A          E7         A"
+      ],
+      "chorus": [
+        "      A7      D                           A",
+        "                       A7         D",
+        "                            B7                  Em",
+        "            A             A7          D-G-D"
+      ]
+    }
+  },
+  {
+    "number": 1127,
+    "title": "IŠGELBĖJIMO UŽTIKRINTUMAS IR DŽIAUGSMAS",
+    "sub-title": "GELBĖJIMASIS NUO PASAULIO",
+    "languages": {
+      "russian": 252,
+      "english": 1127
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1127",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1127_i.mp3",
+    "verses": [
+      [
+        "Jis mane išgelbėjo —",
+        "Negrįšiu atgal niekada.",
+        "Jis mane išgelbėjo —",
+        "Negrįšiu atgal niekada."
+      ],
+      [
+        "Babelę aš palikau —",
+        "Negrįšiu atgal niekada",
+        "Babelę aš palikau —",
+        "Negrįšiu atgal niekada"
+      ],
+      [
+        "Vietinėj Bažnyčioj aš —",
+        "Negrįšiu atgal niekada.",
+        "Vietinėj Bažnyčioj aš —",
+        "Negrįšiu atgal niekada."
+      ],
+      [
+        "Viešpatį aš paliečiau —",
+        "Negrįšiu atgal niekada",
+        "Viešpatį aš paliečiau —",
+        "Negrįšiu atgal niekada."
+      ],
+      [
+        "Viskuo Kristus tapo man —",
+        "Negrįšiu atgal niekada,",
+        "Viskuo Krislus tapo man —",
+        "Negrįšiu atgal niekada."
+      ],
+      [
+        "Pagaliau turiu namus —",
+        "Negrįšiu atgal niekada.",
+        "Pagaliau turiu namus —",
+        "Negrįšiu atgal niekada."
+      ],
+      [
+        "Už atstatymą esu —",
+        "Negrįšiu atgal niekada.",
+        "Už atstatymą esu —",
+        "Negrįšiu atgal niekada."
+      ]
+    ],
+    "chorus": [
+      "Ne, ne, ne, ne, ne.",
+      "Negrįšiu atgal niekada!",
+      "Ne, ne, ne, ne, ne.",
+      "Negrįšiu atgal niekada!"
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D        D7   G",
+        "      A         A7          D  A7",
+        "D        D7   G",
+        "      A         A7          D-G-D"
+      ],
+      "chorus": [
+        "D    D7 G",
+        "      A          A7         D-A7",
+        "D    D7 G",
+        "      A          A7         D-G-D"
+      ]
+    }
+  },
+  {
+    "number": 1141,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "DVASIOJE",
+    "languages": {
+      "russian": 342,
+      "english": 1141
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1141",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1141_i.mp3",
+    "verses": [
+      [
+        "Mes giedosime Viešpačiui dvasioj.",
+        "Mes giedosime Jam iš gelmių.",
+        "Aleliuja! Sušuksime Jėzui.",
+        "Susilieję vienybėj su Juo."
+      ],
+      [
+        "Daug mes metų religijoj buvom.",
+        "Proto valdomi buvome mes,",
+        "Jausmuose pasiklydę klajojom.",
+        "Nežinojome kur mūs dvasia."
+      ],
+      [
+        "Mokomės kreipti žvilgsnį į dvasią.",
+        "Kaip gyvybę mes priimam Jį.",
+        "Mokomės Jėzumi pasisotint.",
+        "Ir beprasmišką kovą palikt."
+      ],
+      [
+        "Jam šlovė už gyvybę Jo Dvasioj.",
+        "Jam šlovė už Jo atgaivą mums.",
+        "Kreipdamiesi nuo proto į dvasią",
+        "Ten atrasime mes Jo turtus."
+      ]
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D                       A7             D",
+        "                                          A-A7",
+        "     D          D7          G",
+        "       D         A7           D-G-D"
+      ]
+    }
+  },
+  {
+    "number": 1145,
+    "title": "KRISTAUS, KAIP MAISTO IR GĖRIMO, PATYRIMAS",
+    "languages": {
+      "russian": 362,
+      "english": 1145
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1145",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0791_i.mp3",
+    "verses": [
+      [
+        "Mums Dievas davė Sūnų čia —",
+        "Gyvybės medį dovanai,",
+        "Kad paragautume mes Jo,",
+        "Jog Dievas maistas mums.",
+        "Tai Dievas maistas mums, tai Dievas maistas mums!",
+        "Ragavę Jo mes sakome, jog Dievas maistas mums."
+      ],
+      [
+        "Puotaujam prisipildę Juo,",
+        "Tik valgant galim Juo gyvent,",
+        "Kad Dievas persunktų Savim",
+        "Esybę mus visų.",
+        "Tai Jėzus mūs puota, tai Jėzus mūs puota!",
+        "Tik valgant galim Juo gyvent, nes Jėzus mūs puota."
+      ],
+      [
+        "Mūs Jėzus Kristus maistas mums,",
+        "Kaip duona kasdieninė.",
+        "Mes žinom: atsargos Jame",
+        "Kasdienai mums visiems.",
+        "Kasdien Jis duona mums, kasdien Jis duona mums!",
+        "Mes žinom atsargos Jame, kasdienai mums visiems."
+      ],
+      [
+        "Jis toks prieinamas dabar.",
+        "Puota ši teikia džiaugsmą man.",
+        "„Kas trokšta — Dievas sako tam:",
+        "Eik gerti dovanai.“",
+        "Eik gerti dovanai, eik gerti dovanai!",
+        "„Kas trokšta — Dievas sako tam: eik gerti dovanai!“"
+      ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "D",
+        "     A                 A7   D",
+        "       G              D",
+        "       A          A7         D",
+        "     D          A           D              A          A7         D",
+        "    G                   D                  A          A7         D"
+      ]
+    }
+  },
+  {
+    "number": 1150,
+    "title": "KRISTAUS, KAIP VALGIO IR GĖRIMO, PATYRIMAS",
+    "languages": {
+      "russian": 366,
+      "english": 1150
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1150",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1069_i.mp3",
+    "verses": [
+      [
+        "Gyvybės duoną valgome,",
+        "O iš šaltinio geriame.",
+        "Ir Jėzus sako: gerk iš Jo,",
+        "Tada netrokši niekada!",
+        "Kaip, netrokšiu niekada?",
+        "Taip, netrokši niekada.",
+        "Kaip, netrokšiu niekada?",
+        "Taip, netrokši niekada!",
+        "Ir Jėzus sako: gerk iš Jo,",
+        "Tada netrokši niekada!"
+      ],
+      [
+        "Gyvybės duoną valgome,",
+        "Su Viešpačiu puotaujame.",
+        "Gyvybės duoną valgyk tu,",
+        "Tada nealksi niekada.",
+        "Kaip, nealksiu niekada?",
+        "Taip, nealksi niekada!",
+        "Kaip, nealksiu niekada?",
+        "Taip, nealksi niekada!",
+        "Gyvybės duoną valgyk tu,",
+        "Tada nealksi niekada."
+      ],
+      [
+        "Kvėpuojame gyvybe mes,",
+        "Taip prisipildom Viešpaties.",
+        "Ir kas kvėpuos gyvybe šia,",
+        "Gyvybė Dievo bus jame.",
+        "Kaip, gyvybė bus jame?",
+        "Taip, gyvybė bus jame!",
+        "Kaip, gyvybė bus jame?",
+        "Taip, gyvybė bus jame!",
+        "Ir kas kvėpuos gyvybe šia,",
+        "Gyvybė Dievo bus jame."
+      ],
+      [
+        "Gyvybės vyną geriame,",
+        "Kuris yra mūs dvasioje.",
+        "Ir kas tik geria Jį visad,",
+        "Per amžius džiaugsis jis Dieve.",
+        "Kaip, džiaugsis jis Dieve?",
+        "Taip, džiaugsis jis Dieve!",
+        "Kaip, džiaugsis jis Dieve?",
+        "Taip, džiaugsis jis Dieve!",
+        "Ir kas tik geria Jį visad,",
+        "Per amžius džiaugsis jis Dieve."
+      ],
+      [
+        "Mūs Jėzus, prisikėlęs Jis,",
+        "Kad gyvybę į mus dalint.",
+        "Ir jeigu tu Jį priėmei.",
+        "Gyvensi tu jau amžinai.",
+        "Kaip, gyvensiu amžinai?",
+        "Taip, gyvensi amžinai!",
+        "Kaip, gyvensiu amžinai?",
+        "Taip. gyvensi amžinai!",
+        "Ir jeigu tu Jį priėmei —",
+        "Gyvensi amžinai Jame."
+      ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "C                        F",
+        "   D      D7   G     G7",
+        "    C       G7     C         G",
+        "    C               G7    C",
+        "             C",
+        "             F",
+        "             D                  D7",
+        "             G               G7",
+        "    C       G7     C         G",
+        "    C                G7    C-F-C"
+      ]
+    }
+  },
+  {
+    "number": 1151,
+    "title": "KRISTAUS, KAIP VALGIO IR GĖRIMO, PATYRIMAS",
+    "languages": {
+      "russian": 367,
+      "english": 1151
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1151",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1151_i.mp3",
+    "verses": [
+      [
+        "Teka mums nuo sosto upė gyvojo vandens,",
+        "Valgyt nuo gyvybės medžio nėr mums maloniau.",
+        "Tu pažvelk! Nereiks jau saulės, nei mėnulio mums;",
+        "Nes nakties nebus!"
+      ],
+      [
+        "Iš gelmių kaip upė teka Kristus mums visiems.",
+        "Jis, kaip medis, duodantis saldžius vaisius kasdien.",
+        "Jis šviesa mums ir diena mūs, ir žvaigždė Jis mūs —",
+        "Viskas Kristus mums!"
+      ],
+      [
+        "Kad priimt gyvybę, balinsim mes drabužius.",
+        "„O, Amen ir Aleliuja“ — šauksim su džiaugsmu.",
+        "Kad pažinti Kristų, dvasią mes mankštiname;",
+        "Kristus — lobis mūs!"
+      ],
+      [
+        "Turime namus, kad saulę net atstoja mums.",
+        "Ir juose suvienijo kaip brolius Viešpats mus.",
+        "Čia visus mus Jis surinko, kad išreikšti Jį",
+        "Jo bažnyčioje!"
+      ]
+    ],
+    "chorus": [
+      "Ir Dvasia, ir Nuotaka Jam sako: Tu ateik.",
+      "Ir visi, kurie tai girdi, lai kartoja tai.",
+      "Ir kas trokšta, te ateina gerti dovanai",
+      "Gyvojo vandens!"
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "G                                                          G7",
+        "C                                                                   G",
+        "                                                  B7               Em",
+        "G          D7      G-C-G"
+      ],
+      "chorus": [
+        "                                                         G7",
+        "C                                              G",
+        "                                     B7           Em",
+        "G     D7      G-C-G"
+      ]
+    }
+  },
+  {
+    "number": 1152,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "MĖGAVIMASIS JUO",
+    "languages": {
+      "russian": 425,
+      "english": 1152
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1152",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1152_i.mp3",
+    "verses": [
+      [
+        "Vilioja Kristus mus visus kasdieną vis stipriau —",
+        "Tyresnio ir skaistesnio mes nerasime daugiau.",
+        "Nėra mums žodžių išsakyt — nėra aukščiau už Jį;",
+        "Kiekvieną dieną vis brangesnis darosi mums Jis."
+      ],
+      [
+        "Atėjus į bažnyčią Kristų mes išvydome,",
+        "Ir Jo gausi malonė išsiliejo šlovėje.",
+        "Atradome pilnatvę mes, atradom Jo turtus;",
+        "Kiekvieną dieną vis brangesnis darosi Jis mums."
+      ],
+      [
+        "Gyvybę teikianti Dvasia — Ji mūsų dvasioje.",
+        "Ji taip visus augina mus Savoj gyvybėje.",
+        "Susirinkimuos su Šventaisiais kyla mūs dvasia,",
+        "Ir Kristus tapo mums visiems brangesnis dieną šią."
+      ],
+      [
+        "Atstatymui sujungė Jis visus mus Savimi,",
+        "Kad Kristų ir Bažnyčią mes regėtume visi.",
+        "Ką turime, kas esame dalijamės šiandien;",
+        "Dėl Dievo tikslo mes, kuris brangesnis vis kasdien."
+      ]
+    ],
+    "chorus": [
+      "Negalim išsakyti, kas slypi mūsų Kristuje —",
+      "Jis lobis mūs brangiausias ir brangėja Jis kasdien."
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "G                                          C                  G",
+        "                                                A7             D",
+        "    G                                             C                     G",
+        "       C       D       G          Am      D    D7           G"
+      ],
+      "chorus": [
+        "                    C            A-A7          D      D7",
+        "     G-G7               C                      G     D7      G-C-G"
+      ]
+    }
+  },
+  {
+    "number": 1153,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "MŪSŲ PASIMĖGAVIMAS",
+    "languages": {
+      "russian": 426,
+      "english": 1153
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1153",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1153_i.mp3",
+    "verses": [
+      [
+        "Mes suradom Kristų, Jis dabar",
+        "Tapo viskas visame.",
+        "Vardo Jo kasdien mes šaukiamės —",
+        "Taip palaimoj esame."
+      ],
+      [
+        "Radom Kristų — Jis dabar Dvasia,",
+        "Jis gyvena mumyse.",
+        "Toks prieinamas yra Jis mums —",
+        "Nuolat mūsų širdyse."
+      ],
+      [
+        "Mes suradom kelią Juo gyvent:",
+        "Jo žodžiu mūs maldoje.",
+        "Jo tik šaukiamės mes nuolatos,",
+        "Valgom, geriam mes Jame."
+      ],
+      [
+        "Vietinę bažnyčią radome —",
+        "Jau namus mes turime.",
+        "Mums atsakymai bažnyčioje",
+        "Kaip palikti Babelę."
+      ],
+      [
+        "Džiaugsmui šiam nėra jokių ribų",
+        "Mūs susirinkimuose.",
+        "Viešpats duoda mums šiandien jėgų,",
+        "Jo turtuose skęstame."
+      ]
+    ],
+    "chorus": [
+      "Šiuo džiaugsmu mes džiaugiamės kiekvieną dieną.",
+      "Dievo džiaugsmas! Dievo džiaugsmas!",
+      "Šiuo džiaugsmu mes džiaugiamės kiekvieną dieną —",
+      "Nieks negali mums jo apribot."
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "G                                C      G",
+        "         D              D7",
+        "          G                       C        G",
+        "           A         A7  D   D7"
+      ],
+      "chorus": [
+        "                 G",
+        "D        D7                G",
+        "",
+        "              C    D7               G-C-G"
+      ]
+    }
+  },
+  {
+    "number": 1159,
+    "title": "KRISTAUS PATYRIMAS",
+    "sub-title": "MEILĖ JAM",
+    "languages": {
+      "russian": 403,
+      "english": 1159
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1159",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0713_i.mp3",
+    "verses": [
+      [
+        "Jėzau, sužavėtas Tavo grožiu.",
+        "Atveriu aš savo širdį Tau.",
+        "Pasilikt religijoj nenoriu,",
+        "Noriu priklausyti aš tik Tau.",
+        "Kai visad žvelgiu į Tavo šlovę,",
+        "Pradedu tada ir aš spindėt.",
+        "Aš maldauju: Jėzau, mane persunk,",
+        "Savo Dvasią su mana suliek."
+      ],
+      [
+        "Sušvytėjęs! Regiu aukštumose",
+        "Tavo sostą, o Žmogaus Sūnau!",
+        "Dievo ugnimi esu apgaubtas,",
+        "Kad su Tavimi spindėčiau.",
+        "Ir pažindamas puikumą Tavo,",
+        "Gėdoje prarandu meilę sau.",
+        "Tiktai Tau mes atiduodam šlovę,",
+        "Už Tave mums nieko nėr saldžiau."
+      ],
+      [
+        "Indą alebastrinį, o Jėzau!",
+        "Sudaužysiu aš iš meilės Tau.",
+        "Ir patepsiu galvą Tau, Valdove,",
+        "Pamiltasis, dovana ši Tau.",
+        "Dėl Tavęs aukojuos šiandien, Jėzau!",
+        "Tave myliu — tuo laimingas aš.",
+        "Savo širdyje aš meilės pilnas,",
+        "Brangų tepalą atnešiu aš."
+      ],
+      [
+        "O, pakilk ant smilkinimo kalno,",
+        "Aš ilgiuosi, Viešpatie, Tavęs.",
+        "Iš širdies šaltinio gerki, Jėzau!",
+        "Atrandu ramybę Tavyje.",
+        "Ir ne vienas dievinu Tave aš:",
+        "Su šventaisiais — Tavo Nuotaka.",
+        "O, ateik! Tavęs mes, Jėzau, laukiam;",
+        "Norim būti Tavo meilėje."
+      ]
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "D                                  Em",
+        "       A        A7            D",
+        "                            Em",
+        "           A       A7            D",
+        "                                      G",
+        "          A      A7               D",
+        "                                           Em",
+        "         A          A7              D"
+      ]
+    }
+  },
+  {
+    "number": 1170,
     "title": "KRISTAUS, KAIP GANYTOJO, PATYRIMAS",
     "languages": {
       "russian": 390,
@@ -5918,70 +5284,866 @@
         "         A              A7          D"
       ]
     }
-  },  
+  },
   {
-    "number": 106,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO PADIDĖJIMAS",
+    "number": 1191,
+    "title": "DIEVO, KAIP GYVYBĖS, PATYRIMAS",
     "languages": {
-      "russian": 152,
-      "english": 203
+      "russian": 438,
+      "english": 1191
     },
-    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/203",
-    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0203_full.mp3",
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1191",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1191_full.mp3",
     "verses": [
       [
-        "Amžinybėj Tėvo glėby,",
-        "Prieš visas pradžių pradžias.",
-        "Viengimiu Sūnum buvai Tu",
-        "Savo Tėvo šlovėje.",
-        "Kai atidavė Tave Jis,",
-        "Tu tas pats asmuo buvai,",
-        "Dvasioje pilnatvę Tavo",
-        "Mums tada Tu paskelbei."
+        "Iš gelmių dvasioje teka mums atgaiva",
+        "Tai Viešpats mūs Dievas brangus.",
+        "Tėvas — mūsų versmė, Kristus tapo vaga,",
+        "Ir gyvybę man teikia Dvasia."
       ],
       [
-        "Tu mirei ir prisikėlei,",
-        "Pirmgimiu Sūnum tapai.",
-        "Atkartojimas mes Tavo,",
-        "Jo gyvybę suteikei.",
-        "Tavyje atgimę esam —",
-        "Dievo daugelis sūnų,",
-        "Iš tiesų mes Tavo broliai,",
-        "Tokie patys, kaip ir Tu."
+        "Žaliose lankose Viešpats gano mane,",
+        "Prie tylių vandenų veda Jis.",
+        "Nei kovų, nei aistrų — tušti mano keliai,",
+        "Tik tas srautas gyvybę man teiks."
       ],
       [
-        "Viešpatie, kaip kviečio grūdas",
-        "Žemėn Tu kritai numirt,",
-        "O numiręs prisikėlei,",
-        "Gyvybe išplėtei.",
-        "Tavo prigimty atgimę",
-        "Mes kaip daugelis grūdų,",
-        "Susilieję vienoj duonoj,",
-        "Pilnumoj išreikštas Tu."
-      ],
-      [
-        "Atkūrimas, Tavo Kūnas,",
-        "Išraiška pilnatvėje,",
-        "Esam Tavo pratęsimas",
-        "Ir Tavoji nuotaka.",
-        "Padaugėjimas gyvybės,",
-        "Visas ūgis, perteklius,",
-        "Mes — išsiplėtimas Tavo,",
-        "Mūsų Tu esi Galva."
+        "Šventų Švenčiausioj gyvybę dalint,",
+        "Mane Tu, o Jėzau, šauki.",
+        "Aleliuja! Girdžiu balsą raginantį:",
+        "„Šaka vynmedžio lik tu Many“"
       ]
+    ],
+    "chorus": [
+      "Branginu srautą aš gyvąjį,",
+      "Neklausysiu aš sielos audrų.",
+      "Viešpatie, gilink srautą many,",
+      "Te gyvybė man taps vainiku."
     ],
     "chords": {
       "capo": "Capo 3",
       "verse": [
-        "D      D7    G",
-        "D                                   A7",
-        "D       D7       G",
-        "D               A-A7-D",
-        "D            A     A7",
-        "D                    G        A7",
-        "D        D7   G",
-        "D                         A-A7-D"
+        "    G                  G7        C                Am",
+        "     D                    D7               G   D",
+        "               G              G7              C          Am",
+        "       D              D7           G"
+      ],
+      "chorus": [
+        "          D              D7      G   G7",
+        "           C                          G   D",
+        "           G            G7           C  Am",
+        "         G             D            G"
+      ]
+    }
+  },
+  {
+    "number": 1196,
+    "title": "DIEVO KAIP GYVYBĖS, PATYRIMAS",
+    "languages": {
+      "russian": 441,
+      "english": 1196
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1196",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1196_i.mp3",
+    "verses": [
+      [
+        "Mūs Dievas gyvas! O, Aleliuja!",
+        "Ir mumyse Jis! O, aleliuja!",
+        "Jį paragavom,",
+        "Dalia Jis mūsų.",
+        "Ir šaukiamės Jo nuolatos."
+      ],
+      [
+        "Visi kartu mes! Kaip nuostabu tai!",
+        "Nes viena dvasioj šeima mes tapom.",
+        "Jo Kūnas esam",
+        "Ir Jį išreiškiam,",
+        "Mums Jėzus tapo realus."
+      ],
+      [
+        "Bažnyčios visos Juo prisipildė,",
+        "Nes nori, kad Jį pažintų žmonės.",
+        "Su Juo į miestus",
+        "Mes norim eiti,",
+        "Ir taip apreikšti Jį visiems."
+      ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "G                 C                  G",
+        "             D                  G      G7",
+        "           C",
+        "              G",
+        "   D        D7                 G-C-G"
+      ]
+    }
+  },
+  {
+    "number": 1206,
+    "title": "PARAGINIMAS BĖGTI LENKTYNĖSE",
+    "languages": {
+      "russian": 471,
+      "english": 1206
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1206",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1206_i.mp3",
+    "verses": [
+      [
+        "Štai lenktynės skirtos mums — Aleliuja!",
+        "Turim bėgti šiuo keliu pirmyn.",
+        "Paskui tuos, kas bėga jau — Aleliuja!",
+        "Dievas sakė mums: „Žiūrėk į Jį“."
+      ],
+      [
+        "Viską nuo savęs atmesk — Aleliuja!",
+        "Nusisuk nuo triukšmo ir kovų.",
+        "Būsi tik Jame ramus — Aleliuja!",
+        "Tik pažvelk, pažvelk tu į Jį."
+      ],
+      [
+        "Nuo audringos sielos tu — Aleliuja!",
+        "Nusisuk nuo savo nesėkmių.",
+        "Tu į tikslą pažiūrėk — Aleliuja!",
+        "Ir pažvelk, pažvelk tu į Jį."
+      ],
+      [
+        "Visą praeitį atmesk — Aleliuja!",
+        "Gėrį su blogiu paliki tu.",
+        "Ir laikykis tu tik Jo — Aleliuja!",
+        "Ir pažvelk, pažvelk tu į Jį."
+      ],
+      [
+        "Pažiūrėk į veidą Jo — Aleliuja!",
+        "Tavo kelią tik Jisai užbaigs.",
+        "Gausime malonę mes — Aleliuja!",
+        "Jeigu žvelgsime tiktai į Jį."
+      ]
+    ],
+    "chorus": [
+      "O, pažvelk, o pažvelk,",
+      "Tu į Jėzų pažiūrėk.",
+      "Ir nuo visko atsisuk tu į Jėzų",
+      "Ir pažvelk, pažvelk tu į Jį."
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "D                                 A7               D G",
+        "          D                  A7     D",
+        "                                    A7           D G",
+        "            D                        A7    D"
+      ],
+      "chorus": [
+        "                            A",
+        "      D      E7     A   A7",
+        "          D             A7       D G",
+        "       D            A7          D-G-D"
+      ]
+    }
+  },
+  {
+    "number": 1221,
+    "title": "BAŽNYČIA",
+    "sub-title": "VIEŠPATIES KAIMENĖ",
+    "languages": {
+      "russian": 593,
+      "english": 1221
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1221",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0260_i.mp3",
+    "verses": [
+      [
+        "Išvedė Jėzus iš gardo,",
+        "Tapo Ganytoju mums.",
+        "Žaliose lankose gano,",
+        "Dosniai mums teikia turtus."
+      ],
+      [
+        "Mus susiskaldžiusius rado,",
+        "Alkanus rado Jis mus.",
+        "Į gerą žemę atvedęs,",
+        "Atvėrė dvasią Jis mums."
+      ],
+      [
+        "Viešpats — Jis mūsų ganykla.",
+        "Viešpats — mūs maistas yra.",
+        "Susirinkimuose mūsų",
+        "Mus pamaitina visad."
+      ],
+      [
+        "Su Juo gyvenam ant kalno,",
+        "Mus atgaivina rasa.",
+        "Troškulio jau nebeliko —",
+        "Viešpats vanduo mūs yra."
+      ],
+      [
+        "Jis mūsų džiaugsmas, ramybė —",
+        "Nėra pavojaus čia mums.",
+        "Savo kaimenę Jis saugo",
+        "Ištikimu buvimu."
+      ]
+    ],
+    "chorus": [
+      "Šlovingoj bažnyčioj",
+      "Mes čia puotaujam su Juo.",
+      "Tie, kurie visad vienybėj,",
+      "Mėgausis gyvybe Jo."
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "G         D           G",
+        "D           D7      G  G7",
+        "C                       G",
+        "A                      A7         D7"
+      ],
+      "chorus": [
+        "     G",
+        "                    A              D  D7",
+        "G             C            G",
+        "D              D7       G"
+      ]
+    }
+  },
+  {
+    "number": 1226,
+    "title": "BAŽNYČIA",
+    "sub-title": "KAIP KRISTAUS KŪNAS",
+    "languages": {
+      "russian": 597,
+      "english": 1226
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1226",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1226_i.mp3",
+    "verses": [
+      [
+        "Kristaus Bažnyčia šlovinga, mes dalis Jos esame.",
+        "Džiaugiamės, kad mus surinko Viešpats čia.",
+        "Vienas Kūnas šioj visatoj ir tik Jam priklausome.",
+        "Aleliuja! Mes dėl Jo čia esame!",
+        "",
+        "Aleliuja! Kristaus Kūnas!",
+        "Mes visi nariai šio Kūno!",
+        "Pasišventėme dėl Kūno!",
+        "Aleliuja, mes visi kaip vienas čia!"
+      ],
+      [
+        "Niekas čia neypatingas, mes visi vienybėje,",
+        "Tik vienybėje išreiškiam Dievą mes.",
+        "Ne tik vietinėj Bažnyčioj, bet ir Kūne mes vienam.",
+        "Aleliuja! Kristaus Kūne esam mes!",
+        "",
+        "Aleliuja! Kristaus Kūnas!",
+        "Tai Šėtonas bijo Kūno!",
+        "Nugalėtojai mes Kūne!",
+        "Aleliuja! Kristaus Kūne šiandien mes."
+      ],
+      [
+        "Dievo prigimtis žibintuose auksiniuos septyniuos,",
+        "Ji nepaprasta ir šviečia mums visiems.",
+        "Tiktai Kūne turim dieviškąją prigimtį visi.",
+        "Aleliuja! Galim šviest ir mes šiandien!",
+        "",
+        "Aleliuja! Kristaus Kūnas!",
+        "Mes žibintai šiame Kūne!",
+        "Auksu spindi Kristaus Kūnas!",
+        "Aleliuja! Galim šviesti mes visi."
+      ],
+      [
+        "Kaip išlikti mums vienybėj, būti dieviškiems ir šviest?",
+        "Aleliuja! Reikia Kristų valgyt mums!",
+        "Jis gyvybės medis, mana, puota mūsų amžina.",
+        "Aleliuja! Juo maitinkimės kasdien!",
+        "",
+        "Tiktai taip vieningi būsim!",
+        "Tik taip dieviški mes būsim!",
+        "Tada šviesti mes galėsim!",
+        "Aleliuja! Kristus maistas mūs yra."
+      ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "G                                                  C                  G",
+        "                                         A                     D  D7",
+        "           G                 G7             C                    G ",
+        "                            D7           G",
+        "                           ",
+        "G                          ",
+        "          D                 D7",
+        "       G-G7             C",
+        "G                    D7                   G-C-G"
+      ]
+    }
+  },
+  {
+    "number": 1229,
+    "title": "BAŽNYČIA",
+    "sub-title": "KRISTAUS NUOTAKA",
+    "languages": {
+      "russian": 599,
+      "english": 1229
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1229",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0824_i.mp3",
+    "verses": [
+      [
+        "Tava širdis Bažnyčioj.",
+        "Tu trokšti, Kristau, Jos.",
+        "Ar veikime, ar žody —",
+        "Tu nepamiršti Jos.",
+        "Prieš sukuriant pasaulį",
+        "Jau apie Ją mąstei;",
+        "Ir niekas negalėjo",
+        "Minčių nuo Jos nukreipt."
+      ],
+      [
+        "Visatos dar nebuvo,",
+        "O Tu žinojai jau.",
+        "Buvai apmąstęs viską:",
+        "Kaip Nuotaką įgaut.",
+        "Nors kūriniją Savo",
+        "Širdies gelmėj matei,",
+        "Bet troškai Tu tik vieno —",
+        "Tik Nuotakos šlovėj."
+      ],
+      [
+        "Tava valią, o Kristau —",
+        "Stipresnės nėr už ją:",
+        "Tik Nuotaką įgyti",
+        "Kad būt Tau poroje.",
+        "Nors nuodėmė mus gundo,",
+        "Išjuokus silpnume —",
+        "Tu Nuotakos Savosios",
+        "Nebeatstumsi, ne."
+      ],
+      [
+        "Nesibaigiančia meile,",
+        "Su gailesčiu širdy",
+        "Ieškojai nepaliaujant,",
+        "Jos laukei ilgesy.",
+        "Gyvybę Tu kaip auką;",
+        "Atidavei už Ją.",
+        "Gyvybę dovanojai:",
+        "Taip gimė Nuotaka."
+      ],
+      [
+        "Savam prisikėlime",
+        "Jai artimu tapai.",
+        "Kaip būsi sužavėtas",
+        "Kai Ji jau bus šlovėj.",
+        "Vienintelis Jos tikslas,",
+        "Tik vieno trokšta Ji:",
+        "Kad amžiais būti pora,",
+        "Kurios taip trokšta Jis."
+      ]
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "D                     A",
+        "     G         A7         D",
+        "                       G",
+        "             D        A",
+        "         D                 G   D",
+        "       B7              Em",
+        "   D                G",
+        "      A           A7      D"
+      ]
+    }
+  },
+  {
+    "number": 1232,
+    "title": "BAŽNYČIA",
+    "sub-title": "KAIP VIENAS NAUJAS ŽMOGUS",
+    "languages": {
+      "russian": 602,
+      "english": 1232
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1232",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1232_i.mp3",
+    "verses": [
+      [
+        "Buvom mirę nuodėmėse mes,",
+        "Bet Dievas malonės apstus.",
+        "Atgaivino ir prikėlė mus,",
+        "Pasodino mus su Kristumi danguj."
+      ],
+      [
+        "Su šventaisiais galim mes patirt",
+        "Plotį, gylį, aukštį Dieve.",
+        "Ir suvokti Kristaus meilę mums,",
+        "Kad galėtume būt Jo pilnatvėje."
+      ],
+      [
+        "Šiandien paslaptis mums atskleista —",
+        "Dievo planą žinome mes.",
+        "Kristų ir Bažnyčią regime,",
+        "Senas priešas tik per Juos jau gėdoje."
+      ],
+      [
+        "O, sustiprink, Tėve, mus Dvasia,",
+        "Žmoguje vidiniame.",
+        "Meile mus įtvirtink, įšaknyk,",
+        "Per tikėjimą visų mūs širdyse."
+      ],
+      [
+        "Gyvybingi ryšiai jungia mus,",
+        "Kristaus Kūnas esame mes.",
+        "Džiaugiamės kiekvienu mes nariu,",
+        "Kristaus Kūnas ugdomas tik meilėje."
+      ],
+      [
+        "Kad įvykdyt Jo sumanymą,",
+        "Viešpats suvienijo mus.",
+        "Mes Jame dabar Naujas Žmogus —",
+        "Kūne Jam šlovė ir Kristuje. Amen!"
+      ]
+    ],
+    "chorus": [
+      "Jėzus kartu visus mus renka.",
+      "Vieningi sieloj mes visad.",
+      "Jo meilė išaugina mus,",
+      "Kad pasiektume pilnatvę Kristaus mes."
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "G                  C                 G",
+        "                   A            D         D7",
+        "G     G7   C            G",
+        "                             D7               G"
+      ],
+      "chorus": [
+        "G-G7      C",
+        "G           A7               D",
+        "     G-G7 C ",
+        "           G                 D7                   G"
+      ]
+    }
+  },
+  {
+    "number": 1237,
+    "title": "BAŽNYČIA",
+    "sub-title": "KAIP MŪSŲ NAMAI IR RAMYBĖ",
+    "languages": {
+      "russian": 607,
+      "english": 1237
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1237",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1237_i.mp3",
+    "verses": [
+      [
+        "Sodas dieviškas Bažnyčioje, mes pasiliksim čia,",
+        "Kur augins Sava gyvybe Kristus mus.",
+        "Ir visiems Šventiesiems pilnas pasimėgavimo Jis,",
+        "Toks brangus, prieinamas, kad valgyt Jį."
+      ],
+      [
+        "Ne gamykla, ne mokykla, ne koplyčia danguje —",
+        "Sodas čia kur Viešpats gali sėt ir pjaut.",
+        "Jis visus mus čia surinko — sodas Jo mes esame,",
+        "Dirbdamas mumyse nori mus augint."
+      ],
+      [
+        "Čia gyvybės medis auga, duoda vaisius jisai mums,",
+        "Pilnas jis gyvybės, mums prieinamas.",
+        "Negudrauk ir nesipriešink, skink ir valgyk šiuos vaisius",
+        "Ir priimk saldumą Jėzaus visada."
+      ],
+      [
+        "Šalia šito medžio Dievas, Kristuje mums teka Jis,",
+        "Kad sausumą ir sunkumus nugalėt.",
+        "Aleliuja! Jėzus nori į šį sodą mums tekėt",
+        "Ir drėkint mus, kad gyvybėj augtume."
+      ],
+      [
+        "Gal sode tu nelaimingas, o gal nedėkingas tu",
+        "Už gausumą tekantį iš Dievo mums.",
+        "Dvasioje su Juo puotaujant prisipildyki džiaugsmu,",
+        "Kad galėtum gausiai vaisių nešti tu."
+      ]
+    ],
+    "chorus": [
+      "Koks laimingas aš šiame sode,",
+      "Augu Viešpaties malonėje.",
+      "Valgyt nuo gyvybės medžio",
+      "Nėra nieko maloniau,",
+      "Troškulį malšint gyvybės vandeniu."
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "G                                                    C",
+        "           D                 D7                 G",
+        "                                                        C",
+        "                D                D7                      G-C-G"
+      ],
+      "chorus": [
+        "             G7       C",
+        "D                 D7              G",
+        "                                G7 ",
+        "         C        ",
+        "          D                 D7               G-C-G"
+      ]
+    }
+  },
+  {
+    "number": 1248,
+    "title": "BAŽNYČIA",
+    "sub-title": "PASIŠVENTIMAS JAI",
+    "languages": {
+      "russian": 612,
+      "english": 1248
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1248",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1248_i.mp3",
+    "verses": [
+      [
+        "Prisiekė Dovydas:",
+        "„Statysiu aš namus Jam“.",
+        "Pašvęsiu Jam save",
+        "Ir tol aš neužmigsiu,",
+        "Kol nesurasiu Viešpačiui",
+        "Gyvenimui namų,",
+        "Kur nori Jis gyventi ten",
+        "Su Savo sūnumis."
+      ],
+      [
+        "Kai rūpesčių srautu",
+        "Apakinti mes buvom,",
+        "Jo trokštamus namus",
+        "Palikom apleistus mes.",
+        "O, širdis mūsų Tu atgręžk,",
+        "Į kalną eisim mes,",
+        "Nelauksime kitos dienos —",
+        "Atėjome statyt."
+      ],
+      [
+        "Atremt piktoms dienoms",
+        "Įkvėpk statyti mus Tu.",
+        "Kas išrinktas Tavęs",
+        "Kaip Dovydas te būna.",
+        "Malonėj Tavo stato jis,",
+        "Palaimintas Tavęs,",
+        "Kad įgyvendintų šiandien",
+        "Troškimą Viešpaties."
+      ],
+      [
+        "Į tuos, ką išrinkai,",
+        "Įdėk troškimą Savo",
+        "Tau viską atiduot,",
+        "Ugdyt Bažnyčią Tavo.",
+        "Jos nugalėti negalės",
+        "Net vartai pragaro,",
+        "Nors mūs mažai, bet Tu arti,",
+        "O Viešpatie, statyk."
+      ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "D                    F#m",
+        "      G                A              A7",
+        "    D                    F#m",
+        "   G               A         A7",
+        "      G              D",
+        "Em A   F#m   Bm",
+        "      G     D       G      D",
+        "     G       A7    D"
+      ]
+    }
+  },
+  {
+    "number": 1287,
+    "title": "DVASINĖ KOVA",
+    "sub-title": "ŽEMĖS UŽVALDYMAS",
+    "languages": {
+      "russian": 648,
+      "english": 1287
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1287",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1118_i.mp3",
+    "verses": [
+      [
+        "Užimsime mes žemę Dievo duotą mums,",
+        "Nes Kristuje mes galim daug pasiekt.",
+        "Kad ją užimt, mes esame aprūpinti",
+        "Dvasia, Žodžiu, Bažnyčia ir Krauju."
+      ],
+      [
+        "Mes turim kraują! Jo dėka ryžtingi mes.",
+        "Mūs Kristus Dievui tinkama auka.",
+        "Ir kraujas šis apvalo mus visus kasdien,",
+        "Todėl apstus mums Dievas malone."
+      ],
+      [
+        "Mes turim Žodį — maistas mūs yra kasdien,",
+        "Skaitydami kartojame „Amen“.",
+        "Šis Žodis kalba mūsų viduje kasdien",
+        "Ir veda mus Jis Viešpaties šlovėn."
+      ],
+      [
+        "Mes turim Dvasią! Tiesą turime per Ją.",
+        "Ji nepriklausoma nuo mūs jausmų.",
+        "Dvasia gyvena mūsų viduje kartu",
+        "Ir veda mus siauru tiesos keliu."
+      ],
+      [
+        "Bažnyčią turim! Tik joje mes galime",
+        "Pilnatvę visą Viešpaties turėt.",
+        "Ir visaapimantis Kristus taps visų",
+        "Ir bus šventųjų viskas visame."
+      ]
+    ],
+    "chorus": [
+      "* Sesės *",
+      "Tai užvaldykim žemę, broliai!",
+      "Ją Dievas mums atidavė.",
+      "Greičiau užimkim ir užvaldykim",
+      "Kaip bus šlovinga ją įgyt.",
+      "* Broliai *",
+      "Tai užvaldykim žemę, sesės!",
+      "Tikėdami giliai širdy.",
+      "Ir neikim patys, kaip daugel metų,",
+      "Juk Viešpats veda mus pirmyn."
+    ],
+    "chords": {
+      "capo": "Capo 3",
+      "verse": [
+        "G",
+        "       D                   A7                  D",
+        "       G                    C",
+        "      G                       D7               G"
+      ],
+      "chorus": [
+        "",
+        "G",
+        "                                   Am",
+        "                D                     D7",
+        "                                  G   D",
+        "",
+        "              G                       ",
+        "           G7            C",
+        "                                             G",
+        "                     C      D          G"
+      ]
+    }
+  },
+  {
+    "number": 1299,
+    "title": "KARALYSTĖ",
+    "sub-title": "JOS SĖKLA",
+    "languages": {
+      "english": 1299
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1299",
+    "melody-url": "https://www.hymnal.net/Hymns/NewTunes/mp3/e1299_new.mp3",
+    "verses": [
+      [
+        "Mūs Kūrėjas turi tikslą, dėl kurio mes žemėje,",
+        "Atspindėdami Jo šlovę, valdžią Jo išreiškiame.",
+        "Nors žmogus ir nusidėjo, nebematė jau prasmės —",
+        "Mūsų Dievo Karalyste per Jo Sūnų suklestės."
+      ],
+      [
+        "Jėzus, Gelbėtojas mūsų, Tėvo siųstas žemėje.",
+        "Jis dabar — Dvasia, Gyvybe gali augti žmoguje.",
+        "Tarsi sėkla mūsų dvasioj Kristus auga, plečiasi;",
+        "Kol mes tapsime galiausiai Jo gyvybės vaisiumi."
+      ],
+      [
+        "Broliai, sesės, laikas trumpas — Kristus laukia Nuotakos.",
+        "Jis — sugrįžti neuždelstų, jei gyvybė sulapos.",
+        "Nesistenkime kovoti, o tik savo vidumi",
+        "Atsigręžkime į Kristų, persikeiskime į Jį."
+      ]
+    ],
+    "chorus": [
+      "Jėzaus Kristaus Karalystė, nepaisant priešiškų planų,",
+      "Reali, tvirta, galinga auga širdyse žmonių.",
+      "Tik beverčiai išvedžiojimai mus moko: laukite mirties,",
+      "Kristus stato Karalystę žemėje dabar išties."
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "C                  G              Am                 Em",
+        "F                C                  Dm7            G",
+        "C                       G             Am           Em ",
+        "F                  C             Dm      F       G G7 C"
+      ],
+      "chorus": [
+        "C                              Em         F                             C",
+        "                       Em    F                         C",
+        "                            Em                 F                        C",
+        "            Em           F-Dm7     G              C"
+      ]
+    }
+  },
+  {
+    "number": 1314,
+    "title": "ŠLOVĖS VILTIS",
+    "sub-title": "VESTUVIU DIENA",
+    "languages": {
+      "russian": 711,
+      "english": 1314
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1314",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0175_i.mp3",
+    "verses": [
+      [
+        "Greit Viešpats vėl sugrįš,",
+        "Laukiame Jo visi.",
+        "Palaimingiausia diena ši bus.",
+        "Galime tik Tavy",
+        "Mylėt ir būt gyvi,",
+        "Esi Jaunikis mūs visų."
+      ],
+      [
+        "Nepastebėsime,",
+        "Kaip Jį išgirsime",
+        "Ir danguje mes išvysim Jį.",
+        "Kokia palaiminta",
+        "Bus ši akimirka —",
+        "Jaunikis su Jaunąja bus."
+      ],
+      [
+        "Dienos trumpėja jau.",
+        "Greit jos prabėgs, tačiau",
+        "Jėzus, mūs Viešpats, pas mus ateis.",
+        "Trokštame su Tavim",
+        "Vienybėje gyvent —",
+        "Tu pakerėjai mūs širdis."
+      ],
+      [
+        "Susitikimas greit,",
+        "Viešpats suskubs ateit",
+        "Nuotakos Savo pasiimt.",
+        "O, aleliuja!",
+        "Džiaugiasi mūs dvasia,",
+        "Palaimintas Jaunikis bus."
+      ]
+    ],
+    "chords": {
+      "capo": "Capo 1",
+      "verse": [
+        "D                     A7     D",
+        "                 A7   D",
+        "D                            G      A7",
+        "D          B7   Em",
+        "             A7      D",
+        "           G       A    A7-D"
+      ]
+    }
+  },
+  {
+    "number": 1331,
+    "title": "GEROJI ŽINIA",
+    "languages": {
+      "russian": 789,
+      "english": 1331
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1331",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1331_i.mp3",
+    "verses": [
+      [
+        "Tu paragauk, koks geras Jis,",
+        "Ir regėsi tu, koks geras Jis.",
+        "Jis geras tau ir Jis geras man,",
+        "Ką beveiktum tu — visad ragauk."
+      ],
+      [
+        "Viešpatie Jėzau — šauki Jį!",
+        "Viešpatie Jėzau — šauki Jį!",
+        "Malonė po malonės,",
+        "Tau ji gyvenimą staiga pakeis."
+      ],
+      [
+        "Širdis pajus, kai meilė plūs,",
+        "Širdis pajus, kai meilė plūs.",
+        "Ir iš dangaus pripildys ją,",
+        "Pažinsi Dievą tu sava dvasia."
+      ],
+      [
+        "Už Jo gyvybę šlovink Jį,",
+        "Ji mumyse — tu šlovink Jį.",
+        "Išliejo Kristų į tave,",
+        "Jisai gyvybė — gyvenki ja."
+      ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "            D-G-D       G        D-G-D",
+        "             F#m-Bm          Em A7",
+        "               D-D7                G  Gm",
+        "                       D-A7             D-G-D"
+      ]
+    }
+  },
+  {
+    "number": 1336,
+    "title": "RAŠTO VIETOS GIEDOJIMUI",
+    "sub-title": "PSALMĖ 116:12—13",
+    "languages": {
+      "russian": 793,
+      "english": 1336
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1336",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1336_i.mp3",
+    "verses": [
+      [
+        "Kuo Viešpačiui atlyginsiu",
+        "Už visa, už visa, už visa ką padarė Jis?",
+        "Priimsiu gelbėjimo taurę,",
+        "Ir šauksiuos, ir šauksiuos, ir šauksiuos",
+        "Vardo mano Viešpaties."
+      ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "D               G       D",
+        "            A          D            G               A  A7",
+        "D           G              D",
+        "D                A                   D",
+        "G        A                  D"
+      ]
+    }
+  },
+  {
+    "number": 1343,
+    "title": "RAŠTO VIETOS GIEDOJIMUI",
+    "sub-title": "EVANGELIJA PAGAL JONĄ 13:34",
+    "languages": {
+      "russian": 799,
+      "english": 1343
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1343",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1154_i.mp3",
+    "verses": [
+      [
+        "Naują įsakymą Aš duodu jums:",
+        "„Tad mylėkit viens kitą, kaip Aš myliu jus“",
+        "„Tad mylėkit viens kitą, kaip Aš myliu jus“",
+        "Pažins visi jus, kad mokiniai jūs Mano,",
+        "Jei meilę saugosit visad tarp savęs.",
+        "Pažins visi jus, kad mokiniai jūs Mano,",
+        "Jei meilę saugosit visad tarp savęs."
+      ]
+    ],
+    "chords": {
+      "capo": "",
+      "verse": [
+        "D         Bm       Em           A",
+        "             F#m          Bm         G             A",
+        "             F#m          Bm         G   A       D",
+        "    Bm    F#m           D                Bm",
+        "      G                F#m               A D",
+        "    Bm     F#m          D                 Bm",
+        "      G                F#m                  A-D"
       ]
     }
   }

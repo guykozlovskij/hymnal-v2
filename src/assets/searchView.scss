@@ -8,23 +8,37 @@
   padding-right: 20px;
 }
 
-#search-bar {
-  margin-bottom: 30px;
-  padding: 10px 14px;
-  font-size: 14px;
-  width: 250px;
-  color: #555;
-  background-image: none;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+#search-and-settings {
+  display: flex;
+  align-items: center;
+  padding-bottom: 30px;
+  #search-bar {
+    padding: 10px 14px;
+    font-size: 16px;
+    width: 250px;
+    color: #555;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 20px;
+  }
+  .vue-icon {
+    background: transparent;
+    fill: rgb(158, 158, 158);
+    border: 0px;
+  }
+
+  .vue-icon:hover {
+    fill: rgb(91, 91, 91);
+  }
 }
 
 #search-list {
-  line-height: 1.42857143;
+  line-height: 1.5;
   width: 100%;
   max-width: 380px;
   a {
-    font-size: 17px;
+    font-size: 18px;
   }
 }
 

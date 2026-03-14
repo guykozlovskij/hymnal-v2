@@ -15,23 +15,25 @@
   }
 }
 
-#change-log {
-  h3 {
-    padding-bottom: 0px;
-  }
-  margin-top: 50px;
-  max-width: 800px;
+.setting {
+  height: 40px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  border-radius: 30px;
-  background-color: $accent-light;
-  .update-card {
-    width: 90%;
-
+  justify-content: space-between;
+  width: 250px;
+  p {
+    font-size: 20px;
   }
 }
 
+hr.solid {
+  border-top: 1px solid #bbb;
+  width: 300px;
+}
+
+
+//*  Toggle Start
 /* The switch - the box around the slider */
 .switch {
   position: relative;
@@ -94,20 +96,5 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+//*  Toggle End
 
-.setting {
-  height: 40px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  width: 250px;
-  p {
-    font-size: 20px;
-  }
-}
-
-hr.solid {
-  border-top: 1px solid #bbb;
-  width: 300px;
-}
