@@ -55,7 +55,7 @@ export default {
 
 <template>
   <main>
-    <div class="top">Paieška</div>
+    <div class="top">Himnynas</div>
     <section id="search-view">
       <div id="search-and-settings">
         <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue"
