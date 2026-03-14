@@ -60,15 +60,23 @@ export default {
     <div class="top">Paieška</div>
     <section id="search-view">
       <div id="search-and-settings">
-        <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue" placeholder="Paieška..." type="search">
-        <a @click="$router.push(`/settings`)" role="link"><v-icon class="vue-icon" name="bi-gear-wide" scale="2"/></a>
+        <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue"
+          placeholder="Paieška..." type="search">
+        <a @click="$router.push(`/settings`)" role="link"><v-icon class="vue-icon" name="bi-gear-wide" scale="2" /></a>
       </div>
       <section id="search-list">
-        <div class="search-wrapper" v-for="(hymn, index) in hymnsFiltered" :key="index" @click="$router.push(`/hymns/${hymn.number}`)" role="link">
-          <div class="search-result-line" v-bind:style="{ backgroundColor: colors[index % 2]}">
-            <a>{{ hymn.number }}. {{ hymn.verses[0][0].replace(/\.$|\,$|\:$|\!$|\—$/, "") }}</a>
+        <template v-for="(hymn, index) in hymnsFiltered" :key="index">
+          <div v-if="index === 0 || hymn.category !== hymnsFiltered[index - 1].category" class="category">
+            {{ hymn.category }}
           </div>
-        </div>
+          <div class="search-wrapper" @click="$router.push(`/hymns/${hymn.number}`)" role="link">
+            <div class="search-result-line" :style="{ backgroundColor: colors[index % 2] }">
+              <a>
+                {{ hymn.number }}. {{ hymn.verses[0][0].replace(/\.$|\,$|\:$|\!$|\—$/, "") }}
+              </a>
+            </div>
+          </div>
+        </template>
       </section>
     </section>
   </main>

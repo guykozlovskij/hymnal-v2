@@ -1,8 +1,8 @@
 [
   {
     "number": 7,
-    "title": "TRIVIENIO DIEVO PALAIMINIMAS",
-    "sub-title": "GYRIUS JAM",
+    "category": "Trejybės Palaiminimas",
+    "subcategory": "Jo Gyrius",
     "languages": {
       "russian": 4,
       "english": 7
@@ -47,7 +47,8 @@
   },
   {
     "number": 11,
-    "title": "TĖVO, KAIP DVASIOS, GARBINIMAS",
+    "category": "Tėvo Garbinimas",
+    "subcategory": "Kaip Dvasios",
     "languages": {
       "russian": 7,
       "english": 11
@@ -110,7 +111,8 @@
   },
   {
     "number": 13,
-    "title": "TĖVO, KAIP MEILĖS ŠVIESOS, GARBINIMAS",
+    "category": "Tėvo Garbinimas",
+    "subcategory": "Kaip meilės ir šviesos",
     "languages": {
       "russian": 9,
       "english": 13
@@ -191,7 +193,8 @@
   },
   {
     "number": 14,
-    "title": "TĖVO GARBINIMAS UŽ JO NEMIRTINGUMĄ",
+    "category": "Tėvo Garbinimas",
+    "subcategory": "Jo nemirtingumas",
     "languages": {
       "russian": 10,
       "english": 14
@@ -242,7 +245,8 @@
   },
   {
     "number": 16,
-    "title": "TĖVO GARBINIMAS UŽ JO NAUJUMĄ",
+    "category": "Tėvo Garbinimas",
+    "subcategory": "Jo naujumas",
     "languages": {
       "russian": 12,
       "english": 16
@@ -301,12 +305,7 @@
     ],
     "chords": {
       "capo": "",
-      "verse": [
-        "     C",
-        "      G        G7  C",
-        "     C",
-        "     D      D7      G-G7"
-      ],
+      "verse": ["     C", "      G        G7  C", "     C", "     D      D7      G-G7"],
       "chorus": [
         "     C                   F  C",
         "     F         C    G",
@@ -317,7 +316,8 @@
   },
   {
     "number": 17,
-    "title": "TĖVO GARBINIMAS JO DIDYBĖ",
+    "category": "Tėvo Garbinimas",
+    "subcategory": "Jo didybė",
     "languages": {
       "russian": 13,
       "english": 17
@@ -374,7 +374,8 @@
   },
   {
     "number": 22,
-    "title": "TĖVO GARBINIMAS UŽ JO ŠVENTUMĄ",
+    "category": "Tėvo Garbinimas",
+    "subcategory": "Jo šventumas",
     "languages": {
       "russian": 18,
       "english": 22
@@ -431,7 +432,8 @@
   },
   {
     "number": 30,
-    "title": "TĖVO GARBINIMAS JO MEILĖ",
+    "category": "Tėvo Garbinimas", 
+    "subcategory": "Jo meilė",
     "languages": {
       "russian": 26,
       "english": 30
@@ -457,12 +459,7 @@
         "Kad taptume mes sūnumis,",
         "Paveldėję turtus."
       ],
-      [
-        "Gyvybę turime Jame.",
-        "Tu Tėvu mūs tapai.",
-        "Esybę Savo ir Save",
-        "Tu mums atidavei."
-      ],
+      ["Gyvybę turime Jame.", "Tu Tėvu mūs tapai.", "Esybę Savo ir Save", "Tu mums atidavei."],
       [
         "Tava Dvasia mūs dvasioje.",
         "Tau „Abba“ šaukiame.",
@@ -500,7 +497,8 @@
   },
   {
     "number": 39,
-    "title": "TĖVO GARBINIMAS UŽ JO ATPIRKIMĄ",
+    "category": "Tėvo Garbinimas",
+    "subcategory": "Jo atpirkimas",
     "languages": {
       "russian": 31,
       "english": 39
@@ -528,8 +526,10 @@
       ]
     ],
     "chorus": [
-      "Tau šlovė! Tau šlovė! Te išgirsta Tave!",
-      "Tau šlovė! Tau šlovė! Džiaugias žemė visa!",
+      "Tau šlovė! Tau šlovė!",
+      "Te išgirsta Tave!",
+      "Tau šlovė! Tau šlovė!",
+      "Džiaugias žemė visa!",
       "Ateikit per Sūnų, šlovė Tėvui Jo!",
       "Nuostabūs darbai, ką atliko Jisai!"
     ],
@@ -542,8 +542,10 @@
         "     G         D         A          D"
       ],
       "chorus": [
-        "           D                                        A",
-        "           A7                                              D",
+        "           D",
+        "                     A",
+        "           A7",
+        "                            D",
         "                                A             D",
         "       G              D            A      D"
       ]
@@ -551,7 +553,8 @@
   },
   {
     "number": 40,
-    "title": "TĖVO GARBINIMAS JO ATPIRKIMAS",
+    "category": "Tėvo Garbinimas",
+    "subcategory": "Jo atpirkimas",
     "languages": {
       "russian": 32,
       "english": 40
@@ -559,30 +562,15 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/40",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0040_full.mp3",
     "verses": [
-      [
-        "Tau dėkojam visi,",
-        "Tėve, Sūnų davei.",
-        "Tik per Jį atpirkti,",
-        "Nes Tu mus pamilai."
-      ],
+      ["Tau dėkojam visi,", "Tėve, Sūnų davei.", "Tik per Jį atpirkti,", "Nes Tu mus pamilai."],
       [
         "Kristus Gelbėtojas —",
         "Tavo meilės Sūnus.",
         "Jau išaukštintas Jis,",
         "Nes Jis mirė už mus."
       ],
-      [
-        "Tu šlovingas esi,",
-        "Davei Dvasią šviesos.",
-        "Ji apreiškė mums Kristų —",
-        "Neliko tamsos."
-      ],
-      [
-        "Tėvą šloviname,",
-        "Kurs pamilo taip mus.",
-        "Jėzaus išpirkimu",
-        "Meilę rodo Jis mums."
-      ],
+      ["Tu šlovingas esi,", "Davei Dvasią šviesos.", "Ji apreiškė mums Kristų —", "Neliko tamsos."],
+      ["Tėvą šloviname,", "Kurs pamilo taip mus.", "Jėzaus išpirkimu", "Meilę rodo Jis mums."],
       [
         "Vėl mes giriam Tave,",
         "Nes mes meilės pilni.",
@@ -598,23 +586,14 @@
     ],
     "chords": {
       "capo": "Capo 3",
-      "verse": [
-        "D",
-        "",
-        "",
-        "            A"
-      ],
-      "chorus": [
-        "     D",
-        "     G        A",
-        "     D",
-        "    A        A7-D"
-      ]
+      "verse": ["D", "", "", "            A"],
+      "chorus": ["     D", "     G        A", "     D", "    A        A7-D"]
     }
   },
   {
     "number": 41,
-    "title": "TĖVO GARBINIMAS JO IŠPIRKIMAS",
+    "category": "Tėvo Garbinimas",
+    "subcategory": "Jo atpirkimas",
     "languages": {
       "russian": 33,
       "english": 41
@@ -671,8 +650,8 @@
   },
   {
     "number": 57,
-    "title": "GYRIUS VIEŠPAČIUI",
-    "sub-title": "UŽ JO DIEVIŠKUMĄ",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo Dieviškumas",
     "languages": {
       "russian": 46,
       "english": 57
@@ -723,8 +702,8 @@
   },
   {
     "number": 62,
-    "title": "GYRIUS VIŠPAČIUI",
-    "sub-title": "UŽ JO ŽMOGIŠKUMĄ",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo žmogikšumas",
     "languages": {
       "russian": 49,
       "english": 62
@@ -773,12 +752,7 @@
         "Nors ir būsi Tu Dievu."
       ]
     ],
-    "chorus": [
-      "Tavo puikume mes",
-      "Matom Dievo šlovę,",
-      "Ir visa pilnatvė Dievo",
-      "Buvo Žmoguje."
-    ],
+    "chorus": ["Tavo puikume mes", "Matom Dievo šlovę,", "Ir visa pilnatvė Dievo", "Buvo Žmoguje."],
     "chords": {
       "capo": "Capo 1",
       "verse": [
@@ -791,18 +765,13 @@
         "D                     G      D",
         "G       D        A7  D"
       ],
-      "chorus": [
-        "D               A",
-        "             A7     D",
-        "D            G",
-        "D        A7    D"
-      ]
+      "chorus": ["D               A", "             A7     D", "D            G", "D        A7    D"]
     }
   },
   {
     "number": 67,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO VARDAS",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo vardas",
     "languages": {
       "russian": 52,
       "english": 67
@@ -859,8 +828,8 @@
   },
   {
     "number": 79,
-    "title": "VIEŠPATIES GARBINIMAS",
-    "sub-title": "JO VARDAS",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo vardas",
     "languages": {
       "russian": 60,
       "english": 79
@@ -886,12 +855,7 @@
         "Numatęs buvo gelbėti",
         "Visus mus nuo mirties."
       ],
-      [
-        "Jis užvaldys visas žemes",
-        "Ir karalystes.",
-        "Jis bus vaidinamas visų",
-        "Galinguoju Dievu."
-      ]
+      ["Jis užvaldys visas žemes", "Ir karalystes.", "Jis bus vaidinamas visų", "Galinguoju Dievu."]
     ],
     "chorus": [
       "Šlovink vardą šį, šlovink vardą šį.",
@@ -917,8 +881,8 @@
   },
   {
     "number": 82,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "UŽ JO ĮSIKŪNIJIMĄ",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo įsikūnijimas",
     "languages": {
       "russian": 66,
       "english": 82
@@ -969,8 +933,8 @@
   },
   {
     "number": 84,
-    "title": "GYRIUS VIEŠPAČIUI",
-    "sub-title": "UŽ JO ĮSIKŪNIJIMĄ",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo įsikūnijimas",
     "languages": {
       "russian": 67,
       "english": 84
@@ -1045,7 +1009,8 @@
   },
   {
     "number": 116,
-    "title": "VIEŠPATIES ŠLOVINIMAS UŽ JO IŠGELBĖJIMĄ",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo išgelbėjimas",
     "languages": {
       "russian": 84,
       "english": 116
@@ -1119,8 +1084,8 @@
   },
   {
     "number": 132,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO IŠAUKŠTINIMAS",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo išaukštinimas",
     "languages": {
       "russian": 97,
       "english": 132
@@ -1183,8 +1148,8 @@
   },
   {
     "number": 152,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO MEILĖ",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo meilė",
     "languages": {
       "russian": 114,
       "english": 152
@@ -1239,8 +1204,8 @@
   },
   {
     "number": 154,
-    "title": "GYRIUS VIEŠPAČIUI",
-    "sub-title": "UŽ JO MEILĘ",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo meilė",
     "languages": {
       "russian": 116,
       "english": 154
@@ -1303,8 +1268,8 @@
   },
   {
     "number": 170,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": " UŽ JO GROŽĮ",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo grožis",
     "languages": {
       "russian": 123,
       "english": 170
@@ -1367,8 +1332,8 @@
   },
   {
     "number": 172,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "UŽ JO GROŽĮ",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo grožis",
     "languages": {
       "russian": 125,
       "english": 172
@@ -1431,8 +1396,8 @@
   },
   {
     "number": 181,
-    "title": "GYRIUS VIEŠPAČIUI",
-    "sub-title": "",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo vertingumas",
     "languages": {
       "russian": 131,
       "english": 181
@@ -1497,8 +1462,8 @@
   },
   {
     "number": 190,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JIS VISA APIMANTIS",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo visapimantiškumas",
     "languages": {
       "russian": 138,
       "english": 190
@@ -1567,8 +1532,8 @@
   },
   {
     "number": 203,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO PADIDĖJIMAS",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo padidėjimas",
     "languages": {
       "russian": 152,
       "english": 203
@@ -1633,8 +1598,8 @@
   },
   {
     "number": 221,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO PRISIMINIMAS",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo prisiminimas",
     "languages": {
       "russian": 163,
       "english": 221
@@ -1692,8 +1657,8 @@
   },
   {
     "number": 223,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO PRISIMINIMAS",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo prisiminimas",
     "languages": {
       "russian": 165,
       "english": 223
@@ -1748,8 +1713,8 @@
   },
   {
     "number": 233,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO PRISIMINIMAS",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Jo prisiminimas",
     "languages": {
       "russian": 170,
       "english": 233
@@ -1806,8 +1771,8 @@
   },
   {
     "number": 241,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "BENDRAS HIMNAS",
+    "category": "Viešpaties Šlovinimas",
+    "subcategory": "Bendra kategorija",
     "languages": {
       "russian": 180,
       "english": 241
@@ -1850,8 +1815,8 @@
   },
   {
     "number": 251,
-    "title": "DVASIOS PILNATVĖ",
-    "sub-title ": "KAIP GYVASIS VANDUO",
+    "category": "Dvasios Pilnatvė",
+    "subcategory ": "Kaip gyvasis vanduo",
     "languages": {
       "russian": 192,
       "english": 251
@@ -1920,8 +1885,8 @@
   },
   {
     "number": 255,
-    "title": "DVASIOS PILNATVĖ",
-    "sub-title": "KVĖPAVIMAS DVASIA",
+    "category": "Dvasios Pilnatvė",
+    "subcategory": "Kaip kvėpavimas", 
     "languages": {
       "russian": 194,
       "english": 255
@@ -1996,8 +1961,8 @@
   },
   {
     "number": 298,
-    "title": "IŠGELBĖJIMO UŽTIKRINTUMAS IR DŽIAUGSMAS",
-    "sub-title": "TEISUMAS KRISTUJE",
+    "category": "Išgelbėjimo Užtikrintumas ir Džiaugsmas",
+    "subcategory": "Išteisinti Kristuje",
     "languages": {
       "russian": 224,
       "english": 298
@@ -2052,8 +2017,8 @@
   },
   {
     "number": 313,
-    "title": "IŠGELBĖJIMO UŽTIKRINTUMAS IR DŽIAUGSMAS",
-    "sub-title": "IŠGELBĖTI JO MALONE",
+    "category": "Išgelbėjimo Užtikrintumas ir Džiaugsmas",
+    "subcategory": "Išgelbėti Jo malone",
     "languages": {
       "russian": 240,
       "english": 313
@@ -2098,8 +2063,8 @@
   },
   {
     "number": 322,
-    "title": "IŠGELBĖJIMO UŽTIKRINTUMAS IR DŽIAUGSMAS",
-    "sub-title": "PASITENKINIMAS KRISTUMI",
+    "category": "Išgelbėjimo Užtikrintumas ir Džiaugsmas",
+    "subcategory": "Patenkinti Kristumi",
     "languages": {
       "russian": 245,
       "english": 322
@@ -2158,8 +2123,8 @@
   },
   {
     "number": 395,
-    "title": "ILGESIAI",
-    "sub-title": "AUGIMUI KRISTUJE",
+    "category": "Ilgesiai",
+    "subcategory": "Augimui Kristuje",
     "languages": {
       "russian": 281,
       "english": 395
@@ -2222,8 +2187,8 @@
   },
   {
     "number": 437,
-    "title": "PASIŠVENTIMAS",
-    "sub-title": "PATRAUKTI VIEŠPATIES GROŽIU",
+    "category": "Pasišventimas",
+    "subcategory": "Patraukti Viešpaties grožiu",
     "languages": {
       "russian": 308,
       "english": 437
@@ -2298,8 +2263,8 @@
   },
   {
     "number": 474,
-    "title": "SĄJUNGA SU KRISTUMI",
-    "sub-title": "VIENYBĖ SU JUO",
+    "category": "Sąjunga su Kristumi",
+    "subcategory": "Viena su Juo",
     "languages": {
       "russian": 327,
       "english": 474
@@ -2368,7 +2333,8 @@
   },
   {
     "number": 505,
-    "title": "KRISTAUS KAIP GYVYBĖS PATYRIMAS",
+    "category": "Kristaus Patyrimas",
+    "subcategory": "Kaip Gyvybės",
     "languages": {
       "russian": 355,
       "english": 505
@@ -2443,7 +2409,8 @@
   },
   {
     "number": 507,
-    "title": "KRISTAUS, KAIP GYVYBĖS, PATYRIMAS",
+    "category": "Kristaus Patyrimas",
+    "subcategory": "Kaip Gyvybės",
     "languages": {
       "russian": 356,
       "english": 507
@@ -2500,8 +2467,8 @@
   },
   {
     "number": 539,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "JO PRIEINAMUMAS",
+    "category": "Kristaus Patyrimas",
+    "subcategory": "Kaip tas kuris yra prieinamas",
     "languages": {
       "russian": 427,
       "english": 539
@@ -2521,18 +2488,8 @@
         "Tavas naudosiu atsargas",
         "Su noru ir džiaugsmu."
       ],
-      [
-        "Šis patepimas mumyse",
-        "Palaiko silpnume.",
-        "Savu energijos srautu",
-        "Pripildai Tu mane."
-      ],
-      [
-        "Įstatymas, kuris širdy,",
-        "Tavuoju ves keliu.",
-        "Esybę man pripildei",
-        "Tu Savu realumu."
-      ],
+      ["Šis patepimas mumyse", "Palaiko silpnume.", "Savu energijos srautu", "Pripildai Tu mane."],
+      ["Įstatymas, kuris širdy,", "Tavuoju ves keliu.", "Esybę man pripildei", "Tu Savu realumu."],
       [
         "Su Tavim viena amžiams mes —",
         "Vienybei pašaukei.",
@@ -2548,12 +2505,7 @@
     ],
     "chords": {
       "capo": "",
-      "verse": [
-        "C",
-        "     G        G7     C",
-        "      C",
-        "     G     D7     G-G7"
-      ],
+      "verse": ["C", "     G        G7     C", "      C", "     G     D7     G-G7"],
       "chorus": [
         "  C                      F   C",
         "         F   C     G",
@@ -2564,8 +2516,8 @@
   },
   {
     "number": 542,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "JO TURTAI",
+    "category": "Kristaus Patyrimas",
+    "subcategory": "Jo turtai",
     "languages": {
       "russian": 397,
       "english": 542
@@ -2640,8 +2592,8 @@
   },
   {
     "number": 549,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": " BENDRAVIMAS SU JUO",
+    "category": "Kristaus Patyrimas",
+    "subcategory": "Bendravimas su Juo",
     "languages": {
       "russian": 405,
       "english": 549
@@ -2704,8 +2656,8 @@
   },
   {
     "number": 591,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "JO IŠRAIŠKA",
+    "category": "Kristaus Patyrimas",
+    "subcategory": "Išreikšiant Jį",
     "languages": {
       "russian": 424,
       "english": 591
@@ -2768,8 +2720,8 @@
   },
   {
     "number": 594,
-    "title": "KRISTAUS PATYRIMAS ",
-    "sub-title": "SEKIMU DVASIA",
+    "category": "Kristaus Patyrimas",
+    "subcategory": "Sekant Dvasią",
     "languages": {
       "russian": 428,
       "english": 594
@@ -2777,51 +2729,16 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/594",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0594_i.mp3",
     "verses": [
-      [
-        "Tu mana ramybė",
-        "Ir gyvybė Tu,",
-        "Taip išlieku dvasioj",
-        "Aš su Viešpačiu."
-      ],
-      [
-        "Viešpaties esu jau,",
-        "Buvau pančiuose.",
-        "Tik per Jo gyvybę",
-        "Dabar laisvėje."
-      ],
-      [
-        "Aš mąstysiu dvasioj,",
-        "Kūniškumui — ne!",
-        "Dvasiai tik paklūsti",
-        "Noriu visada."
-      ],
-      [
-        "Padeda man Kristus",
-        "Dvasiniu išlikt,",
-        "Net kūnu gyvybę",
-        "Aš galiu patirt."
-      ],
-      [
-        "Ir mana ir Dievo",
-        "Dvasios viena jau:",
-        "Paveldėtojas aš,",
-        "Aš iš Jo gimiau."
-      ]
+      ["Tu mana ramybė", "Ir gyvybė Tu,", "Taip išlieku dvasioj", "Aš su Viešpačiu."],
+      ["Viešpaties esu jau,", "Buvau pančiuose.", "Tik per Jo gyvybę", "Dabar laisvėje."],
+      ["Aš mąstysiu dvasioj,", "Kūniškumui — ne!", "Dvasiai tik paklūsti", "Noriu visada."],
+      ["Padeda man Kristus", "Dvasiniu išlikt,", "Net kūnu gyvybę", "Aš galiu patirt."],
+      ["Ir mana ir Dievo", "Dvasios viena jau:", "Paveldėtojas aš,", "Aš iš Jo gimiau."]
     ],
-    "chorus": [
-      "Jo Dvasia seku aš,",
-      "Viešpaty esu.",
-      "Jis gyvybę teikia.",
-      "Džiaugsmą atrandu."
-    ],
+    "chorus": ["Jo Dvasia seku aš,", "Viešpaty esu.", "Jis gyvybę teikia.", "Džiaugsmą atrandu."],
     "chords": {
       "capo": "Capo 3",
-      "verse": [
-        "D       A      D",
-        "       G      A",
-        "G",
-        "A        A7      D"
-      ],
+      "verse": ["D       A      D", "       G      A", "G", "A        A7      D"],
       "chorus": [
         "D                 B7",
         "Em           A",
@@ -2832,7 +2749,8 @@
   },
   {
     "number": 600,
-    "title": "DIEVO, KAIP MŪSŲ AMŽINOJO LIKIMO, PATYRIMAS",
+    "category": "Dievo Patyrimas",
+    "subcategory": "Kaip amžinoji dalis",
     "languages": {
       "russian": 436,
       "english": 600
@@ -2889,8 +2807,8 @@
   },
   {
     "number": 608,
-    "title": "DIEVO PATYRIMAS",
-    "sub-title": "PER TREJYBĘ",
+    "category": "Dievo Patyrimas",
+    "subcategory": "Per Trejybę",
     "languages": {
       "russian": 443,
       "english": 608
@@ -2953,8 +2871,8 @@
   },
   {
     "number": 612,
-    "title": "DIEVO PATYRIMAS",
-    "sub-title": "PER DVASIOS NAUDOJIMĄ",
+    "category": "Dievo Patyrimas",
+    "subcategory": "Lavinant dvasią",
     "languages": {
       "russian": 447,
       "english": 612
@@ -2962,30 +2880,15 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/612",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0612_full.mp3",
     "verses": [
-      [
-        "Dievas nori mus maitinti",
-        "Esybe Sava,",
-        "Kad su Juo mes būtum viena",
-        "Savo dvasiose."
-      ],
-      [
-        "Dvasioje, palietę Dievą,",
-        "Mes supratome.",
-        "Prigimtį Jis Savo davė",
-        "Mums Sava Dvasia."
-      ],
+      ["Dievas nori mus maitinti", "Esybe Sava,", "Kad su Juo mes būtum viena", "Savo dvasiose."],
+      ["Dvasioje, palietę Dievą,", "Mes supratome.", "Prigimtį Jis Savo davė", "Mums Sava Dvasia."],
       [
         "Dievą liečiame mes dvasioj,",
         "Suvokiam protu.",
         "Bet jei dvasios nenaudosiu",
         "Liksiu aš vargšu"
       ],
-      [
-        "Mes malda priimsim Žodį",
-        "Tavo gyvąjį.",
-        "Taip visus mus Jis pripildys",
-        "Savimi."
-      ],
+      ["Mes malda priimsim Žodį", "Tavo gyvąjį.", "Taip visus mus Jis pripildys", "Savimi."],
       [
         "Likdami mes Dievo Žody",
         "Liečiam Viešpatį.",
@@ -3023,8 +2926,8 @@
   },
   {
     "number": 631,
-    "title": "KRYŽIAUS KELIAS",
-    "sub-title": "GYVYBĖS KELIAS",
+    "category": "Kryžiaus Kelias",
+    "subcategory": "Gyvybės kelias",
     "languages": {
       "russian": 456,
       "english": 631
@@ -3051,12 +2954,7 @@
         "Jo gyvybė ištekės."
       ]
     ],
-    "chorus": [
-      "Jei nemirsime —",
-      "Negyvensime.",
-      "Iš mirties gyvybė kyla.",
-      "Gimsta šviesoje."
-    ],
+    "chorus": ["Jei nemirsime —", "Negyvensime.", "Iš mirties gyvybė kyla.", "Gimsta šviesoje."],
     "chords": {
       "capo": "",
       "verse": [
@@ -3075,7 +2973,8 @@
   },
   {
     "number": 643,
-    "title": "RAGINIMAS BENDRAUTI SU VIEŠPAČIU",
+    "category": "Paskatinimas",
+    "subcategory": "Bendrauti su Viešpačiu",
     "languages": {
       "russian": 463,
       "english": 643
@@ -3140,8 +3039,8 @@
   },
   {
     "number": 745,
-    "title": "VIDINĖS GYVYBĖS SKIRTINGOS PUSĖS",
-    "sub-title": "DVI DVASIOS KAIP VIENA",
+    "category": "Įvairūs Vidinės Gyvybės Aspektai",
+    "subcategory": "Dvi Dvasios kaip viena",
     "languages": {
       "russian": 502,
       "english": 745
@@ -3210,8 +3109,8 @@
   },
   {
     "number": 750,
-    "title": "SKIRTINGI VIDINĖS GYVYBĖS ASPEKTAI",
-    "sub-title": "TRANSFORMACIJA",
+    "category": "Įvairūs Vidinės Gyvybės Aspektai",
+    "subcategory": "Transformacija",
     "languages": {
       "russian": 507,
       "english": 750
@@ -3258,12 +3157,7 @@
     ],
     "chords": {
       "capo": "",
-      "verse": [
-        "D",
-        "A        A7             D",
-        "D",
-        "A         A7                  D       D7"
-      ],
+      "verse": ["D", "A        A7             D", "D", "A         A7                  D       D7"],
       "chorus": [
         "         G               D",
         "             A     A7         D    D7",
@@ -3274,8 +3168,8 @@
   },
   {
     "number": 782,
-    "title": "MALDA",
-    "sub-title": "DVASIOS NAUDOJIMAS",
+    "category": "Malda",
+    "subcategory": "Dvasios lavinimas",
     "languages": {
       "russian": 526,
       "english": 782
@@ -3338,8 +3232,8 @@
   },
   {
     "number": 793,
-    "title": "MALDA",
-    "sub-title": "LAUKIME PRIEŠ DIEVĄ",
+    "category": "Malda",
+    "subcategory": "Laukiant Dievo",
     "languages": {
       "russian": 536,
       "english": 793
@@ -3402,8 +3296,8 @@
   },
   {
     "number": 811,
-    "title": "ŽODŽIO NAGRINĖJIMAS",
-    "sub-title": "MAITINIMASIS ŽODŽIU",
+    "category": "Žodžio Nagrinėjimas",
+    "subcategory": "Maitinimasis žodžiu",
     "languages": {
       "russian": 545,
       "english": 811
@@ -3484,8 +3378,8 @@
   },
   {
     "number": 812,
-    "title": "ŽODŽIO NAGRINĖJIMAS",
-    "sub-title": "MAITINIMASIS ŽODŽIU",
+    "category": "Žodžio Nagrinėjimas",
+    "subcategory": "Maitinimasis žodžiu",
     "languages": {
       "russian": 546,
       "english": 812
@@ -3536,8 +3430,8 @@
   },
   {
     "number": 824,
-    "title": "BAŽNYČIA",
-    "sub-title": "JOS BENDRAS APIBŪDINIMAS",
+    "category": "Bažnyčia",
+    "subcategory": "Jos bendras apibūdinimas",
     "languages": {
       "russian": 560,
       "english": 824
@@ -3632,8 +3526,8 @@
   },
   {
     "number": 841,
-    "title": "BAŽNYČIA",
-    "sub-title": "",
+    "category": "Bažnyčia",
+    "subcategory": "Jos statymas",
     "languages": {
       "russian": 570,
       "english": 841
@@ -3690,8 +3584,8 @@
   },
   {
     "number": 852,
-    "title": "BAŽNYČIA",
-    "sub-title": "JOS PATRAUKLUMAS",
+    "category": "Bažnyčia",
+    "subcategory": "Jos patrauklumas",
     "languages": {
       "russian": 580,
       "english": 852
@@ -3705,12 +3599,7 @@
         "Tavo širdis atrado čia",
         "Džiaugsmą, ramybę."
       ],
-      [
-        "Save atidavei už Ją,",
-        "Kad Ją įgytumei.",
-        "Jai atiduodu kūną aš —",
-        "Mylinčiai širdžiai."
-      ],
+      ["Save atidavei už Ją,", "Kad Ją įgytumei.", "Jai atiduodu kūną aš —", "Mylinčiai širdžiai."],
       [
         "Gyvybe Tu dėl Jos tapai,",
         "Kad aš gyvenčiau ja.",
@@ -3748,8 +3637,8 @@
   },
   {
     "number": 864,
-    "title": "SUSIRINKIMAS",
-    "sub-title": "KRISTAUS IŠRAIŠKA",
+    "category": "Susirinkimai",
+    "subcategory": "Išreikšti Kristų",
     "languages": {
       "russian": 622,
       "english": 864
@@ -3830,8 +3719,8 @@
   },
   {
     "number": 880,
-    "title": "DVASINĖ KOVA",
-    "sub-title": "PAKLUSNUMAS JAM",
+    "category": "Dvasinė Kova",
+    "subcategory": "Paklusnumu Jam",
     "languages": {
       "russian": 634,
       "english": 880
@@ -3886,8 +3775,8 @@
   },
   {
     "number": 948,
-    "title": "KRISTUS MUMYSE",
-    "sub-title": "ŠLOVĖS VILTIS",
+    "category": "Šlovės Viltis",
+    "subcategory": "Kristus manyje",
     "languages": {
       "russian": 686,
       "english": 948
@@ -3938,8 +3827,8 @@
   },
   {
     "number": 949,
-    "title": "ŠLOVĖS VILTIS",
-    "sub-title": "KRISTUS, KAIP MŪSŲ PAŠLOVINIMAS",
+    "category": "Šlovės Viltis",
+    "subcategory": "Kristus kaip išaukštinimas",
     "languages": {
       "russian": 687,
       "english": 949
@@ -3996,8 +3885,8 @@
   },
   {
     "number": 1007,
-    "title": "GEROJI ŽINIA",
-    "sub-title": "KRAUJAS",
+    "category": "Evangelija",
+    "subcategory": "Kraujas",
     "languages": {
       "russian": 744,
       "english": 1007
@@ -4054,8 +3943,8 @@
   },
   {
     "number": 1017,
-    "title": "GYVYBĖ",
-    "sub-title": "GEROJI ŽINIA MUMS",
+    "category": "Evangelija",
+    "subcategory": "Gyvybė",
     "languages": {
       "russian": 750,
       "english": 1017
@@ -4105,8 +3994,8 @@
   },
   {
     "number": 1048,
-    "title": "GEROJI ŽINIA",
-    "sub-title": "ATĖJIMAS PAS VIEŠPATĮ",
+    "category": "Evangelija",
+    "subcategory": "Atėjimas pas Viešpatį",
     "languages": {
       "russian": 765,
       "english": 1048
@@ -4163,8 +4052,8 @@
   },
   {
     "number": 1051,
-    "title": "GEROJI ŽINIA",
-    "sub-title": "ATĖJIMAS PAS VIEŠPATĮ",
+    "category": "Evangelija",
+    "subcategory": "Atėjimas pas Viešpatį",
     "languages": {
       "russian": 767,
       "english": 1051
@@ -4172,24 +4061,9 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1051",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1051_i.mp3",
     "verses": [
-      [
-        "Girdžiu šaukimą aš,",
-        "Tu pas Save kvieti.",
-        "Savu šventu krauju mane",
-        "Tu nori apvalyt."
-      ],
-      [
-        "Nors silpnas aš esu",
-        "Ir nuodėmė many,",
-        "Nuplauni Tu mane krauju,",
-        "Šventumą suteiki."
-      ],
-      [
-        "O Jėzau, Tu užbaik",
-        "Šį darbą manyje.",
-        "Suteik malonę man, meldžiu,",
-        "Ją lieki į mane."
-      ],
+      ["Girdžiu šaukimą aš,", "Tu pas Save kvieti.", "Savu šventu krauju mane", "Tu nori apvalyt."],
+      ["Nors silpnas aš esu", "Ir nuodėmė many,", "Nuplauni Tu mane krauju,", "Šventumą suteiki."],
+      ["O Jėzau, Tu užbaik", "Šį darbą manyje.", "Suteik malonę man, meldžiu,", "Ją lieki į mane."],
       [
         "Kas ištikimas Jam —",
         "Suteikia viską Jis.",
@@ -4227,8 +4101,8 @@
   },
   {
     "number": 1052,
-    "title": "GEROJI ŽINIA",
-    "sub-title": "ATĖJIMAS PAS VIEŠPATĮ",
+    "category": "Evangelija",
+    "subcategory": "Atėjimas pas Viešpatį",
     "languages": {
       "russian": 768,
       "english": 1052
@@ -4236,49 +4110,19 @@
     "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/1052",
     "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e1052_i.mp3",
     "verses": [
-      [
-        "Toks Dievui tolimas buvau,",
-        "Bet einu namo.",
-        "Aš nuodėmėje gyvenau,",
-        "Bet einu namo."
-      ],
-      [
-        "Prabėgo metų daug tuščiai,",
-        "Aš einu namo.",
-        "Su ašarom atgailavau,",
-        "Aš einu namo."
-      ],
-      [
-        "Pavargęs būti nuodėmėj,",
-        "Aš einu namo.",
-        "Pasitikiu tik Tavimi,",
-        "Aš einu namo."
-      ],
+      ["Toks Dievui tolimas buvau,", "Bet einu namo.", "Aš nuodėmėje gyvenau,", "Bet einu namo."],
+      ["Prabėgo metų daug tuščiai,", "Aš einu namo.", "Su ašarom atgailavau,", "Aš einu namo."],
+      ["Pavargęs būti nuodėmėj,", "Aš einu namo.", "Pasitikiu tik Tavimi,", "Aš einu namo."],
       [
         "Ir skausmas širdį varsto man,",
         "Aš einu namo.",
         "Jėgų man duoki ir vilties,",
         "Aš einu namo."
       ],
-      [
-        "Visa viltis tik Tavyje,",
-        "Aš einu namo.",
-        "Pats Viešpats mirė už mane,",
-        "Aš einu namo."
-      ],
-      [
-        "Apsivalysiu Jo krauju,",
-        "Aš einu namo.",
-        "Nuplauk už sniegą dar balčiau,",
-        "Aš einu namo."
-      ]
+      ["Visa viltis tik Tavyje,", "Aš einu namo.", "Pats Viešpats mirė už mane,", "Aš einu namo."],
+      ["Apsivalysiu Jo krauju,", "Aš einu namo.", "Nuplauk už sniegą dar balčiau,", "Aš einu namo."]
     ],
-    "chorus": [
-      "Viešpatie, aš einu,",
-      "Aš einu namo!",
-      "Viešpatie, sutik mane!",
-      "Aš einu namo."
-    ],
+    "chorus": ["Viešpatie, aš einu,", "Aš einu namo!", "Viešpatie, sutik mane!", "Aš einu namo."],
     "chords": {
       "capo": "Capo 1",
       "verse": [
@@ -4297,8 +4141,8 @@
   },
   {
     "number": 1055,
-    "title": "GEROJI ŽINIA",
-    "sub-title": "JO ŠAUKIMASIS",
+    "category": "Evangelija",
+    "subcategory": "Šauksmas į Viešpatį",
     "languages": {
       "russian": 770,
       "english": 1055
@@ -4333,8 +4177,8 @@
   },
   {
     "number": 1059,
-    "title": "GEROJI ŽINIA",
-    "sub-title": "ŠAUKIMASIS VIEŠPATIES",
+    "category": "Evangelija",
+    "subcategory": "Šauksmas į Viešpatį",
     "languages": {
       "russian": 773,
       "english": 1059
@@ -4391,8 +4235,8 @@
   },
   {
     "number": 1084,
-    "title": "GYRIUS VIEŠPAČIUI",
-    "sub-title": "JO VARDAS",
+    "category": "Viešpaties Šlovinimas (2)",
+    "subcategory": "Jo vardas",
     "languages": {
       "russian": 62,
       "english": 1084
@@ -4473,8 +4317,8 @@
   },
   {
     "number": 1086,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO VARDAS",
+    "category": "Viešpaties Šlovinimas (2)",
+    "subcategory": "Jo vardas",
     "languages": {
       "russian": 64,
       "english": 1086
@@ -4513,8 +4357,8 @@
   },
   {
     "number": 1107,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO PRISIMINIMAS",
+    "category": "Viešpaties Šlovinimas (2)",
+    "subcategory": "Jo prisiminimas",
     "languages": {
       "russian": 173,
       "english": 1107
@@ -4577,8 +4421,8 @@
   },
   {
     "number": 1112,
-    "title": "ŠLOVĖ VIEŠPAČIUI",
-    "sub-title": "JO PRISIMINIMAS",
+    "category": "Viešpaties Šlovinimas (2)",
+    "subcategory": "Jo prisiminimas",
     "languages": {
       "russian": 177,
       "english": 1112
@@ -4647,8 +4491,8 @@
   },
   {
     "number": 1113,
-    "title": "DVASIOS PILNATVĖ",
-    "sub-title": "KAIP DVASIA MŪSŲ VIDUJE",
+    "category": "Dvasios Pilnatvė (2)",
+    "subcategory": "Kaip gyvenanti mumyse Dvasia",
     "languages": {
       "russian": 183,
       "english": 1113
@@ -4711,8 +4555,8 @@
   },
   {
     "number": 1127,
-    "title": "IŠGELBĖJIMO UŽTIKRINTUMAS IR DŽIAUGSMAS",
-    "sub-title": "GELBĖJIMASIS NUO PASAULIO",
+    "category": "Išgelbėjimo Užtikrintumas ir Džiaugsmas (2)",
+    "subcategory": "Išgelbėti nuo pasaulio",
     "languages": {
       "russian": 252,
       "english": 1127
@@ -4787,8 +4631,8 @@
   },
   {
     "number": 1141,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "DVASIOJE",
+    "category": "Kristaus Patyrimas (2)",
+    "subcategory": "Dvasioje",
     "languages": {
       "russian": 342,
       "english": 1141
@@ -4833,7 +4677,8 @@
   },
   {
     "number": 1145,
-    "title": "KRISTAUS, KAIP MAISTO IR GĖRIMO, PATYRIMAS",
+    "category": "Kristaus Patyrimas (2)",
+    "subcategory": "Kaip maisto ir gėrimo",
     "languages": {
       "russian": 362,
       "english": 1145
@@ -4888,7 +4733,8 @@
   },
   {
     "number": 1150,
-    "title": "KRISTAUS, KAIP VALGIO IR GĖRIMO, PATYRIMAS",
+    "category": "Kristaus Patyrimas (2)",
+    "subcategory": "Kaip maisto ir gėrimo",
     "languages": {
       "russian": 366,
       "english": 1150
@@ -4975,7 +4821,8 @@
   },
   {
     "number": 1151,
-    "title": "KRISTAUS, KAIP VALGIO IR GĖRIMO, PATYRIMAS",
+    "category": "Kristaus Patyrimas (2)",
+    "subcategory": "Kaip maisto ir gėrimo",
     "languages": {
       "russian": 367,
       "english": 1151
@@ -5032,8 +4879,8 @@
   },
   {
     "number": 1152,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "MĖGAVIMASIS JUO",
+    "category": "Kristaus Patyrimas (2)",
+    "subcategory": "Mėgavimasis Juo",
     "languages": {
       "russian": 425,
       "english": 1152
@@ -5086,8 +4933,8 @@
   },
   {
     "number": 1153,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "MŪSŲ PASIMĖGAVIMAS",
+    "category": "Kristaus Patyrimas (2)",
+    "subcategory": "Mėgavimasis Juo",
     "languages": {
       "russian": 426,
       "english": 1153
@@ -5150,8 +4997,8 @@
   },
   {
     "number": 1159,
-    "title": "KRISTAUS PATYRIMAS",
-    "sub-title": "MEILĖ JAM",
+    "category": "Kristaus Patyrimas (2)",
+    "subcategory": "Jo milėjimas",
     "languages": {
       "russian": 403,
       "english": 1159
@@ -5216,7 +5063,8 @@
   },
   {
     "number": 1170,
-    "title": "KRISTAUS, KAIP GANYTOJO, PATYRIMAS",
+    "category": "Kristaus Patyrimas (2)",
+    "subcategory": "Kaip ganytojo",
     "languages": {
       "russian": 390,
       "english": 1170
@@ -5287,7 +5135,8 @@
   },
   {
     "number": 1191,
-    "title": "DIEVO, KAIP GYVYBĖS, PATYRIMAS",
+    "category": "Dievo Patyrimas (2)",
+    "subcategory": "Kaip gyvybės",
     "languages": {
       "russian": 438,
       "english": 1191
@@ -5338,7 +5187,8 @@
   },
   {
     "number": 1196,
-    "title": "DIEVO KAIP GYVYBĖS, PATYRIMAS",
+    "category": "Dievo Patyrimas (2)",
+    "subcategory": "Kaip gyvybės",
     "languages": {
       "russian": 441,
       "english": 1196
@@ -5381,7 +5231,8 @@
   },
   {
     "number": 1206,
-    "title": "PARAGINIMAS BĖGTI LENKTYNĖSE",
+    "category": "Paskatinimas (2)",
+    "subcategory": "Bėgti lenktynes",
     "languages": {
       "russian": 471,
       "english": 1206
@@ -5444,8 +5295,8 @@
   },
   {
     "number": 1221,
-    "title": "BAŽNYČIA",
-    "sub-title": "VIEŠPATIES KAIMENĖ",
+    "category": "Bažnyčia (2)",
+    "subcategory": "Viešpaties Kaimenė",
     "languages": {
       "russian": 593,
       "english": 1221
@@ -5508,8 +5359,8 @@
   },
   {
     "number": 1226,
-    "title": "BAŽNYČIA",
-    "sub-title": "KAIP KRISTAUS KŪNAS",
+    "category": "Bažnyčia (2)",
+    "subcategory": "Kaip Kristaus kūnas",
     "languages": {
       "russian": 597,
       "english": 1226
@@ -5579,8 +5430,8 @@
   },
   {
     "number": 1229,
-    "title": "BAŽNYČIA",
-    "sub-title": "KRISTAUS NUOTAKA",
+    "category": "Bažnyčia (2)",
+    "subcategory": "Kaip Kristaus nuotaka",
     "languages": {
       "russian": 599,
       "english": 1229
@@ -5655,8 +5506,8 @@
   },
   {
     "number": 1232,
-    "title": "BAŽNYČIA",
-    "sub-title": "KAIP VIENAS NAUJAS ŽMOGUS",
+    "category": "Bažnyčia (2)",
+    "subcategory": "Kaip vienas naujas žmogus",
     "languages": {
       "russian": 602,
       "english": 1232
@@ -5725,8 +5576,8 @@
   },
   {
     "number": 1237,
-    "title": "BAŽNYČIA",
-    "sub-title": "KAIP MŪSŲ NAMAI IR RAMYBĖ",
+    "category": "Bažnyčia (2)",
+    "subcategory": "Kaip mūsų namai ir poilsis",
     "languages": {
       "russian": 607,
       "english": 1237
@@ -5791,8 +5642,8 @@
   },
   {
     "number": 1248,
-    "title": "BAŽNYČIA",
-    "sub-title": "PASIŠVENTIMAS JAI",
+    "category": "Bažnyčia (2)",
+    "subcategory": "Pasišventimas bažnyčiai",
     "languages": {
       "russian": 612,
       "english": 1248
@@ -5857,8 +5708,8 @@
   },
   {
     "number": 1287,
-    "title": "DVASINĖ KOVA",
-    "sub-title": "ŽEMĖS UŽVALDYMAS",
+    "category": "Dvasinė Kova (2)",
+    "subcategory": "Žemės užėmimas",
     "languages": {
       "russian": 648,
       "english": 1287
@@ -5933,8 +5784,8 @@
   },
   {
     "number": 1299,
-    "title": "KARALYSTĖ",
-    "sub-title": "JOS SĖKLA",
+    "category": "Karalystė",
+    "subcategory": "Karalystės Sėkla",
     "languages": {
       "english": 1299
     },
@@ -5984,8 +5835,8 @@
   },
   {
     "number": 1314,
-    "title": "ŠLOVĖS VILTIS",
-    "sub-title": "VESTUVIU DIENA",
+    "category": "Šlovės Viltis (2)",
+    "subcategory": "Vestuvių Diena",
     "languages": {
       "russian": 711,
       "english": 1314
@@ -6040,7 +5891,8 @@
   },
   {
     "number": 1331,
-    "title": "GEROJI ŽINIA",
+    "category": "Evangelija (2)",
+    "subcategory": "Bendra kategorija",
     "languages": {
       "russian": 789,
       "english": 1331
@@ -6085,8 +5937,8 @@
   },
   {
     "number": 1336,
-    "title": "RAŠTO VIETOS GIEDOJIMUI",
-    "sub-title": "PSALMĖ 116:12—13",
+    "category": "Evangelija (2)",
+    "subcategory": "Rašto vietos giedojimui",
     "languages": {
       "russian": 793,
       "english": 1336
@@ -6115,8 +5967,8 @@
   },
   {
     "number": 1343,
-    "title": "RAŠTO VIETOS GIEDOJIMUI",
-    "sub-title": "EVANGELIJA PAGAL JONĄ 13:34",
+    "category": "Evangelija (2)",
+    "subcategory": "Rašto vietos giedojimui",
     "languages": {
       "russian": 799,
       "english": 1343
