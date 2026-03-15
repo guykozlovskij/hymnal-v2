@@ -24,11 +24,12 @@
       top: -30px;
       font-size: 80px;
       color: rgb(189, 189, 189);
-      background-color: none;
       background-color: transparent;
       border: none;
-      margin: 0;
-      padding: 0;
+      // Increase tappable area without moving visual button
+      padding: 40px; // expands the hit area
+      margin: -40px; // counteracts padding so visual size stays
+      touch-action: manipulation;
     }
     .hymn-intro {
       text-align: center;
