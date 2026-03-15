@@ -7,6 +7,10 @@ body{
   padding-bottom: 100px;
 }
 
+// disable double tap to zoom
+html, body {
+  touch-action: manipulation;
+}
 
 $text-blue: rgb(43, 100, 222);
 $text-dark-blue: rgb(0, 19, 103);
