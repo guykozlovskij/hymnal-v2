@@ -1,3 +1,11 @@
+.hymn-top button:first-of-type {
+  left: -50px;
+}
+
+.hymn-top button:last-of-type {
+  right: -50px;
+}
+
 .hymn-view {
   padding-top: $distance-from-top;
   line-height: 1.42857143;
@@ -6,14 +14,32 @@
   align-items: center;
   padding-left: 10px;
   padding-right: 10px;
-  .hymn-intro {
-    text-align: center;
-    padding-bottom: 25px;
-    h3,
-    h4 {
-      font-size: 18px;
-      margin-bottom: 0px;
-      margin-top: 0px;
+  .hymn-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    button {
+      position: absolute;
+      top: -30px;
+      font-size: 80px;
+      color: rgb(189, 189, 189);
+      background-color: none;
+      background-color: transparent;
+      border: none;
+      margin: 0;
+      padding: 0;
+    }
+    .hymn-intro {
+      text-align: center;
+      padding-bottom: 25px;
+      width: 250px;
+      h3,
+      h4 {
+        font-size: 18px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+      }
     }
   }
   .hymn-mp3::-webkit-media-controls-panel {

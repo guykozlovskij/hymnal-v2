@@ -1,15 +1,18 @@
 <script setup>
 import json from '../data/hymnal-data.json'
-import { chords } from '../stores/chords';
+// import { chords } from '../stores/chords';
 </script>
 
 <script>
 export default {
   data() {
     const hymnNumber = Number(this.$route.params.id)
+    const hymnIndex = json.findIndex(h => h.number === hymnNumber)
 
     return {
-      hymnData: json.find(h => h.number === hymnNumber),
+      hymnData: json[hymnIndex],
+      hymnIndex: hymnIndex,
+      hymns: json,
       chordsOn: JSON.parse(localStorage.getItem('chordsEnabled'))
     }
   },
@@ -17,10 +20,32 @@ export default {
     scrollToTop() {
       window.scrollTo(0, 0);
     },
+    nextHymn() {
+      const next = this.hymns[this.hymnIndex + 1]
+      if (next) {
+        this.$router.push(`/hymns/${next.number}`)
+      }
+    },
+    prevHymn() {
+      const prev = this.hymns[this.hymnIndex - 1]
+      if (prev) {
+        this.$router.push(`/hymns/${prev.number}`)
+      }
+    }
   },
   created() {
     this.scrollToTop();
+  },
+  watch: {
+    '$route.params.id'(newId) {
+      const hymnNumber = Number(newId)
+      const index = this.hymns.findIndex(h => h.number === hymnNumber)
 
+      this.hymnIndex = index
+      this.hymnData = this.hymns[index]
+
+      this.scrollToTop()
+    }
   }
 }
 </script>
@@ -28,16 +53,20 @@ export default {
 <template>
   <div class="top">{{ hymnData?.number }}</div>
   <section class="hymn-view">
-    <div class="hymn-intro">
-      <h4 class="uppercase">{{ hymnData.category }} - </h4>
-      <h4 class="uppercase" v-if="hymnData['subcategory']">{{ hymnData['subcategory'] }}</h4>
-      <h4 v-if="hymnData['languages']">
-        (
-        <span v-if="hymnData['languages']['russian']">R{{ hymnData.languages.russian }}, </span>
-        <span v-if="hymnData['languages']['english']">A{{ hymnData.languages.english }}</span>
-        )
-      </h4>
-    </div>
+    <section class="hymn-top">
+      <button @click="prevHymn" role="link">«</button>
+      <div class="hymn-intro">
+        <h4 class="uppercase">{{ hymnData.category }} - </h4>
+        <h4 class="uppercase" v-if="hymnData['subcategory']">{{ hymnData['subcategory'] }}</h4>
+        <h4 v-if="hymnData['languages']">
+          (
+          <span v-if="hymnData['languages']['russian']">R{{ hymnData.languages.russian }}, </span>
+          <span v-if="hymnData['languages']['english']">A{{ hymnData.languages.english }}</span>
+          )
+        </h4>
+      </div>
+      <button @click="nextHymn" role="link">»</button>
+    </section>
     <audio controls loop v-if="hymnData['melody-url']" class="hymn-mp3" autostart="false" preload="auto" name="media">
       <source v-bind:src="hymnData['melody-url']" type="audio/mpeg">
     </audio>
@@ -97,6 +126,6 @@ export default {
         </span>
       </div>
     </div>
-    <button class="hymn-back-button" @click="$router.go(-1)" role="link">« Grįžti</button>
+    <button class="hymn-back-button" @click="$router.push('/')" role="link">« Grįžti</button>
   </section>
 </template>
