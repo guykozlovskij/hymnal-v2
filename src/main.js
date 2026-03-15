@@ -14,4 +14,14 @@ app.component("v-icon", OhVueIcon)
 
 app.use(router)
 
+// Prevent double-tap zoom on iOS PWAs 
+let lastTouch = 0
+    document.addEventListener('touchend', function(e) {
+        const now = Date.now()
+        if (now - lastTouch <= 250) { // 250ms threshold to block double-tap zoom
+            e.preventDefault()
+        }
+        lastTouch = now
+    }, { passive: false })
+
 app.mount('#app')
