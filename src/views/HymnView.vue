@@ -53,11 +53,9 @@ export default {
 <template>
   <div class="top">
     {{ hymnData?.number }}
-    <button @click="$router.push('/')" role="link">⌂</button>
   </div>
   <section class="hymn-view">
     <section class="hymn-top">
-      <button @click="prevHymn" role="link">«</button>
       <div class="hymn-intro">
         <h4 class="uppercase">{{ hymnData.category }} - </h4>
         <h4 class="uppercase" v-if="hymnData['subcategory']">{{ hymnData['subcategory'] }}</h4>
@@ -68,7 +66,6 @@ export default {
           )
         </h4>
       </div>
-      <button @click="nextHymn" role="link">»</button>
     </section>
     <audio controls loop v-if="hymnData['melody-url']" class="hymn-mp3" autostart="false" preload="auto" name="media">
       <source v-bind:src="hymnData['melody-url']" type="audio/mpeg">

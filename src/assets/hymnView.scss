@@ -102,7 +102,7 @@
 }
 
 .bottom {
-  height: 70px;
+  height: 80px;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -116,7 +116,7 @@
   align-items: center;
   justify-content: center;
   .button-parent {
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     width: 350px;
     display: flex;
     flex-direction: row;
@@ -124,7 +124,8 @@
     align-items: center;
     button,
     a {
-      font-size: 60px;
+      margin-top: -30px;
+      font-size: 50px;
       background: transparent;
       border: none;
       color: white;
@@ -132,10 +133,25 @@
       touch-action: manipulation;
     }
     .arrow {
-      font-size: 70px;
+      font-size: 60px;
     }
-    button:hover {
+    button {
+      transition:
+        color 0.15s ease,
+        transform 0.1s ease;
+    }
+
+    /* Desktop hover only */
+    @media (hover: hover) and (pointer: fine) {
+      button:hover {
+        color: $text-blue;
+      }
+    }
+
+    /* Mobile + general press feedback */
+    button:active {
       color: $text-blue;
+      transform: scale(0.97);
     }
   }
 }
