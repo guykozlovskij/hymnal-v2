@@ -2,9 +2,10 @@
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-body{
+body {
   padding-top: 10px;
   padding-bottom: 100px;
+  margin: 0;
 }
 
 $text-blue: rgb(43, 100, 222);
@@ -14,8 +15,12 @@ $accent-light: #d0e0fd;
 $accent-darker: #acc9ff;
 $distance-from-top: 80px;
 
-// Removes link, toggle and button highlighting on mobile 
-button, input, span, label, a {
+// Removes link, toggle and button highlighting on mobile
+button,
+input,
+span,
+label,
+a {
   -webkit-tap-highlight-color: transparent;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -24,7 +29,9 @@ h1 {
   font-size: 30px;
 }
 
-.top{
+.top {
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
   height: 52px;
   font-size: 25px;
   padding-left: 30px;
@@ -41,7 +48,8 @@ h1 {
   background-color: $theme-color;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
   z-index: 1;
-  button, a {
+  button,
+  a {
     padding-right: 60px;
     font-size: 50px;
     background: transparent;
@@ -51,9 +59,4 @@ h1 {
   }
 }
 
-@import 
-"searchView",
-"hymnView", 
-"settingsView.scss";
-
-
+@import "searchView", "hymnView", "settingsView.scss";
