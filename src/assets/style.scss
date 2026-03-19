@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 
-$text-blue: rgb(43, 100, 222);
+$text-blue: rgb(65, 95, 158);
 $text-dark-blue: rgb(0, 19, 103);
 $theme-color: #448aff;
 $accent-light: #d0e0fd;
@@ -47,12 +47,7 @@ h1 {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  // background-color: $theme-color;
-
-  background-color: hsla(214, 82%, 44%, 0.623);
-  -webkit-backdrop-filter: blur(10px);
-  backdrop-filter: blur(10px);
-
+  background-color: $theme-color;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
   z-index: 1;
   button,
