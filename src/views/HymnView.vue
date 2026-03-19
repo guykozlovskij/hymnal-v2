@@ -132,9 +132,9 @@ export default {
     <button class="hymn-back-button" @click="$router.push('/')" role="link">« Grįžti</button>
     <div class="bottom">
       <div class="button-parent">
-        <button @click="prevHymn" role="link">«</button>
+        <button class="arrow" @click="prevHymn" role="link">«</button>
         <button @click="$router.push('/')" role="link">⌂</button>
-        <button @click="nextHymn" role="link">»</button>
+        <button class="arrow" @click="nextHymn" role="link">»</button>
       </div>
     </div>
   </section>
