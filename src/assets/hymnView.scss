@@ -109,7 +109,10 @@
   right: 0;
   width: 100%;
   overflow: hidden;
-  background-color: $theme-color;
+  background-color: hsla(214, 82%, 44%, 0.623);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
   z-index: 1;
 
