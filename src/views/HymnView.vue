@@ -51,7 +51,10 @@ export default {
 </script>
 
 <template>
-  <div class="top">{{ hymnData?.number }}</div>
+  <div class="top">
+    {{ hymnData?.number }}
+    <button @click="$router.push('/')" role="link">⌂</button>
+  </div>
   <section class="hymn-view">
     <section class="hymn-top">
       <button @click="prevHymn" role="link">«</button>
@@ -127,5 +130,12 @@ export default {
       </div>
     </div>
     <button class="hymn-back-button" @click="$router.push('/')" role="link">« Grįžti</button>
+    <div class="bottom">
+      <div class="button-parent">
+        <button @click="prevHymn" role="link">«</button>
+        <button @click="$router.push('/')" role="link">⌂</button>
+        <button @click="nextHymn" role="link">»</button>
+      </div>
+    </div>
   </section>
 </template>

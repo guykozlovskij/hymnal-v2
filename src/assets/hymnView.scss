@@ -100,3 +100,39 @@
 .uppercase {
   text-transform: uppercase;
 }
+
+.bottom {
+  height: 60px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  width: 100%;
+  background-color: $theme-color;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .button-parent {
+    padding-bottom: 10px;
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    button,
+    a {
+      font-size: 50px;
+      background: transparent;
+      border: none;
+      color: white;
+      margin: 0px;
+      touch-action: manipulation;
+    }
+    button:hover {
+      color: $text-blue;
+    }
+  }
+}
