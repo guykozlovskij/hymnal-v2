@@ -102,8 +102,6 @@
 }
 
 .bottom {
-  padding-left: env(safe-area-inset-left);
-  padding-right: env(safe-area-inset-right);
   height: 80px;
   position: fixed;
   bottom: 0;
@@ -118,6 +116,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+
+  box-sizing: border-box;
+
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
 }
 
 .bottom .button-parent {
