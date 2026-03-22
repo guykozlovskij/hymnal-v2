@@ -1,6 +1,5 @@
 <script setup>
 import json from '../data/hymnal-data.json'
-// import { chords } from '../stores/chords';
 </script>
 
 <script>
