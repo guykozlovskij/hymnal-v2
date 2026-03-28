@@ -25,4 +25,9 @@ watch(chordsOn, (newVal) => {
     </div>
     <hr class="solid">
   </section>
+      <div class="bottom">
+      <div class="button-parent">
+        <button @click="$router.push('/')" role="link">⌂</button>
+      </div>
+    </div>
 </template>

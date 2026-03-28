@@ -432,7 +432,7 @@
   },
   {
     "number": 30,
-    "category": "Tėvo Garbinimas", 
+    "category": "Tėvo Garbinimas",
     "subcategory": "Jo meilė",
     "languages": {
       "russian": 26,
@@ -1886,7 +1886,7 @@
   {
     "number": 255,
     "category": "Dvasios Pilnatvė",
-    "subcategory": "Kaip kvėpavimas", 
+    "subcategory": "Kaip kvėpavimas",
     "languages": {
       "russian": 194,
       "english": 255
@@ -5816,6 +5816,12 @@
       "Reali, tvirta, galinga auga širdyse žmonių.",
       "Tik beverčiai išvedžiojimai mus moko: laukite mirties,",
       "Kristus stato Karalystę žemėje dabar išties."
+    ],
+    "chorus2": [
+      "Jėzaus Kristaus Karalystė išaugs natūraliu būdu,",
+      "Tai ne žaibiškas procesas, augimas vyksta pamažu.",
+      "Gyvybės sėkla visuminė gali augti žmoguje,",
+      "Dievo amžinasis tikslas — šioj nuostabioje sėkloje."
     ],
     "chords": {
       "capo": "Capo 1",
