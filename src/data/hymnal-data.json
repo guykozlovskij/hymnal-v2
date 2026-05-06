@@ -594,6 +594,51 @@
     }
   },
   {
+    "number": 36,
+    "category": "Tėvo Garbinimas",
+    "subcategory": "Jo numatymas",
+    "languages": {
+      "russian": 30,
+      "english": 36
+    },
+    "hymnal.net-url": "https://www.hymnal.net/en/hymn/h/36",
+    "melody-url": "https://www.hymnal.net/Hymns/Hymnal/mp3/e0036_full.mp3",
+    "verses": [
+      [
+        "Tave, o Tėve, giriam,",
+        "Malonės indai mes,",
+        "Širdies Tavosios džiaugsmui",
+        "Mes esam prieš Tave.",
+        "Prieš amžinybę šlovėj",
+        "Mes sūnūs, atskirti,",
+        "Su Kristum Mylimuoju —",
+        "Aukščiausiuoju tikslu."
+      ],
+      [
+        "Kas, jei ne Tu, O Tėve,",
+        "Tavajam Sūnuje,",
+        "Palaimintum mus Dvasia",
+        "Priėmęs kaip savus?",
+        "Greit būsime, per amžius",
+        "Su Kristum Šlovėje,",
+        "Jo atvaizdu spindėsim",
+        "Per amžius, mes, Amen!"
+      ]
+    ],
+    "chords": {
+      "verse": [
+        "C          F       C",
+        "     F                G-G7",
+        "    C         F         C",
+        "        G       D7       G",
+        "         C              F",
+        "        D                 G",
+        "     C                  F",
+        "     C             G7    C"
+      ]
+    }
+  },
+  {
     "number": 39,
     "category": "Tėvo Garbinimas",
     "subcategory": "Jo atpirkimas",
