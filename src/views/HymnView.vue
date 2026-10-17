@@ -193,7 +193,6 @@ export default {
     <div class="hymnal-player-shell">
       <div v-if="musicStatus !== 'ready'" class="music-status" role="status" aria-live="polite">
         <span v-if="musicStatus === 'loading'" class="music-spinner" aria-hidden="true"></span>
-
         <span v-if="musicStatus === 'loading'"> Įkeliama muzika… </span>
         <span v-else-if="musicStatus === 'offline'"> Nėra interneto ryšio </span>
         <span v-else-if="musicStatus === 'unavailable'"> Šiaim himnui nėra muzikos įrašo </span>
