@@ -8,6 +8,10 @@ export default {
     const hymnNumber = Number(this.$route.params.id)
     const hymnIndex = json.findIndex((h) => h.number === hymnNumber)
 
+    if (hymnIndex === -1) {
+      return { hymnData: null, hymnIndex, hymns: json, chordsOn: false }
+    }
+
     return {
       hymnData: json[hymnIndex],
       hymnIndex: hymnIndex,
@@ -162,6 +166,11 @@ export default {
       this.hymnIndex = index
       this.hymnData = this.hymns[index]
 
+      if (index === -1) {
+        this.$router.replace({ name: 'not-found' })
+        return
+      }
+
       this.scrollToTop()
 
       this.$nextTick(() => {
@@ -173,6 +182,11 @@ export default {
 </script>
 
 <template>
+  <section v-if="!hymnData" class="hymn-view" role="alert">
+    Himnas nerastas.
+    <button @click="$router.push('/')" role="link">⌂</button>
+  </section>
+  <template v-else>
   <div class="top">
     {{ hymnData?.number }}
   </div>
@@ -205,7 +219,7 @@ export default {
           id="hymnalnet-widget"
           type="h"
           :num="hymnData.number"
-          width="320"
+          width="400"
           height="200"
           theme="light"
           autoplay="false"
@@ -280,4 +294,5 @@ export default {
       </div>
     </div>
   </section>
+  </template>
 </template>

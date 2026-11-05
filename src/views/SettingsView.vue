@@ -3,11 +3,10 @@
 import { ref, watch } from 'vue'
 import { chords } from "../stores/chords.js"
 
-const chordsOn = ref(JSON.parse(localStorage.getItem('chordsEnabled')) || false)
+const chordsOn = ref(chords.value.isEnabled)
 
 watch(chordsOn, (newVal) => {
-  localStorage.setItem('chordsEnabled', JSON.stringify(newVal))
-  chords.setIsEnabled(newVal)
+  chords.value.setIsEnabled(newVal)
 })
 
 </script>
@@ -19,7 +18,7 @@ watch(chordsOn, (newVal) => {
     <div class="setting">
       <p>Akordai</p>
       <label class="switch">
-        <input type="checkbox" @click.stop="chords.setIsEnabled()" v-model="chordsOn">
+        <input type="checkbox" v-model="chordsOn">
         <span class="slider round"></span>
       </label>
     </div>

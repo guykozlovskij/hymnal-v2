@@ -1,9 +1,9 @@
 import { ref } from "vue"
 
 export const chords = ref({
-  isEnabled: false,
-  setIsEnabled() {
-    this.isEnabled = !this.isEnabled
-    localStorage.setItem('chordsEnabled', JSON.stringify(this.isEnabled))
-  } 
-}) 
+  isEnabled: JSON.parse(localStorage.getItem('chordsEnabled') || 'false'),
+  setIsEnabled(isEnabled) {
+    this.isEnabled = isEnabled
+    localStorage.setItem('chordsEnabled', JSON.stringify(isEnabled))
+  }
+})

@@ -29,4 +29,10 @@ npm run dev -- --host
 npm run build
 ```
 
+### PWA and offline use
+
+The production build includes a service worker that caches the app and bundled hymn data after the app has loaded online. Hymn text remains available offline after that initial load; music playback uses the hymnal.net widget and requires an internet connection.
+
+To check the production PWA locally, build it and run `npm run preview`. The development server does not provide the same installed-PWA and service-worker behavior as the production build.
+
 

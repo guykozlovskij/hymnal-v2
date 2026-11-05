@@ -32,8 +32,8 @@ export default {
     },
   },
   methods: {
-    getSearchDataFromSate() {
-      const searchData = sessionStorage.getItem('searchValue' || '')
+    getSearchDataFromState() {
+      const searchData = sessionStorage.getItem('searchValue')
       if (searchData) {
         this.searchValue = searchData
       }
@@ -41,14 +41,9 @@ export default {
     saveSearchState() {
       sessionStorage.setItem('searchValue', this.searchValue)
     },
-    onQueryChange(event) {
-      if (event.target.value.trim().length === 0) {
-        this.response = null;
-      }
-    }
   },
   created() {
-    this.getSearchDataFromSate()
+    this.getSearchDataFromState()
   },
 }
 </script>
@@ -58,7 +53,7 @@ export default {
     <div class="top">Himnynas</div>
     <section id="search-view">
       <div id="search-and-settings">
-        <input @input="onQueryChange" id="search-bar" v-on:change="saveSearchState" v-model="searchValue"
+        <input @input="saveSearchState" id="search-bar" v-model="searchValue"
           placeholder="Paieška..." type="search">
         <a @click="$router.push(`/settings`)" role="link"><v-icon class="vue-icon" name="bi-gear-wide" scale="2" /></a>
       </div>
