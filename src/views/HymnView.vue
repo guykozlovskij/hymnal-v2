@@ -17,6 +17,7 @@ export default {
       hymnIndex: hymnIndex,
       hymns: json,
       chordsOn: JSON.parse(localStorage.getItem('chordsEnabled')),
+      widgetEnabled: localStorage.getItem('hymnalWidgetEnabled') === 'true',
       musicStatus: 'loading',
       widgetLoadToken: 0
     }
@@ -52,7 +53,7 @@ export default {
     loadHymnalWidget() {
       const widget = document.getElementById('hymnalnet-widget')
 
-      if (!widget || !this.hymnData?.number) return
+      if (!this.widgetEnabled || !widget || !this.hymnData?.number) return
 
       const token = ++this.widgetLoadToken
 
@@ -204,17 +205,19 @@ export default {
       </div>
     </section>
 
-        <div
-          :key="hymnData.number"
-          id="hymnalnet-widget"
-          type="h"
-          :num="hymnData.number"
-          width="400"
-          height="140"
-          theme="light"
-          autoplay="false"
-          loop="true"
-        ></div>
+    <div v-if="widgetEnabled" class="hymnal-widget-wrapper">
+      <div
+        :key="hymnData.number"
+        id="hymnalnet-widget"
+        type="h"
+        :num="hymnData.number"
+        width="360"
+        height="140"
+        theme="light"
+        autoplay="false"
+        loop="true"
+      ></div>
+    </div>
 
     <div class="verses">
       <span class="chords-capo" v-if="chordsOn && hymnData.chords?.capo">{{

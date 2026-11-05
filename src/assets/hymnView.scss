@@ -6,6 +6,12 @@
   right: -50px;
 }
 
+.hymnal-widget-wrapper {
+  min-height: 170px;
+  padding-top: 30px;
+  box-sizing: border-box;
+}
+
 .hymn-view {
   padding-top: $distance-from-top;
   line-height: 1.42857143;
