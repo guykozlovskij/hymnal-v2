@@ -204,29 +204,17 @@ export default {
       </div>
     </section>
 
-    <div class="hymnal-player-shell">
-      <div v-if="musicStatus !== 'ready'" class="music-status" role="status" aria-live="polite">
-        <span v-if="musicStatus === 'loading'" class="music-spinner" aria-hidden="true"></span>
-        <span v-if="musicStatus === 'loading'"> Įkeliama muzika… </span>
-        <span v-else-if="musicStatus === 'offline'"> Nėra interneto ryšio </span>
-        <span v-else-if="musicStatus === 'unavailable'"> Šiaim himnui nėra muzikos įrašo </span>
-        <span v-else> Muzikos įkelti nepavyko. Patikrinkite ryšį. </span>
-      </div>
-
-      <div class="hymnal-widget-crop">
         <div
           :key="hymnData.number"
           id="hymnalnet-widget"
           type="h"
           :num="hymnData.number"
           width="400"
-          height="200"
+          height="140"
           theme="light"
           autoplay="false"
           loop="true"
         ></div>
-      </div>
-    </div>
 
     <div class="verses">
       <span class="chords-capo" v-if="chordsOn && hymnData.chords?.capo">{{

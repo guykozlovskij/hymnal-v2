@@ -174,47 +174,4 @@
   transform: scale(0.97);
 }
 
-.music-status {
-  position: absolute;
-  inset: 0;
-  z-index: 2;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 9px;
-
-  box-sizing: border-box;
-  padding: 0 12px;
-  border-radius: 10px;
-
-  background-color: white;
-
-  color: #252631;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1.3;
-  text-align: center;
-}
-
-.music-spinner {
-  display: inline-block;
-  width: 15px;
-  height: 15px;
-  flex: 0 0 15px;
-  box-sizing: border-box;
-
-  border: 2px solid rgba($accent-darker, 0.2);
-  border-top-color: $accent-darker;
-  border-radius: 50%;
-
-  animation: music-spinner-rotate 0.8s linear infinite;
-}
-
-@keyframes music-spinner-rotate {
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 
