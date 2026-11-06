@@ -188,43 +188,58 @@ export default {
     <button @click="$router.push('/')" role="link">⌂</button>
   </section>
   <template v-else>
-  <div class="top">
-    {{ hymnData?.number }}
-  </div>
-  <section class="hymn-view">
-    <section class="hymn-top">
-      <div class="hymn-intro">
-        <h4 class="uppercase">{{ hymnData.category }} -</h4>
-        <h4 class="uppercase" v-if="hymnData['subcategory']">{{ hymnData['subcategory'] }}</h4>
-        <h4 v-if="hymnData['languages']">
-          (
-          <span v-if="hymnData['languages']['russian']">R{{ hymnData.languages.russian }}, </span>
-          <span v-if="hymnData['languages']['english']">A{{ hymnData.languages.english }}</span>
-          )
-        </h4>
-      </div>
-    </section>
-
-    <div v-if="widgetEnabled" class="hymnal-widget-wrapper">
-      <div
-        :key="hymnData.number"
-        id="hymnalnet-widget"
-        type="h"
-        :num="hymnData.number"
-        width="360"
-        height="140"
-        theme="light"
-        autoplay="false"
-        loop="true"
-      ></div>
+    <div class="top">
+      {{ hymnData?.number }}
     </div>
+    <section class="hymn-view">
+      <section class="hymn-top">
+        <div class="hymn-intro">
+          <h4 class="uppercase">{{ hymnData.category }} -</h4>
+          <h4 class="uppercase" v-if="hymnData['subcategory']">{{ hymnData['subcategory'] }}</h4>
+          <h4 v-if="hymnData['languages']">
+            (
+            <span v-if="hymnData['languages']['russian']">R{{ hymnData.languages.russian }}, </span>
+            <span v-if="hymnData['languages']['english']">A{{ hymnData.languages.english }}</span>
+            )
+          </h4>
+        </div>
+      </section>
 
-    <div class="verses">
-      <span class="chords-capo" v-if="chordsOn && hymnData.chords?.capo">{{
-        hymnData.chords.capo
-      }}</span>
-      <ol v-if="hymnData['verses'].length > 1" class="verse-one">
-        <li class="hymn-verse">
+      <div v-if="widgetEnabled" class="hymnal-widget-wrapper">
+        <div
+          :key="hymnData.number"
+          id="hymnalnet-widget"
+          type="h"
+          :num="hymnData.number"
+          width="360"
+          height="74"
+          theme="light"
+          autoplay="false"
+          loop="true"
+          title="false"
+          ding="false"
+        ></div>
+      </div>
+
+      <div class="verses">
+        <span class="chords-capo" v-if="chordsOn && hymnData.chords?.capo">{{
+          hymnData.chords.capo
+        }}</span>
+        <ol v-if="hymnData['verses'].length > 1" class="verse-one">
+          <li class="hymn-verse">
+            <span v-for="(line, index) in hymnData.verses[0]" :key="index">
+              <div v-if="chordsOn && hymnData.chords?.verse">
+                <span class="chords" v-if="hymnData.chords.verse">
+                  {{ hymnData.chords.verse[index] }}
+                  <br />
+                </span>
+              </div>
+              {{ line }}
+              <br />
+            </span>
+          </li>
+        </ol>
+        <div v-if="hymnData['verses'].length === 1">
           <span v-for="(line, index) in hymnData.verses[0]" :key="index">
             <div v-if="chordsOn && hymnData.chords?.verse">
               <span class="chords" v-if="hymnData.chords.verse">
@@ -235,55 +250,42 @@ export default {
             {{ line }}
             <br />
           </span>
-        </li>
-      </ol>
-      <div v-if="hymnData['verses'].length === 1">
-        <span v-for="(line, index) in hymnData.verses[0]" :key="index">
-          <div v-if="chordsOn && hymnData.chords?.verse">
-            <span class="chords" v-if="hymnData.chords.verse">
-              {{ hymnData.chords.verse[index] }}
-              <br />
-            </span>
-          </div>
-          {{ line }}
           <br />
-        </span>
-        <br />
-      </div>
-      <div v-if="hymnData.chorus" class="hymn-chorus">
-        <span v-for="(line, index) in hymnData.chorus" :key="index">
-          <div v-if="chordsOn">
-            <span class="chords" v-if="hymnData.chords?.chorus">
-              {{ hymnData.chords.chorus[index] }}
-              <br />
-            </span>
-          </div>
-          {{ line }}
-          <br />
-        </span>
-      </div>
-      <ol class="remaining-verses" start="2">
-        <li class="hymn-verse" v-for="(verse, index) in hymnData.verses.slice(1)" :key="index">
-          <span v-for="(line, index) in verse" :key="index">
+        </div>
+        <div v-if="hymnData.chorus" class="hymn-chorus">
+          <span v-for="(line, index) in hymnData.chorus" :key="index">
+            <div v-if="chordsOn">
+              <span class="chords" v-if="hymnData.chords?.chorus">
+                {{ hymnData.chords.chorus[index] }}
+                <br />
+              </span>
+            </div>
             {{ line }}
             <br />
           </span>
-        </li>
-      </ol>
-      <div v-if="hymnData.chorus2" class="hymn-chorus">
-        <span v-for="(line, index) in hymnData.chorus2" :key="index">
-          {{ line }}
-          <br />
-        </span>
+        </div>
+        <ol class="remaining-verses" start="2">
+          <li class="hymn-verse" v-for="(verse, index) in hymnData.verses.slice(1)" :key="index">
+            <span v-for="(line, index) in verse" :key="index">
+              {{ line }}
+              <br />
+            </span>
+          </li>
+        </ol>
+        <div v-if="hymnData.chorus2" class="hymn-chorus">
+          <span v-for="(line, index) in hymnData.chorus2" :key="index">
+            {{ line }}
+            <br />
+          </span>
+        </div>
       </div>
-    </div>
-    <div class="bottom">
-      <div class="button-parent">
-        <button class="arrow" @click="prevHymn" role="link">«</button>
-        <button @click="$router.push('/')" role="link">⌂</button>
-        <button class="arrow" @click="nextHymn" role="link">»</button>
+      <div class="bottom">
+        <div class="button-parent">
+          <button class="arrow" @click="prevHymn" role="link">«</button>
+          <button @click="$router.push('/')" role="link">⌂</button>
+          <button class="arrow" @click="nextHymn" role="link">»</button>
+        </div>
       </div>
-    </div>
-  </section>
+    </section>
   </template>
 </template>
