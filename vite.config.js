@@ -11,6 +11,7 @@ export default defineConfig({
     vue(),
     vueJsx(),
     VitePWA({
+      registerType: 'autoUpdate',
       manifest: {
         lang: "lt",
         name: "Himnynas",
