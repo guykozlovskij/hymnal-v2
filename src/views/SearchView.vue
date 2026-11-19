@@ -1,35 +1,42 @@
-<script setup>
-import hymnalJSON from '../data/hymnal-data.json'
-</script>
-
 <script>
+import hymnalJSON from '../data/hymnal-data.json'
+
+const normalizeSearch = (value) =>
+  String(value ?? '')
+    .normalize('NFD')
+    .replace(/\p{M}/gu, '')
+    .trim()
+    .replace(/\s+/gu, ' ')
+    .toLowerCase()
+
 export default {
   data() {
     return {
       searchValue: '',
       hymnalData: hymnalJSON,
-      colors: ["#d0e0fd", "#acc9ff"]
+      colors: ['#d0e0fd', '#acc9ff']
     }
   },
   computed: {
     hymnsSearchable() {
-      return this.hymnalData.map(hymn => {
-        const joinedVerses = hymn.verses.map(verse => verse.join()).join()
-        const joinedChorus = hymn.chorus ? hymn.chorus.join() : ''
-        return joinedVerses + joinedChorus
+      return this.hymnalData.map((hymn) => {
+        const lyrics = [...hymn.verses.flat(), ...(hymn.chorus || []), ...(hymn.chorus2 || [])]
+        return normalizeSearch([hymn.category, ...lyrics].join(' '))
       })
     },
     hymnsFiltered() {
-      if (this.searchValue.trim().length > 0) {
-        return this.hymnalData.filter((hymn, index) => {
-          return hymn.category.toLowerCase().includes(this.searchValue.toLowerCase())
-            || this.hymnsSearchable[index].toLowerCase().includes(this.searchValue.toLowerCase())
-            || String(hymn?.languages?.russian ?? "") === this.searchValue
-            || String(hymn?.languages?.english ?? "") === this.searchValue
-        })
-      }
-      return this.hymnalData
-    },
+      const query = normalizeSearch(this.searchValue)
+
+      if (!query) return this.hymnalData
+
+      return this.hymnalData.filter(
+        (hymn, index) =>
+          this.hymnsSearchable[index].includes(query) ||
+          normalizeSearch(hymn.number) === query ||
+          normalizeSearch(hymn?.languages?.russian) === query ||
+          normalizeSearch(hymn?.languages?.english) === query
+      )
+    }
   },
   methods: {
     getSearchDataFromState() {
@@ -40,11 +47,11 @@ export default {
     },
     saveSearchState() {
       sessionStorage.setItem('searchValue', this.searchValue)
-    },
+    }
   },
   created() {
     this.getSearchDataFromState()
-  },
+  }
 }
 </script>
 
@@ -53,20 +60,28 @@ export default {
     <div class="top">Himnynas</div>
     <section id="search-view">
       <div id="search-and-settings">
-        <input @input="saveSearchState" id="search-bar" v-model="searchValue"
-          placeholder="Paieška..." type="search">
-        <a @click="$router.push(`/settings`)" role="link"><v-icon class="vue-icon" name="bi-gear-wide" scale="2" /></a>
+        <input
+          @input="saveSearchState"
+          id="search-bar"
+          v-model="searchValue"
+          placeholder="Paieška..."
+          type="search"
+        />
+        <a @click="$router.push(`/settings`)" role="link"
+          ><v-icon class="vue-icon" name="bi-gear-wide" scale="2"
+        /></a>
       </div>
       <section id="search-list">
         <template v-for="(hymn, index) in hymnsFiltered" :key="index">
-          <div v-if="index === 0 || hymn.category !== hymnsFiltered[index - 1].category" id="category">
+          <div
+            v-if="index === 0 || hymn.category !== hymnsFiltered[index - 1].category"
+            id="category"
+          >
             {{ hymn.category }}
           </div>
           <div class="search-wrapper" @click="$router.push(`/hymns/${hymn.number}`)" role="link">
             <div class="search-result-line" :style="{ backgroundColor: colors[index % 2] }">
-              <a>
-                {{ hymn.number }}. {{ hymn.verses[0][0].replace(/\.$|\,$|\:$|\!$|\—$/, "") }}
-              </a>
+              <a> {{ hymn.number }}. {{ hymn.verses[0][0].replace(/\.$|\,$|\:$|\!$|\—$/, '') }} </a>
             </div>
           </div>
         </template>
