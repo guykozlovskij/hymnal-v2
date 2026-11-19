@@ -5,9 +5,8 @@ const normalizeSearch = (value) =>
   String(value ?? '')
     .normalize('NFD')
     .replace(/\p{M}/gu, '')
-    .trim()
-    .replace(/\s+/gu, ' ')
     .toLowerCase()
+    .replace(/[\p{P}\p{Z}\s]+/gu, '')
 
 export default {
   data() {
