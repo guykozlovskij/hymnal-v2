@@ -46,6 +46,11 @@ export default {
     },
     saveSearchState() {
       sessionStorage.setItem('searchValue', this.searchValue)
+    },
+    clearSearch() {
+      this.searchValue = ''
+      sessionStorage.setItem('searchValue', '')
+      this.$refs.searchInput.focus()
     }
   },
   created() {
@@ -59,13 +64,25 @@ export default {
     <div class="top">Himnynas</div>
     <section id="search-view">
       <div id="search-and-settings">
-        <input
-          @input="saveSearchState"
-          id="search-bar"
-          v-model="searchValue"
-          placeholder="Paieška..."
-          type="search"
-        />
+        <div class="search-input-wrapper">
+          <input
+            @input="saveSearchState"
+            id="search-bar"
+            ref="searchInput"
+            v-model="searchValue"
+            placeholder="Paieška..."
+            type="search"
+          />
+          <button
+            v-if="searchValue"
+            class="search-clear"
+            type="button"
+            aria-label="Išvalyti paiešką"
+            @click="clearSearch"
+          >
+            ×
+          </button>
+        </div>
         <a @click="$router.push(`/settings`)" role="link"
           ><v-icon class="vue-icon" name="bi-gear-wide" scale="2"
         /></a>
