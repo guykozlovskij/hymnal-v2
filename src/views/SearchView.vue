@@ -80,7 +80,6 @@ export default {
             aria-label="Išvalyti paiešką"
             @click="clearSearch"
           >
-            ×
           </button>
         </div>
         <a @click="$router.push(`/settings`)" role="link"

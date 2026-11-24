@@ -28,6 +28,11 @@ export default {
       window.scrollTo(0, 0)
     },
 
+    goHome() {
+      sessionStorage.setItem('searchValue', '')
+      this.$router.push('/')
+    },
+
     nextHymn() {
       const next = this.hymns[this.hymnIndex + 1]
       if (next) {
@@ -185,7 +190,7 @@ export default {
 <template>
   <section v-if="!hymnData" class="hymn-view" role="alert">
     Himnas nerastas.
-    <button @click="$router.push('/')" role="link">⌂</button>
+    <button @click="goHome" role="link">⌂</button>
   </section>
   <template v-else>
     <div class="top">
@@ -282,7 +287,7 @@ export default {
       <div class="bottom">
         <div class="button-parent">
           <button class="arrow" @click="prevHymn" role="link">«</button>
-          <button @click="$router.push('/')" role="link">⌂</button>
+          <button @click="goHome" role="link">⌂</button>
           <button class="arrow" @click="nextHymn" role="link">»</button>
         </div>
       </div>
